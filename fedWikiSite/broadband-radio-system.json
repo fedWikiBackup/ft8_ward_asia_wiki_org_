@@ -1,0 +1,155 @@
+{
+  "title": "Broadband Radio System",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9fd585f8c9cc2ede",
+      "text": "We're assembling a digital radio from large modules from open-source hardware and software. "
+    },
+    {
+      "type": "graphviz",
+      "id": "b74e05821b20cf54",
+      "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=lightblue]\n  Ant -> HL2  [label=Coax]\n  HL2-> SparkSDR [label=HPSDR1]\n  SparkSDR -> JT9 [label=WAV]\n  JT9 -> SparkSDR [label=text]\n}"
+    },
+    {
+      "type": "paragraph",
+      "id": "9eaee997dfe61439",
+      "text": "AD9866 RF front end (LNA + ADC & DAC) "
+    },
+    {
+      "type": "paragraph",
+      "id": "7642c6a1a7a6a8d9",
+      "text": "SparkSDR for mac. [https://groups.google.com/d/msg/sparksdr/D_2ao0yVxqc/TIfUMJZ6BQAJ download]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Broadband Radio System",
+        "story": []
+      },
+      "date": 1592010650921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fd585f8c9cc2ede"
+      },
+      "id": "9fd585f8c9cc2ede",
+      "type": "add",
+      "date": 1592010652555
+    },
+    {
+      "type": "edit",
+      "id": "9fd585f8c9cc2ede",
+      "item": {
+        "type": "paragraph",
+        "id": "9fd585f8c9cc2ede",
+        "text": "We're assembling a digital radio from large modules from open-source hardware and software. "
+      },
+      "date": 1592010750759
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b74e05821b20cf54"
+      },
+      "id": "b74e05821b20cf54",
+      "type": "add",
+      "after": "9fd585f8c9cc2ede",
+      "date": 1592010754126
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n x -> y\n}"
+      },
+      "date": 1592010780609
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=paleblue]\n  Ant -> HL2 -> SparkSDR -> JT9 -> Screen\n}"
+      },
+      "date": 1592011017996
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=lightblue]\n  Ant -> HL2 -> SparkSDR -> JT9 -> Screen\n}"
+      },
+      "date": 1592011062647
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=lightblue]\n  Ant -> HL2  [label=UDP]\n  HL2-> SparkSDR [label=HPSDR1]\n  SparkSDR -> JT9 [label=WAV]\n}"
+      },
+      "date": 1592011228332
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=lightblue]\n  Ant -> HL2  [label=Coax]\n  HL2-> SparkSDR [label=HPSDR1]\n  SparkSDR -> JT9 [label=WAV]\n}"
+      },
+      "date": 1592013256887
+    },
+    {
+      "type": "edit",
+      "id": "b74e05821b20cf54",
+      "item": {
+        "type": "graphviz",
+        "id": "b74e05821b20cf54",
+        "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=lightblue]\n  Ant -> HL2  [label=Coax]\n  HL2-> SparkSDR [label=HPSDR1]\n  SparkSDR -> JT9 [label=WAV]\n  JT9 -> SparkSDR [label=text]\n}"
+      },
+      "date": 1592017654978
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9eaee997dfe61439"
+      },
+      "id": "9eaee997dfe61439",
+      "type": "add",
+      "after": "b74e05821b20cf54",
+      "date": 1592145877460
+    },
+    {
+      "type": "edit",
+      "id": "9eaee997dfe61439",
+      "item": {
+        "type": "paragraph",
+        "id": "9eaee997dfe61439",
+        "text": "AD9866 RF front end (LNA + ADC & DAC) "
+      },
+      "date": 1592145910342
+    },
+    {
+      "type": "add",
+      "id": "7642c6a1a7a6a8d9",
+      "item": {
+        "type": "paragraph",
+        "id": "7642c6a1a7a6a8d9",
+        "text": "SparkSDR for mac. [https://groups.google.com/d/msg/sparksdr/D_2ao0yVxqc/TIfUMJZ6BQAJ download]"
+      },
+      "after": "9eaee997dfe61439",
+      "date": 1592150252073
+    }
+  ]
+}
