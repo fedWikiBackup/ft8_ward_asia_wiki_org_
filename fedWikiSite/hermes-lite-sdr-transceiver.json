@@ -1,0 +1,149 @@
+{
+  "title": "Hermes-Lite SDR Transceiver",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8234b26e3b5b0810",
+      "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [http://www.hermeslite.com/ site]  [https://github.com/softerhardware/Hermes-Lite2/wiki wiki] [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+    },
+    {
+      "type": "html",
+      "id": "e476dbe1ea74e9af",
+      "text": "<img width=100% src=https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG>"
+    },
+    {
+      "type": "video",
+      "id": "39cb87af467e215c",
+      "text": "YOUTUBE qlgq52IIUo8\nPublished May 6, 2019."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hermes-Lite SDR Transceiver",
+        "story": []
+      },
+      "date": 1591844956346
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8234b26e3b5b0810"
+      },
+      "id": "8234b26e3b5b0810",
+      "type": "add",
+      "date": 1591844987844
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project."
+      },
+      "date": 1591845014893
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post]"
+      },
+      "date": 1591845032907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e476dbe1ea74e9af"
+      },
+      "id": "e476dbe1ea74e9af",
+      "type": "add",
+      "after": "8234b26e3b5b0810",
+      "date": 1591845089434
+    },
+    {
+      "type": "edit",
+      "id": "e476dbe1ea74e9af",
+      "item": {
+        "type": "html",
+        "id": "e476dbe1ea74e9af",
+        "text": "<img width=100% src=https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG>"
+      },
+      "date": 1591845112775
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+      },
+      "date": 1591845136385
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post]"
+      },
+      "date": 1591845369265
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [http://www.hermeslite.com/ site]  [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+      },
+      "date": 1591845379613
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39cb87af467e215c"
+      },
+      "id": "39cb87af467e215c",
+      "type": "add",
+      "after": "e476dbe1ea74e9af",
+      "date": 1591845425498
+    },
+    {
+      "type": "edit",
+      "id": "39cb87af467e215c",
+      "item": {
+        "type": "video",
+        "id": "39cb87af467e215c",
+        "text": "YOUTUBE qlgq52IIUo8\n(double-click to edit caption)\n"
+      },
+      "date": 1591845435433
+    },
+    {
+      "type": "edit",
+      "id": "39cb87af467e215c",
+      "item": {
+        "type": "video",
+        "id": "39cb87af467e215c",
+        "text": "YOUTUBE qlgq52IIUo8\nPublished May 6, 2019."
+      },
+      "date": 1591845465072
+    },
+    {
+      "type": "edit",
+      "id": "8234b26e3b5b0810",
+      "item": {
+        "type": "paragraph",
+        "id": "8234b26e3b5b0810",
+        "text": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [http://www.hermeslite.com/ site]  [https://github.com/softerhardware/Hermes-Lite2/wiki wiki] [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+      },
+      "date": 1591845635454
+    }
+  ]
+}
