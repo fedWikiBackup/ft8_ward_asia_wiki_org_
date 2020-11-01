@@ -1,0 +1,75 @@
+{
+  "title": "Advanced D3 Technique",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f7dec3d011642996",
+      "text": "It has been a few years since cracking the code for d3 technique. It is coming back slowly. First, be sure anything you read online is for v5 which we have chosen to use. Then use each example as a guide through the docs before trying any part in code you want to work."
+    },
+    {
+      "type": "paragraph",
+      "id": "360da6c3950b0fad",
+      "text": "Updating without rebinding data. [https://stackoverflow.com/questions/39590283/d3-using-a-closure-to-update-a-selection-without-re-binding-data stackoverflow]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Advanced D3 Technique",
+        "story": []
+      },
+      "date": 1576938252434
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7dec3d011642996"
+      },
+      "id": "f7dec3d011642996",
+      "type": "add",
+      "date": 1576938254366
+    },
+    {
+      "type": "edit",
+      "id": "f7dec3d011642996",
+      "item": {
+        "type": "paragraph",
+        "id": "f7dec3d011642996",
+        "text": "It has been a few years since cracking the code for d3 technique. It is coming back slowly. First, be sure anything you read online is for v5 which we have chosen to use. Then use each example as a guide through the docs before trying any part in code you want to work."
+      },
+      "date": 1576938399206
+    },
+    {
+      "type": "add",
+      "id": "360da6c3950b0fad",
+      "item": {
+        "type": "paragraph",
+        "id": "360da6c3950b0fad",
+        "text": "Updating a selection without rebinding data. [https://stackoverflow.com/questions/39590283/d3-using-a-closure-to-update-a-selection-without-re-binding-data stackoverflow]"
+      },
+      "after": "f7dec3d011642996",
+      "date": 1576938471038
+    },
+    {
+      "type": "edit",
+      "id": "360da6c3950b0fad",
+      "item": {
+        "type": "paragraph",
+        "id": "360da6c3950b0fad",
+        "text": "Updating selection without rebinding data. [https://stackoverflow.com/questions/39590283/d3-using-a-closure-to-update-a-selection-without-re-binding-data stackoverflow]"
+      },
+      "date": 1576938479244
+    },
+    {
+      "type": "edit",
+      "id": "360da6c3950b0fad",
+      "item": {
+        "type": "paragraph",
+        "id": "360da6c3950b0fad",
+        "text": "Updating without rebinding data. [https://stackoverflow.com/questions/39590283/d3-using-a-closure-to-update-a-selection-without-re-binding-data stackoverflow]"
+      },
+      "date": 1576938489515
+    }
+  ]
+}
