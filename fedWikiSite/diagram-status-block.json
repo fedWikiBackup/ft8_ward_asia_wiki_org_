@@ -1,0 +1,206 @@
+{
+  "title": "Diagram Status Block",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b9c3fd8915a0083c",
+      "text": "We experiment here to decide how we might format status information in our social network diagrams."
+    },
+    {
+      "type": "graphviz",
+      "id": "41ff15744d92178b",
+      "text": "\nstrict digraph { rankdir=LR layout=neato\n\"first 75.139.193.15 212030 565 VA2MW KL7DG R-20\nmatch 75.139.193.15 214200 2520 K9IJ N3AIU R-08\nview 75.139.193.15 221315 2552 IU1HIE K0DEQ R-14\nlast 73.157.190.193 222015 878 IU0LFQ K0MHC R-12\" [shape=box]\nnode [style=filled fillcolor=gold]\n\nnode [fillcolor=palegreen]\nCT1ILT\nF4HSU\nF5LOW\nIK4LZH\nIK7WPG\nIU0LFQ\nIV3XNF\nIZ5UFW\nJA1IZ\nJA7FVA\nJA8BNP\nJG1LRE\nJM1XCW\nLU5HA\nLW6HAR\nOM3SEM\nPF7DKW\nPJ2LJG\nR2ARR\nSV2RQC\nUT9NA\nVE7JH\nVE7UHS\nVP9NM\nXQ1KZ\nYT3GTI\nnode [fillcolor=bisque]\nAF7EL -> PJ2LJG\nCT1ILT -> KD5QHV\nCT1ILT -> KG5WTU\nCT1ILT -> N4RRW\nCT1ILT -> W7IMP\nF5LOW -> K6SY\nJA1IZ -> KG7UL\nJA1IZ -> LW6HAR\nJA7FVA -> VE7JH\nJA8BNP -> KU7Z\nJM1XCW -> N3TBF\nK0DEQ -> A7YY\nK0GEO -> N7JB\nK0MHC -> IU0LFQ\nK5TDA -> K8SQB\nK6SY -> F5LOW\nKC5GOI -> K7ACT\nKD0A -> YT3GTI\nKD9KLQ -> K6XN\nKG5WTU -> CT1ILT\nKK9N -> OM3SEM\nLU5HA -> N9CQC\nN2VXZ -> KJ4GK\nN2VXZ -> UT9NA\nN3TBF -> JM1XCW\nN4RRW -> K8SQB\nN9CQC -> LU5HA\nNI5L -> IK7WPG\nNR0A -> R2ARR\nNT5V -> VP9NM\nPJ2LJG -> AF7EL\nVP9NM -> VE7UHS\nW0TLE -> F4HSU\nW0TLE -> IZ5UFW\nW4YHD -> SV2RQC\nW5DXP -> IK4LZH\nW5WUT -> N7JB\nW6RHB -> KU4VG\nWB4KTF -> PF7DKW\nWZ9Q -> OM3SEM\nXQ1KZ -> JG1LRE\nAF7EL [URL=\"https://duckduckgo.com/?q=AF7EL\"]\nCT1ILT [URL=\"https://duckduckgo.com/?q=CT1ILT\"]\nF4HSU [URL=\"https://duckduckgo.com/?q=F4HSU\"]\nF5LOW [URL=\"https://duckduckgo.com/?q=F5LOW\"]\nIK4LZH [URL=\"https://duckduckgo.com/?q=IK4LZH\"]\nIK7WPG [URL=\"https://duckduckgo.com/?q=IK7WPG\"]\nIU0LFQ [URL=\"https://duckduckgo.com/?q=IU0LFQ\"]\nIV3XNF [URL=\"https://duckduckgo.com/?q=IV3XNF\"]\nIZ5UFW [URL=\"https://duckduckgo.com/?q=IZ5UFW\"]\nJA1IZ [URL=\"https://duckduckgo.com/?q=JA1IZ\"]\nJA7FVA [URL=\"https://duckduckgo.com/?q=JA7FVA\"]\nJA8BNP [URL=\"https://duckduckgo.com/?q=JA8BNP\"]\nJG1LRE [URL=\"https://duckduckgo.com/?q=JG1LRE\"]\nJM1XCW [URL=\"https://duckduckgo.com/?q=JM1XCW\"]\nK0DEQ [URL=\"https://duckduckgo.com/?q=K0DEQ\"]\nK0GEO [URL=\"https://duckduckgo.com/?q=K0GEO\"]\nK0MHC [URL=\"https://duckduckgo.com/?q=K0MHC\"]\nK5TDA [URL=\"https://duckduckgo.com/?q=K5TDA\"]\nK6SY [URL=\"https://duckduckgo.com/?q=K6SY\"]\nK6XN [URL=\"https://duckduckgo.com/?q=K6XN\"]\nK7ACT [URL=\"https://duckduckgo.com/?q=K7ACT\"]\nK8SQB [URL=\"https://duckduckgo.com/?q=K8SQB\"]\nKC5GOI [URL=\"https://duckduckgo.com/?q=KC5GOI\"]\nKD0A [URL=\"https://duckduckgo.com/?q=KD0A\"]\nKD5QHV [URL=\"https://duckduckgo.com/?q=KD5QHV\"]\nKD9KLQ [URL=\"https://duckduckgo.com/?q=KD9KLQ\"]\nKG5WTU [URL=\"https://duckduckgo.com/?q=KG5WTU\"]\nKG7UL [URL=\"https://duckduckgo.com/?q=KG7UL\"]\nKJ4GK [URL=\"https://duckduckgo.com/?q=KJ4GK\"]\nKK9N [URL=\"https://duckduckgo.com/?q=KK9N\"]\nKU4VG [URL=\"https://duckduckgo.com/?q=KU4VG\"]\nKU7Z [URL=\"https://duckduckgo.com/?q=KU7Z\"]\nLU5HA [URL=\"https://duckduckgo.com/?q=LU5HA\"]\nLW6HAR [URL=\"https://duckduckgo.com/?q=LW6HAR\"]\nN2VXZ [URL=\"https://duckduckgo.com/?q=N2VXZ\"]\nN3TBF [URL=\"https://duckduckgo.com/?q=N3TBF\"]\nN4RRW [URL=\"https://duckduckgo.com/?q=N4RRW\"]\nN7JB [URL=\"https://duckduckgo.com/?q=N7JB\"]\nN9CQC [URL=\"https://duckduckgo.com/?q=N9CQC\"]\nNI5L [URL=\"https://duckduckgo.com/?q=NI5L\"]\nNR0A [URL=\"https://duckduckgo.com/?q=NR0A\"]\nNT5V [URL=\"https://duckduckgo.com/?q=NT5V\"]\nOM3SEM [URL=\"https://duckduckgo.com/?q=OM3SEM\"]\nPF7DKW [URL=\"https://duckduckgo.com/?q=PF7DKW\"]\nPJ2LJG [URL=\"https://duckduckgo.com/?q=PJ2LJG\"]\nR2ARR [URL=\"https://duckduckgo.com/?q=R2ARR\"]\nSV2RQC [URL=\"https://duckduckgo.com/?q=SV2RQC\"]\nUT9NA [URL=\"https://duckduckgo.com/?q=UT9NA\"]\nVE7JH [URL=\"https://duckduckgo.com/?q=VE7JH\"]\nVE7UHS [URL=\"https://duckduckgo.com/?q=VE7UHS\"]\nVP9NM [URL=\"https://duckduckgo.com/?q=VP9NM\"]\nW0TLE [URL=\"https://duckduckgo.com/?q=W0TLE\"]\nW4YHD [URL=\"https://duckduckgo.com/?q=W4YHD\"]\nW5DXP [URL=\"https://duckduckgo.com/?q=W5DXP\"]\nW5WUT [URL=\"https://duckduckgo.com/?q=W5WUT\"]\nW6RHB [URL=\"https://duckduckgo.com/?q=W6RHB\"]\nW7IMP [URL=\"https://duckduckgo.com/?q=W7IMP\"]\nWB4KTF [URL=\"https://duckduckgo.com/?q=WB4KTF\"]\nWD4LHT [URL=\"https://duckduckgo.com/?q=WD4LHT\"]\nWZ9Q [URL=\"https://duckduckgo.com/?q=WZ9Q\"]\nXQ1KZ [URL=\"https://duckduckgo.com/?q=XQ1KZ\"]\nYT3GTI [URL=\"https://duckduckgo.com/?q=YT3GTI\"]\n}\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f31dfff66d4eac9",
+      "text": "We try a smaller block."
+    },
+    {
+      "type": "graphviz",
+      "id": "da5087d902c06b4d",
+      "text": "strict digraph { rankdir=LR layout=neato\n\"12:30 Remain\n14:45 In View\" [shape=plain]\nnode [style=filled fillcolor=gold]\n\nnode [fillcolor=palegreen]\nCT1ILT\nF4HSU\nF5LOW\nIK4LZH\nIK7WPG\nIU0LFQ\nIV3XNF\nIZ5UFW\nJA1IZ\nJA7FVA\nJA8BNP\nJG1LRE\nJM1XCW\nLU5HA\nLW6HAR\nOM3SEM\nPF7DKW\nPJ2LJG\nR2ARR\nSV2RQC\nUT9NA\nVE7JH\nVE7UHS\nVP9NM\nXQ1KZ\nYT3GTI\nnode [fillcolor=bisque]\nAF7EL -> PJ2LJG\nCT1ILT -> KD5QHV\nCT1ILT -> KG5WTU\nCT1ILT -> N4RRW\nCT1ILT -> W7IMP\nF5LOW -> K6SY\nJA1IZ -> KG7UL\nJA1IZ -> LW6HAR\nJA7FVA -> VE7JH\nJA8BNP -> KU7Z\nJM1XCW -> N3TBF\nK0DEQ -> A7YY\nK0GEO -> N7JB\nK0MHC -> IU0LFQ\nK5TDA -> K8SQB\nK6SY -> F5LOW\nKC5GOI -> K7ACT\nKD0A -> YT3GTI\nKD9KLQ -> K6XN\nKG5WTU -> CT1ILT\nKK9N -> OM3SEM\nLU5HA -> N9CQC\nN2VXZ -> KJ4GK\nN2VXZ -> UT9NA\nN3TBF -> JM1XCW\nN4RRW -> K8SQB\nN9CQC -> LU5HA\nNI5L -> IK7WPG\nNR0A -> R2ARR\nNT5V -> VP9NM\nPJ2LJG -> AF7EL\nVP9NM -> VE7UHS\nW0TLE -> F4HSU\nW0TLE -> IZ5UFW\nW4YHD -> SV2RQC\nW5DXP -> IK4LZH\nW5WUT -> N7JB\nW6RHB -> KU4VG\nWB4KTF -> PF7DKW\nWZ9Q -> OM3SEM\nXQ1KZ -> JG1LRE\nAF7EL [URL=\"https://duckduckgo.com/?q=AF7EL\"]\nCT1ILT [URL=\"https://duckduckgo.com/?q=CT1ILT\"]\nF4HSU [URL=\"https://duckduckgo.com/?q=F4HSU\"]\nF5LOW [URL=\"https://duckduckgo.com/?q=F5LOW\"]\nIK4LZH [URL=\"https://duckduckgo.com/?q=IK4LZH\"]\nIK7WPG [URL=\"https://duckduckgo.com/?q=IK7WPG\"]\nIU0LFQ [URL=\"https://duckduckgo.com/?q=IU0LFQ\"]\nIV3XNF [URL=\"https://duckduckgo.com/?q=IV3XNF\"]\nIZ5UFW [URL=\"https://duckduckgo.com/?q=IZ5UFW\"]\nJA1IZ [URL=\"https://duckduckgo.com/?q=JA1IZ\"]\nJA7FVA [URL=\"https://duckduckgo.com/?q=JA7FVA\"]\nJA8BNP [URL=\"https://duckduckgo.com/?q=JA8BNP\"]\nJG1LRE [URL=\"https://duckduckgo.com/?q=JG1LRE\"]\nJM1XCW [URL=\"https://duckduckgo.com/?q=JM1XCW\"]\nK0DEQ [URL=\"https://duckduckgo.com/?q=K0DEQ\"]\nK0GEO [URL=\"https://duckduckgo.com/?q=K0GEO\"]\nK0MHC [URL=\"https://duckduckgo.com/?q=K0MHC\"]\nK5TDA [URL=\"https://duckduckgo.com/?q=K5TDA\"]\nK6SY [URL=\"https://duckduckgo.com/?q=K6SY\"]\nK6XN [URL=\"https://duckduckgo.com/?q=K6XN\"]\nK7ACT [URL=\"https://duckduckgo.com/?q=K7ACT\"]\nK8SQB [URL=\"https://duckduckgo.com/?q=K8SQB\"]\nKC5GOI [URL=\"https://duckduckgo.com/?q=KC5GOI\"]\nKD0A [URL=\"https://duckduckgo.com/?q=KD0A\"]\nKD5QHV [URL=\"https://duckduckgo.com/?q=KD5QHV\"]\nKD9KLQ [URL=\"https://duckduckgo.com/?q=KD9KLQ\"]\nKG5WTU [URL=\"https://duckduckgo.com/?q=KG5WTU\"]\nKG7UL [URL=\"https://duckduckgo.com/?q=KG7UL\"]\nKJ4GK [URL=\"https://duckduckgo.com/?q=KJ4GK\"]\nKK9N [URL=\"https://duckduckgo.com/?q=KK9N\"]\nKU4VG [URL=\"https://duckduckgo.com/?q=KU4VG\"]\nKU7Z [URL=\"https://duckduckgo.com/?q=KU7Z\"]\nLU5HA [URL=\"https://duckduckgo.com/?q=LU5HA\"]\nLW6HAR [URL=\"https://duckduckgo.com/?q=LW6HAR\"]\nN2VXZ [URL=\"https://duckduckgo.com/?q=N2VXZ\"]\nN3TBF [URL=\"https://duckduckgo.com/?q=N3TBF\"]\nN4RRW [URL=\"https://duckduckgo.com/?q=N4RRW\"]\nN7JB [URL=\"https://duckduckgo.com/?q=N7JB\"]\nN9CQC [URL=\"https://duckduckgo.com/?q=N9CQC\"]\nNI5L [URL=\"https://duckduckgo.com/?q=NI5L\"]\nNR0A [URL=\"https://duckduckgo.com/?q=NR0A\"]\nNT5V [URL=\"https://duckduckgo.com/?q=NT5V\"]\nOM3SEM [URL=\"https://duckduckgo.com/?q=OM3SEM\"]\nPF7DKW [URL=\"https://duckduckgo.com/?q=PF7DKW\"]\nPJ2LJG [URL=\"https://duckduckgo.com/?q=PJ2LJG\"]\nR2ARR [URL=\"https://duckduckgo.com/?q=R2ARR\"]\nSV2RQC [URL=\"https://duckduckgo.com/?q=SV2RQC\"]\nUT9NA [URL=\"https://duckduckgo.com/?q=UT9NA\"]\nVE7JH [URL=\"https://duckduckgo.com/?q=VE7JH\"]\nVE7UHS [URL=\"https://duckduckgo.com/?q=VE7UHS\"]\nVP9NM [URL=\"https://duckduckgo.com/?q=VP9NM\"]\nW0TLE [URL=\"https://duckduckgo.com/?q=W0TLE\"]\nW4YHD [URL=\"https://duckduckgo.com/?q=W4YHD\"]\nW5DXP [URL=\"https://duckduckgo.com/?q=W5DXP\"]\nW5WUT [URL=\"https://duckduckgo.com/?q=W5WUT\"]\nW6RHB [URL=\"https://duckduckgo.com/?q=W6RHB\"]\nW7IMP [URL=\"https://duckduckgo.com/?q=W7IMP\"]\nWB4KTF [URL=\"https://duckduckgo.com/?q=WB4KTF\"]\nWD4LHT [URL=\"https://duckduckgo.com/?q=WD4LHT\"]\nWZ9Q [URL=\"https://duckduckgo.com/?q=WZ9Q\"]\nXQ1KZ [URL=\"https://duckduckgo.com/?q=XQ1KZ\"]\nYT3GTI [URL=\"https://duckduckgo.com/?q=YT3GTI\"]\n}\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Diagram Status Block",
+        "story": []
+      },
+      "date": 1566771641923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b9c3fd8915a0083c"
+      },
+      "id": "b9c3fd8915a0083c",
+      "type": "add",
+      "date": 1566771644210
+    },
+    {
+      "type": "edit",
+      "id": "b9c3fd8915a0083c",
+      "item": {
+        "type": "paragraph",
+        "id": "b9c3fd8915a0083c",
+        "text": "We experiment here to decide how we might format status information in our social network diagrams."
+      },
+      "date": 1566771710919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41ff15744d92178b"
+      },
+      "id": "41ff15744d92178b",
+      "type": "add",
+      "after": "b9c3fd8915a0083c",
+      "date": 1566771714366
+    },
+    {
+      "type": "edit",
+      "id": "41ff15744d92178b",
+      "item": {
+        "type": "graphviz",
+        "id": "41ff15744d92178b",
+        "text": "digraph {\n\n}"
+      },
+      "date": 1566771764273
+    },
+    {
+      "type": "edit",
+      "id": "41ff15744d92178b",
+      "item": {
+        "type": "graphviz",
+        "id": "41ff15744d92178b",
+        "text": "digraph {\n  \"first 75.139.193.15 212030 565 VA2MW KL7DG R-20\nmatch 75.139.193.15 214200 2520 K9IJ N3AIU R-08\nview 75.139.193.15 221315 2552 IU1HIE K0DEQ R-14\nlast 73.157.190.193 222015 878 IU0LFQ K0MHC R-12\"\n}"
+      },
+      "date": 1566771784021
+    },
+    {
+      "type": "edit",
+      "id": "41ff15744d92178b",
+      "item": {
+        "type": "graphviz",
+        "id": "41ff15744d92178b",
+        "text": "digraph {\n  \"first 75.139.193.15 212030 565 VA2MW KL7DG R-20\nmatch 75.139.193.15 214200 2520 K9IJ N3AIU R-08\nview 75.139.193.15 221315 2552 IU1HIE K0DEQ R-14\nlast 73.157.190.193 222015 878 IU0LFQ K0MHC R-12\" [shape=box]\n}"
+      },
+      "date": 1566771827739
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da5087d902c06b4d"
+      },
+      "id": "da5087d902c06b4d",
+      "type": "add",
+      "after": "41ff15744d92178b",
+      "date": 1566771904211
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "digraph {\n  \"12 minutes remaining\n14 minutes remaining\" [shape=box]\n}"
+      },
+      "date": 1566771984228
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "digraph {\n  \"12:30 remaining\n14:45 in view\" [shape=box]\n}"
+      },
+      "date": 1566772070939
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "digraph {\n\"12:30 Remaining\n14:45 In View\" [shape=box]\n}"
+      },
+      "date": 1566772121418
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "digraph {\n\"12:30 Remaining\n14:45 In View\" [shape=plain]\n}"
+      },
+      "date": 1566772169982
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "digraph {\n\"12:30 Remain\n14:45 In View\" [shape=plain]\n}"
+      },
+      "date": 1566772209472
+    },
+    {
+      "type": "edit",
+      "id": "da5087d902c06b4d",
+      "item": {
+        "type": "graphviz",
+        "id": "da5087d902c06b4d",
+        "text": "strict digraph { rankdir=LR layout=neato\n\"12:30 Remain\n14:45 In View\" [shape=plain]\nnode [style=filled fillcolor=gold]\n\nnode [fillcolor=palegreen]\nCT1ILT\nF4HSU\nF5LOW\nIK4LZH\nIK7WPG\nIU0LFQ\nIV3XNF\nIZ5UFW\nJA1IZ\nJA7FVA\nJA8BNP\nJG1LRE\nJM1XCW\nLU5HA\nLW6HAR\nOM3SEM\nPF7DKW\nPJ2LJG\nR2ARR\nSV2RQC\nUT9NA\nVE7JH\nVE7UHS\nVP9NM\nXQ1KZ\nYT3GTI\nnode [fillcolor=bisque]\nAF7EL -> PJ2LJG\nCT1ILT -> KD5QHV\nCT1ILT -> KG5WTU\nCT1ILT -> N4RRW\nCT1ILT -> W7IMP\nF5LOW -> K6SY\nJA1IZ -> KG7UL\nJA1IZ -> LW6HAR\nJA7FVA -> VE7JH\nJA8BNP -> KU7Z\nJM1XCW -> N3TBF\nK0DEQ -> A7YY\nK0GEO -> N7JB\nK0MHC -> IU0LFQ\nK5TDA -> K8SQB\nK6SY -> F5LOW\nKC5GOI -> K7ACT\nKD0A -> YT3GTI\nKD9KLQ -> K6XN\nKG5WTU -> CT1ILT\nKK9N -> OM3SEM\nLU5HA -> N9CQC\nN2VXZ -> KJ4GK\nN2VXZ -> UT9NA\nN3TBF -> JM1XCW\nN4RRW -> K8SQB\nN9CQC -> LU5HA\nNI5L -> IK7WPG\nNR0A -> R2ARR\nNT5V -> VP9NM\nPJ2LJG -> AF7EL\nVP9NM -> VE7UHS\nW0TLE -> F4HSU\nW0TLE -> IZ5UFW\nW4YHD -> SV2RQC\nW5DXP -> IK4LZH\nW5WUT -> N7JB\nW6RHB -> KU4VG\nWB4KTF -> PF7DKW\nWZ9Q -> OM3SEM\nXQ1KZ -> JG1LRE\nAF7EL [URL=\"https://duckduckgo.com/?q=AF7EL\"]\nCT1ILT [URL=\"https://duckduckgo.com/?q=CT1ILT\"]\nF4HSU [URL=\"https://duckduckgo.com/?q=F4HSU\"]\nF5LOW [URL=\"https://duckduckgo.com/?q=F5LOW\"]\nIK4LZH [URL=\"https://duckduckgo.com/?q=IK4LZH\"]\nIK7WPG [URL=\"https://duckduckgo.com/?q=IK7WPG\"]\nIU0LFQ [URL=\"https://duckduckgo.com/?q=IU0LFQ\"]\nIV3XNF [URL=\"https://duckduckgo.com/?q=IV3XNF\"]\nIZ5UFW [URL=\"https://duckduckgo.com/?q=IZ5UFW\"]\nJA1IZ [URL=\"https://duckduckgo.com/?q=JA1IZ\"]\nJA7FVA [URL=\"https://duckduckgo.com/?q=JA7FVA\"]\nJA8BNP [URL=\"https://duckduckgo.com/?q=JA8BNP\"]\nJG1LRE [URL=\"https://duckduckgo.com/?q=JG1LRE\"]\nJM1XCW [URL=\"https://duckduckgo.com/?q=JM1XCW\"]\nK0DEQ [URL=\"https://duckduckgo.com/?q=K0DEQ\"]\nK0GEO [URL=\"https://duckduckgo.com/?q=K0GEO\"]\nK0MHC [URL=\"https://duckduckgo.com/?q=K0MHC\"]\nK5TDA [URL=\"https://duckduckgo.com/?q=K5TDA\"]\nK6SY [URL=\"https://duckduckgo.com/?q=K6SY\"]\nK6XN [URL=\"https://duckduckgo.com/?q=K6XN\"]\nK7ACT [URL=\"https://duckduckgo.com/?q=K7ACT\"]\nK8SQB [URL=\"https://duckduckgo.com/?q=K8SQB\"]\nKC5GOI [URL=\"https://duckduckgo.com/?q=KC5GOI\"]\nKD0A [URL=\"https://duckduckgo.com/?q=KD0A\"]\nKD5QHV [URL=\"https://duckduckgo.com/?q=KD5QHV\"]\nKD9KLQ [URL=\"https://duckduckgo.com/?q=KD9KLQ\"]\nKG5WTU [URL=\"https://duckduckgo.com/?q=KG5WTU\"]\nKG7UL [URL=\"https://duckduckgo.com/?q=KG7UL\"]\nKJ4GK [URL=\"https://duckduckgo.com/?q=KJ4GK\"]\nKK9N [URL=\"https://duckduckgo.com/?q=KK9N\"]\nKU4VG [URL=\"https://duckduckgo.com/?q=KU4VG\"]\nKU7Z [URL=\"https://duckduckgo.com/?q=KU7Z\"]\nLU5HA [URL=\"https://duckduckgo.com/?q=LU5HA\"]\nLW6HAR [URL=\"https://duckduckgo.com/?q=LW6HAR\"]\nN2VXZ [URL=\"https://duckduckgo.com/?q=N2VXZ\"]\nN3TBF [URL=\"https://duckduckgo.com/?q=N3TBF\"]\nN4RRW [URL=\"https://duckduckgo.com/?q=N4RRW\"]\nN7JB [URL=\"https://duckduckgo.com/?q=N7JB\"]\nN9CQC [URL=\"https://duckduckgo.com/?q=N9CQC\"]\nNI5L [URL=\"https://duckduckgo.com/?q=NI5L\"]\nNR0A [URL=\"https://duckduckgo.com/?q=NR0A\"]\nNT5V [URL=\"https://duckduckgo.com/?q=NT5V\"]\nOM3SEM [URL=\"https://duckduckgo.com/?q=OM3SEM\"]\nPF7DKW [URL=\"https://duckduckgo.com/?q=PF7DKW\"]\nPJ2LJG [URL=\"https://duckduckgo.com/?q=PJ2LJG\"]\nR2ARR [URL=\"https://duckduckgo.com/?q=R2ARR\"]\nSV2RQC [URL=\"https://duckduckgo.com/?q=SV2RQC\"]\nUT9NA [URL=\"https://duckduckgo.com/?q=UT9NA\"]\nVE7JH [URL=\"https://duckduckgo.com/?q=VE7JH\"]\nVE7UHS [URL=\"https://duckduckgo.com/?q=VE7UHS\"]\nVP9NM [URL=\"https://duckduckgo.com/?q=VP9NM\"]\nW0TLE [URL=\"https://duckduckgo.com/?q=W0TLE\"]\nW4YHD [URL=\"https://duckduckgo.com/?q=W4YHD\"]\nW5DXP [URL=\"https://duckduckgo.com/?q=W5DXP\"]\nW5WUT [URL=\"https://duckduckgo.com/?q=W5WUT\"]\nW6RHB [URL=\"https://duckduckgo.com/?q=W6RHB\"]\nW7IMP [URL=\"https://duckduckgo.com/?q=W7IMP\"]\nWB4KTF [URL=\"https://duckduckgo.com/?q=WB4KTF\"]\nWD4LHT [URL=\"https://duckduckgo.com/?q=WD4LHT\"]\nWZ9Q [URL=\"https://duckduckgo.com/?q=WZ9Q\"]\nXQ1KZ [URL=\"https://duckduckgo.com/?q=XQ1KZ\"]\nYT3GTI [URL=\"https://duckduckgo.com/?q=YT3GTI\"]\n}\n"
+      },
+      "date": 1566772302325
+    },
+    {
+      "type": "edit",
+      "id": "41ff15744d92178b",
+      "item": {
+        "type": "graphviz",
+        "id": "41ff15744d92178b",
+        "text": "digraph {\n\"first 75.139.193.15 212030 565 VA2MW KL7DG R-20\nmatch 75.139.193.15 214200 2520 K9IJ N3AIU R-08\nview 75.139.193.15 221315 2552 IU1HIE K0DEQ R-14\nlast 73.157.190.193 222015 878 IU0LFQ K0MHC R-12\" [shape=box]\n}"
+      },
+      "date": 1566772422441
+    },
+    {
+      "type": "edit",
+      "id": "41ff15744d92178b",
+      "item": {
+        "type": "graphviz",
+        "id": "41ff15744d92178b",
+        "text": "\nstrict digraph { rankdir=LR layout=neato\n\"first 75.139.193.15 212030 565 VA2MW KL7DG R-20\nmatch 75.139.193.15 214200 2520 K9IJ N3AIU R-08\nview 75.139.193.15 221315 2552 IU1HIE K0DEQ R-14\nlast 73.157.190.193 222015 878 IU0LFQ K0MHC R-12\" [shape=box]\nnode [style=filled fillcolor=gold]\n\nnode [fillcolor=palegreen]\nCT1ILT\nF4HSU\nF5LOW\nIK4LZH\nIK7WPG\nIU0LFQ\nIV3XNF\nIZ5UFW\nJA1IZ\nJA7FVA\nJA8BNP\nJG1LRE\nJM1XCW\nLU5HA\nLW6HAR\nOM3SEM\nPF7DKW\nPJ2LJG\nR2ARR\nSV2RQC\nUT9NA\nVE7JH\nVE7UHS\nVP9NM\nXQ1KZ\nYT3GTI\nnode [fillcolor=bisque]\nAF7EL -> PJ2LJG\nCT1ILT -> KD5QHV\nCT1ILT -> KG5WTU\nCT1ILT -> N4RRW\nCT1ILT -> W7IMP\nF5LOW -> K6SY\nJA1IZ -> KG7UL\nJA1IZ -> LW6HAR\nJA7FVA -> VE7JH\nJA8BNP -> KU7Z\nJM1XCW -> N3TBF\nK0DEQ -> A7YY\nK0GEO -> N7JB\nK0MHC -> IU0LFQ\nK5TDA -> K8SQB\nK6SY -> F5LOW\nKC5GOI -> K7ACT\nKD0A -> YT3GTI\nKD9KLQ -> K6XN\nKG5WTU -> CT1ILT\nKK9N -> OM3SEM\nLU5HA -> N9CQC\nN2VXZ -> KJ4GK\nN2VXZ -> UT9NA\nN3TBF -> JM1XCW\nN4RRW -> K8SQB\nN9CQC -> LU5HA\nNI5L -> IK7WPG\nNR0A -> R2ARR\nNT5V -> VP9NM\nPJ2LJG -> AF7EL\nVP9NM -> VE7UHS\nW0TLE -> F4HSU\nW0TLE -> IZ5UFW\nW4YHD -> SV2RQC\nW5DXP -> IK4LZH\nW5WUT -> N7JB\nW6RHB -> KU4VG\nWB4KTF -> PF7DKW\nWZ9Q -> OM3SEM\nXQ1KZ -> JG1LRE\nAF7EL [URL=\"https://duckduckgo.com/?q=AF7EL\"]\nCT1ILT [URL=\"https://duckduckgo.com/?q=CT1ILT\"]\nF4HSU [URL=\"https://duckduckgo.com/?q=F4HSU\"]\nF5LOW [URL=\"https://duckduckgo.com/?q=F5LOW\"]\nIK4LZH [URL=\"https://duckduckgo.com/?q=IK4LZH\"]\nIK7WPG [URL=\"https://duckduckgo.com/?q=IK7WPG\"]\nIU0LFQ [URL=\"https://duckduckgo.com/?q=IU0LFQ\"]\nIV3XNF [URL=\"https://duckduckgo.com/?q=IV3XNF\"]\nIZ5UFW [URL=\"https://duckduckgo.com/?q=IZ5UFW\"]\nJA1IZ [URL=\"https://duckduckgo.com/?q=JA1IZ\"]\nJA7FVA [URL=\"https://duckduckgo.com/?q=JA7FVA\"]\nJA8BNP [URL=\"https://duckduckgo.com/?q=JA8BNP\"]\nJG1LRE [URL=\"https://duckduckgo.com/?q=JG1LRE\"]\nJM1XCW [URL=\"https://duckduckgo.com/?q=JM1XCW\"]\nK0DEQ [URL=\"https://duckduckgo.com/?q=K0DEQ\"]\nK0GEO [URL=\"https://duckduckgo.com/?q=K0GEO\"]\nK0MHC [URL=\"https://duckduckgo.com/?q=K0MHC\"]\nK5TDA [URL=\"https://duckduckgo.com/?q=K5TDA\"]\nK6SY [URL=\"https://duckduckgo.com/?q=K6SY\"]\nK6XN [URL=\"https://duckduckgo.com/?q=K6XN\"]\nK7ACT [URL=\"https://duckduckgo.com/?q=K7ACT\"]\nK8SQB [URL=\"https://duckduckgo.com/?q=K8SQB\"]\nKC5GOI [URL=\"https://duckduckgo.com/?q=KC5GOI\"]\nKD0A [URL=\"https://duckduckgo.com/?q=KD0A\"]\nKD5QHV [URL=\"https://duckduckgo.com/?q=KD5QHV\"]\nKD9KLQ [URL=\"https://duckduckgo.com/?q=KD9KLQ\"]\nKG5WTU [URL=\"https://duckduckgo.com/?q=KG5WTU\"]\nKG7UL [URL=\"https://duckduckgo.com/?q=KG7UL\"]\nKJ4GK [URL=\"https://duckduckgo.com/?q=KJ4GK\"]\nKK9N [URL=\"https://duckduckgo.com/?q=KK9N\"]\nKU4VG [URL=\"https://duckduckgo.com/?q=KU4VG\"]\nKU7Z [URL=\"https://duckduckgo.com/?q=KU7Z\"]\nLU5HA [URL=\"https://duckduckgo.com/?q=LU5HA\"]\nLW6HAR [URL=\"https://duckduckgo.com/?q=LW6HAR\"]\nN2VXZ [URL=\"https://duckduckgo.com/?q=N2VXZ\"]\nN3TBF [URL=\"https://duckduckgo.com/?q=N3TBF\"]\nN4RRW [URL=\"https://duckduckgo.com/?q=N4RRW\"]\nN7JB [URL=\"https://duckduckgo.com/?q=N7JB\"]\nN9CQC [URL=\"https://duckduckgo.com/?q=N9CQC\"]\nNI5L [URL=\"https://duckduckgo.com/?q=NI5L\"]\nNR0A [URL=\"https://duckduckgo.com/?q=NR0A\"]\nNT5V [URL=\"https://duckduckgo.com/?q=NT5V\"]\nOM3SEM [URL=\"https://duckduckgo.com/?q=OM3SEM\"]\nPF7DKW [URL=\"https://duckduckgo.com/?q=PF7DKW\"]\nPJ2LJG [URL=\"https://duckduckgo.com/?q=PJ2LJG\"]\nR2ARR [URL=\"https://duckduckgo.com/?q=R2ARR\"]\nSV2RQC [URL=\"https://duckduckgo.com/?q=SV2RQC\"]\nUT9NA [URL=\"https://duckduckgo.com/?q=UT9NA\"]\nVE7JH [URL=\"https://duckduckgo.com/?q=VE7JH\"]\nVE7UHS [URL=\"https://duckduckgo.com/?q=VE7UHS\"]\nVP9NM [URL=\"https://duckduckgo.com/?q=VP9NM\"]\nW0TLE [URL=\"https://duckduckgo.com/?q=W0TLE\"]\nW4YHD [URL=\"https://duckduckgo.com/?q=W4YHD\"]\nW5DXP [URL=\"https://duckduckgo.com/?q=W5DXP\"]\nW5WUT [URL=\"https://duckduckgo.com/?q=W5WUT\"]\nW6RHB [URL=\"https://duckduckgo.com/?q=W6RHB\"]\nW7IMP [URL=\"https://duckduckgo.com/?q=W7IMP\"]\nWB4KTF [URL=\"https://duckduckgo.com/?q=WB4KTF\"]\nWD4LHT [URL=\"https://duckduckgo.com/?q=WD4LHT\"]\nWZ9Q [URL=\"https://duckduckgo.com/?q=WZ9Q\"]\nXQ1KZ [URL=\"https://duckduckgo.com/?q=XQ1KZ\"]\nYT3GTI [URL=\"https://duckduckgo.com/?q=YT3GTI\"]\n}\n"
+      },
+      "date": 1566772473755
+    },
+    {
+      "type": "add",
+      "id": "7f31dfff66d4eac9",
+      "item": {
+        "type": "paragraph",
+        "id": "7f31dfff66d4eac9",
+        "text": "We try a smaller block."
+      },
+      "after": "b9c3fd8915a0083c",
+      "date": 1566772557529
+    },
+    {
+      "type": "move",
+      "order": [
+        "b9c3fd8915a0083c",
+        "41ff15744d92178b",
+        "7f31dfff66d4eac9",
+        "da5087d902c06b4d"
+      ],
+      "id": "7f31dfff66d4eac9",
+      "date": 1566772561336
+    }
+  ]
+}
