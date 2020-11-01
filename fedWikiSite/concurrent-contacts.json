@@ -1,0 +1,207 @@
+{
+  "title": "Concurrent Contacts",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "72ee1640774db572",
+      "text": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b15c0b0b7df1b24d",
+      "text": "I was impressed to observe one station completing contacts at the rate of one per minute. Time limited contests favor such efficiency. But the DXpedition, traveling to a remote location to put a new \"country\" on the air, demands even more efficiency."
+    },
+    {
+      "type": "paragraph",
+      "id": "3ce7c37742eb0d8b",
+      "text": "See [[K2GT Efficient Operation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c057f3788a1a2b94",
+      "text": "See [[A35JT Tonga Expedition]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0323e56a5e8d7f05",
+      "text": "In WFJT-X FT8 DXpedition mode contacts between the remote “Fox” and calling stations, the “Hounds”, can be completed with as little as one Fox transmission. Moreover,\nauthorized Foxes can transmit up to five signals simultaneously, thereby allowing contact\nrates up to about 500 per hour in ideal conditions. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a624b6cf0996af18",
+      "text": "WSJT-X maintains several queues in a manner that allows difficult QSOs to be\ncompleted while keeping the overall QSO rate high. We use a “3 strikes and you’re\nout” rule. Fox will call a specific Hound up to 3 times, waiting for an “R+rpt”\nresponse. If a Hound repeatedly sends an “R+rpt” message, Fox will send RR73 up\nto 3 times. Finally, the total timespan of an attempted QSO is limited to 3 minutes.\nWhen any of these timeouts is exceeded, the QSO is aborted."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Concurrent Contacts",
+        "story": []
+      },
+      "date": 1564921036081
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b15c0b0b7df1b24d"
+      },
+      "id": "b15c0b0b7df1b24d",
+      "type": "add",
+      "date": 1564921056440
+    },
+    {
+      "type": "edit",
+      "id": "b15c0b0b7df1b24d",
+      "item": {
+        "type": "paragraph",
+        "id": "b15c0b0b7df1b24d",
+        "text": "I was impressed to observe one station completing contacts at the rate of one per minute. Time limited contests favor such efficiency. But the DXpedition, traveling to a remote location to put a new \"country\" on the air, demands even more efficiency which can be delivered using the exceptional spectral and temporal control offered by digital radio. "
+      },
+      "date": 1564921335374
+    },
+    {
+      "type": "add",
+      "id": "3ce7c37742eb0d8b",
+      "item": {
+        "type": "paragraph",
+        "id": "3ce7c37742eb0d8b",
+        "text": "See [[K2GT Efficient Operation]]"
+      },
+      "after": "b15c0b0b7df1b24d",
+      "date": 1564921438696
+    },
+    {
+      "type": "edit",
+      "id": "b15c0b0b7df1b24d",
+      "item": {
+        "type": "paragraph",
+        "id": "b15c0b0b7df1b24d",
+        "text": "I was impressed to observe one station completing contacts at the rate of one per minute. Time limited contests favor such efficiency. But the DXpedition, traveling to a remote location to put a new \"country\" on the air, demands even more efficiency."
+      },
+      "date": 1564923234531
+    },
+    {
+      "type": "add",
+      "id": "72ee1640774db572",
+      "item": {
+        "type": "paragraph",
+        "id": "72ee1640774db572",
+        "text": "Contact rates as high as 500 per hour achieved using the exceptional spectral and temporal control offered by digital radio. "
+      },
+      "after": "b15c0b0b7df1b24d",
+      "date": 1564923358362
+    },
+    {
+      "type": "move",
+      "order": [
+        "72ee1640774db572",
+        "b15c0b0b7df1b24d",
+        "3ce7c37742eb0d8b"
+      ],
+      "id": "72ee1640774db572",
+      "date": 1564923361968
+    },
+    {
+      "type": "add",
+      "id": "0323e56a5e8d7f05",
+      "item": {
+        "type": "paragraph",
+        "id": "0323e56a5e8d7f05",
+        "text": "In WFJT-X FT8 DXpedition mode contacts between the remote “Fox” and calling stations, the “Hounds”, can be completed with as little as one Fox transmission. Moreover,\nauthorized Foxes can transmit up to five signals simultaneously, thereby allowing contact\nrates up to about 500 per hour in ideal conditions."
+      },
+      "after": "3ce7c37742eb0d8b",
+      "date": 1564923581836
+    },
+    {
+      "type": "edit",
+      "id": "0323e56a5e8d7f05",
+      "item": {
+        "type": "paragraph",
+        "id": "0323e56a5e8d7f05",
+        "text": "In WFJT-X FT8 DXpedition mode contacts between the remote “Fox” and calling stations, the “Hounds”, can be completed with as little as one Fox transmission. Moreover,\nauthorized Foxes can transmit up to five signals simultaneously, thereby allowing contact\nrates up to about 500 per hour in ideal conditions. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
+      },
+      "date": 1564923608929
+    },
+    {
+      "type": "add",
+      "id": "a624b6cf0996af18",
+      "item": {
+        "type": "paragraph",
+        "id": "a624b6cf0996af18",
+        "text": ".WSJT-X maintains several queues in a manner that allows difficult QSOs to be\ncompleted while keeping the overall QSO rate high. We use a “3 strikes and you’re\nout” rule. Fox will call a specific Hound up to 3 times, waiting for an “R+rpt”\nresponse. If a Hound repeatedly sends an “R+rpt” message, Fox will send RR73 up\nto 3 times. Finally, the total timespan of an attempted QSO is limited to 3 minutes.\nWhen any of these timeouts is exceeded, the QSO is aborted."
+      },
+      "after": "0323e56a5e8d7f05",
+      "date": 1564923804042
+    },
+    {
+      "type": "edit",
+      "id": "a624b6cf0996af18",
+      "item": {
+        "type": "paragraph",
+        "id": "a624b6cf0996af18",
+        "text": "WSJT-X maintains several queues in a manner that allows difficult QSOs to be\ncompleted while keeping the overall QSO rate high. We use a “3 strikes and you’re\nout” rule. Fox will call a specific Hound up to 3 times, waiting for an “R+rpt”\nresponse. If a Hound repeatedly sends an “R+rpt” message, Fox will send RR73 up\nto 3 times. Finally, the total timespan of an attempted QSO is limited to 3 minutes.\nWhen any of these timeouts is exceeded, the QSO is aborted."
+      },
+      "date": 1564923820550
+    },
+    {
+      "type": "edit",
+      "id": "72ee1640774db572",
+      "item": {
+        "type": "paragraph",
+        "id": "72ee1640774db572",
+        "text": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. "
+      },
+      "date": 1564923873026
+    },
+    {
+      "type": "edit",
+      "id": "0323e56a5e8d7f05",
+      "item": {
+        "type": "paragraph",
+        "id": "0323e56a5e8d7f05",
+        "text": "In WFJT-X FT8 DXpedition mode contacts between the remote “Fox” and calling stations, the “Hounds”, can be completed with as little as one Fox transmission. Moreover,\nauthorized Foxes can transmit up to five signals simultaneously, thereby allowing contact\nrates up to about 500 per hour in ideal conditions. "
+      },
+      "date": 1565128768260,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1565128779349
+    },
+    {
+      "type": "edit",
+      "id": "72ee1640774db572",
+      "item": {
+        "type": "paragraph",
+        "id": "72ee1640774db572",
+        "text": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
+      },
+      "date": 1565128792714
+    },
+    {
+      "type": "add",
+      "id": "c057f3788a1a2b94",
+      "item": {
+        "type": "paragraph",
+        "id": "c057f3788a1a2b94",
+        "text": "See [[A35JT]] Tonga Expedition"
+      },
+      "after": "3ce7c37742eb0d8b",
+      "date": 1569784090313
+    },
+    {
+      "type": "edit",
+      "id": "c057f3788a1a2b94",
+      "item": {
+        "type": "paragraph",
+        "id": "c057f3788a1a2b94",
+        "text": "See [[A35JT Tonga Expedition]]"
+      },
+      "date": 1569784100460
+    }
+  ]
+}

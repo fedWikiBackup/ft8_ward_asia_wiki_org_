@@ -1,0 +1,815 @@
+{
+  "title": "Transmission Sequences",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c8b5f022aeb0f3bc",
+      "text": "We examine the usual exchange of information and variations that might be interesting in decode datasets. "
+    },
+    {
+      "type": "paragraph",
+      "id": "275cf3588e3127aa",
+      "text": "Station AAA makes a general call and BBB, CCC and DDD take turns exchanging information."
+    },
+    {
+      "type": "paragraph",
+      "id": "fc3fa5ef6b6f43f5",
+      "text": "Notice that the shaded transmissions represent the two-way exchange of signal reports and their confirmation."
+    },
+    {
+      "type": "html",
+      "id": "05b650dc9ca2635b",
+      "text": "<center><table width=80% border=1 cellpadding=6 style=\"border-collapse: collapse;\">\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n</table>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9a76ea6c618df892",
+      "text": "CQ for calling anyone, might be qualified with further abbr."
+    },
+    {
+      "type": "paragraph",
+      "id": "2785c73678b812df",
+      "text": "GEO for geocode, letter, letter, digit, digit. I'm CN85."
+    },
+    {
+      "type": "paragraph",
+      "id": "b56f702bfb66ba17",
+      "text": "SIG for signal report, + or - db above or below the noise."
+    },
+    {
+      "type": "paragraph",
+      "id": "fe4cbca04341878f",
+      "text": "R for received, acknowledging reception of signal report."
+    },
+    {
+      "type": "paragraph",
+      "id": "3dc9bf23502aaf70",
+      "text": "73 for best regards, thanks and good by."
+    },
+    {
+      "type": "paragraph",
+      "id": "bd8193eed1e4fae7",
+      "text": "More efficient exchanges take place during contests such as field day (FD) when AAA's GEO is well known and the friendly 73 omitted. Total duration of contact is 60 seconds."
+    },
+    {
+      "type": "html",
+      "id": "dd6ab6266e0cc0a9",
+      "text": "<center><table width=80% border=1 cellpadding=6 style=\"border-collapse: collapse;\">\n<tr> <td> CQ FD AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c572fe0bd18f5da",
+      "text": "By longstanding tradition, a minimally valid QSO requires the exchange of callsigns, a signal report or some other information, and acknowledgments. WSJT-X is designed to facilitate making such minimal QSOs using short, structured messages. The process works best if you use these formats and follow standard operating practices. "
+    },
+    {
+      "type": "paragraph",
+      "id": "875a9374e2ce41a6",
+      "text": "See WSJT-X 2.0 User Guide, Section 7.1, Standard Exchanges. [http://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.0.html#_standard_exchange site]"
+    },
+    {
+      "type": "reference",
+      "id": "1b6449882520abc0",
+      "site": "ward.asia.wiki.org",
+      "slug": "collect-ft8-decodes",
+      "title": "Collect FT8 Decodes",
+      "text": "We collect FT8 payloads decoded by WSJT-X via UDP during daylight hours."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Transmission Sequences",
+        "story": []
+      },
+      "date": 1582757136907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c8b5f022aeb0f3bc"
+      },
+      "id": "c8b5f022aeb0f3bc",
+      "type": "add",
+      "date": 1582757138498
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting to look for in decode datasets."
+      },
+      "date": 1582757182352
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05b650dc9ca2635b"
+      },
+      "id": "05b650dc9ca2635b",
+      "type": "add",
+      "after": "c8b5f022aeb0f3bc",
+      "date": 1582757183915
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n</table>"
+      },
+      "date": 1582757291143
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table>\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n</table>"
+      },
+      "date": 1582757318044
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A data\n\n</table>"
+      },
+      "date": 1582757326441
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> CQ DX from-B geo\n<td>\n\n<tr>\n<td>\n<td> to-B from-A geo\n\n<tr>\n<td> to-A from-B db\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R db\n\n\n<tr>\n<td> to-A from-B data\n<td>\n\n<tr>\n<td>\n<td> to-B from-A RR 73\n\n<tr>\n<td> to-A from-B 73\n<td>\n\n\n\n</table>"
+      },
+      "date": 1582757470638
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> CQ DX from-B geo\n<td>\n\n<tr>\n<td>\n<td> to-B from-A geo\n\n<tr>\n<td> to-A from-B db\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R db\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A RR 73\n\n<tr>\n<td> to-A from-B 73\n<td>\n\n\n\n</table>"
+      },
+      "date": 1582757558970
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> CQ DX from-B geo\n<td>\n\n<tr>\n<td>\n<td> to-B from-A geo\n\n<tr>\n<td> to-A from-B db\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R db\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582757585344
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> CQ DX from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582757655865
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<table>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582757681203
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a76ea6c618df892"
+      },
+      "id": "9a76ea6c618df892",
+      "type": "add",
+      "after": "05b650dc9ca2635b",
+      "date": 1582757728759
+    },
+    {
+      "type": "edit",
+      "id": "9a76ea6c618df892",
+      "item": {
+        "type": "paragraph",
+        "id": "9a76ea6c618df892",
+        "text": "CQ for calling anyone, might be qualified with region or contest."
+      },
+      "date": 1582757786099
+    },
+    {
+      "type": "edit",
+      "id": "9a76ea6c618df892",
+      "item": {
+        "type": "paragraph",
+        "id": "9a76ea6c618df892",
+        "text": "CQ for calling anyone, might be qualified with further abbr."
+      },
+      "date": 1582757813682
+    },
+    {
+      "type": "add",
+      "id": "2785c73678b812df",
+      "item": {
+        "type": "paragraph",
+        "id": "2785c73678b812df",
+        "text": "GEO for geocode, letter, letter, digit, digit. I'm CN85."
+      },
+      "after": "9a76ea6c618df892",
+      "date": 1582757910412
+    },
+    {
+      "type": "add",
+      "id": "b56f702bfb66ba17",
+      "item": {
+        "type": "paragraph",
+        "id": "b56f702bfb66ba17",
+        "text": "SIG for signal report, + or - db above or below the noise."
+      },
+      "after": "2785c73678b812df",
+      "date": 1582757949898
+    },
+    {
+      "type": "add",
+      "id": "fe4cbca04341878f",
+      "item": {
+        "type": "paragraph",
+        "id": "fe4cbca04341878f",
+        "text": "R for received, acknowledging reception of signal report."
+      },
+      "after": "b56f702bfb66ba17",
+      "date": 1582757991007
+    },
+    {
+      "type": "add",
+      "id": "3dc9bf23502aaf70",
+      "item": {
+        "type": "paragraph",
+        "id": "3dc9bf23502aaf70",
+        "text": "73 for best regards, thanks and good by."
+      },
+      "after": "fe4cbca04341878f",
+      "date": 1582758024301
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80%>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758051467
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758064057
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758089268
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td color=gray> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758900632
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td bgcolor=gray> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758910008
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td bgcolor=#ddd> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td> to-B from-A R SIG\n\n\n<tr>\n<td> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758928484
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr>\n<td> CQ  from-B GEO\n<td>\n\n<tr>\n<td>\n<td> to-B from-A GEO\n\n<tr>\n<td bgcolor=#ddd> to-A from-B SIG\n<td>\n\n<tr>\n<td>\n<td bgcolor=#ddd> to-B from-A R SIG\n\n\n<tr>\n<td bgcolor=#ddd> to-A from-B RR 73\n<td>\n\n<tr>\n<td>\n<td> to-B from-A 73\n\n</table>"
+      },
+      "date": 1582758958736
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting to look for in decode datasets. Notice that the shaded transmissions that represent the two-way exchange of information and its confirmation."
+      },
+      "date": 1582759040303
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting to look for in decode datasets. "
+      },
+      "date": 1582759050485
+    },
+    {
+      "type": "add",
+      "id": "fc3fa5ef6b6f43f5",
+      "item": {
+        "type": "paragraph",
+        "id": "fc3fa5ef6b6f43f5",
+        "text": "Notice that the shaded transmissions that represent the two-way exchange of information and its confirmation."
+      },
+      "after": "c8b5f022aeb0f3bc",
+      "date": 1582759051120
+    },
+    {
+      "id": "fc3fa5ef6b6f43f5",
+      "type": "move",
+      "order": [
+        "c8b5f022aeb0f3bc",
+        "05b650dc9ca2635b",
+        "fc3fa5ef6b6f43f5",
+        "9a76ea6c618df892",
+        "2785c73678b812df",
+        "b56f702bfb66ba17",
+        "fe4cbca04341878f",
+        "3dc9bf23502aaf70"
+      ],
+      "date": 1582759054491
+    },
+    {
+      "id": "fc3fa5ef6b6f43f5",
+      "type": "move",
+      "order": [
+        "c8b5f022aeb0f3bc",
+        "05b650dc9ca2635b",
+        "9a76ea6c618df892",
+        "2785c73678b812df",
+        "b56f702bfb66ba17",
+        "fe4cbca04341878f",
+        "3dc9bf23502aaf70",
+        "fc3fa5ef6b6f43f5"
+      ],
+      "date": 1582759061475
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ from-B GEO <td>\n<tr> <td> <td> to-B from-A GEO\n<tr> <td bgcolor=#ddd> to-A from-B SIG <td>\n<tr> <td><td bgcolor=#ddd> to-B from-A R SIG\n<tr> <td bgcolor=#ddd> to-A from-B RR 73 <td>\n<tr> <td> <td> to-B from-A 73\n</table>"
+      },
+      "date": 1582759342624
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n</table>"
+      },
+      "date": 1582759504553
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb98205d0dbeba52"
+      },
+      "id": "eb98205d0dbeba52",
+      "type": "add",
+      "after": "fc3fa5ef6b6f43f5",
+      "date": 1582759745536
+    },
+    {
+      "type": "remove",
+      "id": "eb98205d0dbeba52",
+      "date": 1582759769682
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd6ab6266e0cc0a9"
+      },
+      "id": "dd6ab6266e0cc0a9",
+      "type": "add",
+      "after": "fc3fa5ef6b6f43f5",
+      "date": 1582759772699
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA CCC SIG\n\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RR 73 <td>\n<tr> <td> <td> AAA DDD SIG\n</table>"
+      },
+      "date": 1582759776792
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA CCC SIG\n\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RR 73 <td>\n<tr> <td> <td> AAA DDD SIG\n</table>"
+      },
+      "date": 1582759893324
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td bgcolor=#ddd> <td> AAA CCC SIG\n<tr> <td bgcolor=#ddd> CCC AAA R SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC RR SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD SIG\n</table>"
+      },
+      "date": 1582760117461
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC SIG\n<tr> <td bgcolor=#ddd> CCC AAA R SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC RR SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD SIG\n</table>"
+      },
+      "date": 1582760152222
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC SIG\n<tr> <td bgcolor=#ddd> CCC AAA R SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R 73\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD SIG\n</table>"
+      },
+      "date": 1582760263766
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+      },
+      "date": 1582760361281
+    },
+    {
+      "id": "fc3fa5ef6b6f43f5",
+      "type": "move",
+      "order": [
+        "c8b5f022aeb0f3bc",
+        "fc3fa5ef6b6f43f5",
+        "05b650dc9ca2635b",
+        "9a76ea6c618df892",
+        "2785c73678b812df",
+        "b56f702bfb66ba17",
+        "fe4cbca04341878f",
+        "3dc9bf23502aaf70",
+        "dd6ab6266e0cc0a9"
+      ],
+      "date": 1582760381281
+    },
+    {
+      "type": "add",
+      "id": "bd8193eed1e4fae7",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8193eed1e4fae7",
+        "text": "More efficient exchanges take place when AAA's GEO is already known and the friendly 73 omitted. Total duration of contact is 60 seconds."
+      },
+      "after": "3dc9bf23502aaf70",
+      "date": 1582760688353
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting to look for in decode datasets. Station AAA makes a general call and BBB, CCC and DDD take turns exchanging information."
+      },
+      "date": 1582760735961
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4>\n<tr> <td> CQ FD AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+      },
+      "date": 1582760784976
+    },
+    {
+      "type": "edit",
+      "id": "bd8193eed1e4fae7",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8193eed1e4fae7",
+        "text": "More efficient exchanges take place during contests such as field day (FD) when AAA's GEO is already known and the friendly 73 omitted. Total duration of contact is 60 seconds."
+      },
+      "date": 1582760838465
+    },
+    {
+      "type": "edit",
+      "id": "bd8193eed1e4fae7",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8193eed1e4fae7",
+        "text": "More efficient exchanges take place during contests such as field day (FD) when AAA's GEO is well known and the friendly 73 omitted. Total duration of contact is 60 seconds."
+      },
+      "date": 1582761029027
+    },
+    {
+      "type": "fork",
+      "date": 1582761346439
+    },
+    {
+      "type": "edit",
+      "id": "fc3fa5ef6b6f43f5",
+      "item": {
+        "type": "paragraph",
+        "id": "fc3fa5ef6b6f43f5",
+        "text": "Notice that the shaded transmissions represent the two-way exchange of signal reports and their confirmation."
+      },
+      "date": 1582761430534
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c572fe0bd18f5da"
+      },
+      "id": "3c572fe0bd18f5da",
+      "type": "add",
+      "after": "dd6ab6266e0cc0a9",
+      "date": 1582762439841
+    },
+    {
+      "type": "edit",
+      "id": "3c572fe0bd18f5da",
+      "item": {
+        "type": "paragraph",
+        "id": "3c572fe0bd18f5da",
+        "text": "See WSJT-X 2.0 User Guide, Section 7.1, Standard Exchanges."
+      },
+      "date": 1582762471217
+    },
+    {
+      "type": "edit",
+      "id": "3c572fe0bd18f5da",
+      "item": {
+        "type": "paragraph",
+        "id": "3c572fe0bd18f5da",
+        "text": "See WSJT-X 2.0 User Guide, Section 7.1, Standard Exchanges. [http://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.0.html#_standard_exchange page]"
+      },
+      "date": 1582762571170
+    },
+    {
+      "type": "edit",
+      "id": "3c572fe0bd18f5da",
+      "item": {
+        "type": "paragraph",
+        "id": "3c572fe0bd18f5da",
+        "text": "By longstanding tradition, a minimally valid QSO requires the exchange of callsigns, a signal report or some other information, and acknowledgments. WSJT-X is designed to facilitate making such minimal QSOs using short, structured messages. The process works best if you use these formats and follow standard operating practices. "
+      },
+      "date": 1582762606917
+    },
+    {
+      "type": "add",
+      "id": "875a9374e2ce41a6",
+      "item": {
+        "type": "paragraph",
+        "id": "875a9374e2ce41a6",
+        "text": "See WSJT-X 2.0 User Guide, Section 7.1, Standard Exchanges. [http://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.0.html#_standard_exchange page]"
+      },
+      "after": "3c572fe0bd18f5da",
+      "date": 1582762619081
+    },
+    {
+      "type": "edit",
+      "id": "875a9374e2ce41a6",
+      "item": {
+        "type": "paragraph",
+        "id": "875a9374e2ce41a6",
+        "text": "See WSJT-X 2.0 User Guide, Section 7.1, Standard Exchanges. [http://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.0.html#_standard_exchange site]"
+      },
+      "date": 1582762632731
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n</table>"
+      },
+      "date": 1582777199117
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4 border-collapse: collapse;>\n<tr> <td> CQ FD AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+      },
+      "date": 1582777211159
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<tr> <td> CQ FD AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+      },
+      "date": 1582777226507
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=8 style=\"border-collapse: collapse;\">\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n</table>"
+      },
+      "date": 1582777271486
+    },
+    {
+      "type": "edit",
+      "id": "05b650dc9ca2635b",
+      "item": {
+        "type": "html",
+        "id": "05b650dc9ca2635b",
+        "text": "<center><table width=80% border=1 cellpadding=6 style=\"border-collapse: collapse;\">\n<tr> <td> CQ AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td bgcolor=#ddd> BBB AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA BBB R SIG\n<tr> <td bgcolor=#ddd> BBB AAA RR 73 <td>\n<tr> <td> <td> AAA BBB 73\n</table>"
+      },
+      "date": 1582777288991
+    },
+    {
+      "type": "edit",
+      "id": "dd6ab6266e0cc0a9",
+      "item": {
+        "type": "html",
+        "id": "dd6ab6266e0cc0a9",
+        "text": "<center><table width=80% border=1 cellpadding=6 style=\"border-collapse: collapse;\">\n<tr> <td> CQ FD AAA GEO <td>\n<tr> <td> <td> AAA BBB GEO\n<tr> <td> BBB AAA SIG <td>\n<tr> <td><td> AAA BBB R SIG\n<tr> <td> BBB AAA RR 73 <td>\n\n<tr> <td> <td bgcolor=#ddd> AAA CCC GEO\n<tr> <td bgcolor=#ddd> CCC AAA SIG <td>\n<tr> <td><td bgcolor=#ddd> AAA CCC R SIG\n<tr> <td bgcolor=#ddd> CCC AAA RRR <td>\n\n<tr> <td> <td> AAA DDD GEO\n</table>"
+      },
+      "date": 1582777295195
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b6449882520abc0"
+      },
+      "id": "1b6449882520abc0",
+      "type": "add",
+      "after": "875a9374e2ce41a6",
+      "date": 1582777385692
+    },
+    {
+      "type": "edit",
+      "id": "1b6449882520abc0",
+      "item": {
+        "type": "reference",
+        "id": "1b6449882520abc0",
+        "site": "ward.asia.wiki.org",
+        "slug": "collect-ft8-decodes",
+        "title": "Collect FT8 Decodes",
+        "text": "We experiment by collecting FT8 mode payloads as decoded by WSJT-X software and reported to us via UDP.  The WSJT plugin server-side manages a circular buffer. The client-side fetches subsets and shares aspects with other plugins. [https://github.com/WardCunningham/wiki-plugin-wsjt github]"
+      },
+      "date": 1582777399893
+    },
+    {
+      "type": "edit",
+      "id": "1b6449882520abc0",
+      "item": {
+        "type": "reference",
+        "id": "1b6449882520abc0",
+        "site": "ward.asia.wiki.org",
+        "slug": "collect-ft8-decodes",
+        "title": "Collect FT8 Decodes",
+        "text": "We collect FT8 mode payloads as decoded by WSJT-X software and reported to us via UDP."
+      },
+      "date": 1582777451213
+    },
+    {
+      "type": "edit",
+      "id": "1b6449882520abc0",
+      "item": {
+        "type": "reference",
+        "id": "1b6449882520abc0",
+        "site": "ward.asia.wiki.org",
+        "slug": "collect-ft8-decodes",
+        "title": "Collect FT8 Decodes",
+        "text": "We collect FT8 payloads as decoded by WSJT-X and reported to us via UDP."
+      },
+      "date": 1582777469429
+    },
+    {
+      "type": "edit",
+      "id": "1b6449882520abc0",
+      "item": {
+        "type": "reference",
+        "id": "1b6449882520abc0",
+        "site": "ward.asia.wiki.org",
+        "slug": "collect-ft8-decodes",
+        "title": "Collect FT8 Decodes",
+        "text": "We collect FT8 payloads decoded by WSJT-X and reported via UDP during daylight hours."
+      },
+      "date": 1582777523927
+    },
+    {
+      "type": "edit",
+      "id": "1b6449882520abc0",
+      "item": {
+        "type": "reference",
+        "id": "1b6449882520abc0",
+        "site": "ward.asia.wiki.org",
+        "slug": "collect-ft8-decodes",
+        "title": "Collect FT8 Decodes",
+        "text": "We collect FT8 payloads decoded by WSJT-X via UDP during daylight hours."
+      },
+      "date": 1582777545707
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting to look for in decode datasets. "
+      },
+      "date": 1582777687693
+    },
+    {
+      "type": "add",
+      "id": "275cf3588e3127aa",
+      "item": {
+        "type": "paragraph",
+        "id": "275cf3588e3127aa",
+        "text": "Station AAA makes a general call and BBB, CCC and DDD take turns exchanging information."
+      },
+      "after": "c8b5f022aeb0f3bc",
+      "date": 1582777689332
+    },
+    {
+      "type": "edit",
+      "id": "c8b5f022aeb0f3bc",
+      "item": {
+        "type": "paragraph",
+        "id": "c8b5f022aeb0f3bc",
+        "text": "We examine the usual exchange of information and variations that might be interesting in decode datasets. "
+      },
+      "date": 1582777718817
+    }
+  ]
+}

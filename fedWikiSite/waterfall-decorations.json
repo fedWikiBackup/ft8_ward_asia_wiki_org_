@@ -1,0 +1,621 @@
+{
+  "title": "Waterfall Decorations",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d0d305a07bb1a830",
+      "text": "We imagine interacting with a [[Decode Waterfall]] as an open testbed for interaction mechanisms, some easily simulated in 2d, others unique to the TiltFive hardware."
+    },
+    {
+      "type": "paragraph",
+      "id": "ceb72a0a4e04d6c9",
+      "text": "See [[Share the Wonder]]"
+    },
+    {
+      "type": "markdown",
+      "id": "97336959c65164fc",
+      "text": "# d3"
+    },
+    {
+      "type": "paragraph",
+      "id": "8e3bb5b5553ba8af",
+      "text": "Our pilot implementation is web based in svg rendered by Mike Bostock's d3.js. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=0 chart]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6b4a691a320feef7",
+      "text": "Specify or compute radio tuning offsets by comparing identical decodes. ✔"
+    },
+    {
+      "type": "paragraph",
+      "id": "814d95329f3f21c7",
+      "text": "Handle slot (hhmmss) wrap around at 0000 utc.  ✔"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d3c8df796980fe3",
+      "text": "Make this scroll down smoothly every 15 seconds."
+    },
+    {
+      "type": "paragraph",
+      "id": "1d4e804720a60dbd",
+      "text": "Simulate viewing angle by drawing grid and radio planes and adjusting their relative position in a smooth back-and-forth motion. ✔"
+    },
+    {
+      "type": "paragraph",
+      "id": "76f3fa4a3e9387dc",
+      "text": "Encode signal strength by increased thickness and opacity."
+    },
+    {
+      "type": "markdown",
+      "id": "fd4c94bb4ce267e8",
+      "text": "> K1JT K9OX -03\n> K9OX K1JT R-15\n> K1JT K9OX R73"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f18ff63ea25ab2a",
+      "text": "Touch a decode to highlight all similar decodes by all radios. Both parties to an exchange are similar. ✔"
+    },
+    {
+      "type": "paragraph",
+      "id": "9cbaf25fb156f9e8",
+      "text": "Highlight decodes matching a provided search string. ✔"
+    },
+    {
+      "type": "paragraph",
+      "id": "4c8041a4e37ff529",
+      "text": "Enable remote viewing by broadcasting gestures as they are recognized."
+    },
+    {
+      "type": "markdown",
+      "id": "51a7c7c0174e6f18",
+      "text": "# AR"
+    },
+    {
+      "type": "paragraph",
+      "id": "c0e74c27b0b71105",
+      "text": "We understand a variety of novel interactions are possible by reaching into the table top scene."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a74e4d11e86adaf",
+      "text": "Select a region to render additional properties within that region. Keyboard selectable tools select specific decorations that may or may not drift with the data."
+    },
+    {
+      "type": "paragraph",
+      "id": "29b37972535d1526",
+      "text": "Query details by \"playing cards\" that render more information within a limited part of the scene. Provide a \"deck\" of useful measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "e0d05d767542fed5",
+      "text": "A raw-data camera card could snap a picture of the source signal FFT of a small region. Snaps would drift with the data it examined, possibly collecting in a bin for later review."
+    },
+    {
+      "type": "paragraph",
+      "id": "a023aa2d4996ea01",
+      "text": "Expose a massive globe under the table. Rotate it to show tx and rx grid squares when known."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Waterfall Decorations",
+        "story": []
+      },
+      "date": 1576782928637
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0d305a07bb1a830"
+      },
+      "id": "d0d305a07bb1a830",
+      "type": "add",
+      "date": 1576782930844
+    },
+    {
+      "type": "edit",
+      "id": "d0d305a07bb1a830",
+      "item": {
+        "type": "paragraph",
+        "id": "d0d305a07bb1a830",
+        "text": "We imagine interacting with a [[Decode Waterfall]] as an open testbed for interaction mechanisms, some easily simulated in 2d, others unique to the TiltFive hardware."
+      },
+      "date": 1576783077540
+    },
+    {
+      "type": "add",
+      "id": "97336959c65164fc",
+      "item": {
+        "type": "paragraph",
+        "id": "97336959c65164fc",
+        "text": "# d3"
+      },
+      "after": "d0d305a07bb1a830",
+      "date": 1576783100812
+    },
+    {
+      "type": "add",
+      "id": "8e3bb5b5553ba8af",
+      "item": {
+        "type": "paragraph",
+        "id": "8e3bb5b5553ba8af",
+        "text": "Our pilot implementation is web based in svg rendered by Mike Bostock's d3.js."
+      },
+      "after": "97336959c65164fc",
+      "date": 1576783152363
+    },
+    {
+      "type": "edit",
+      "id": "8e3bb5b5553ba8af",
+      "item": {
+        "type": "paragraph",
+        "id": "8e3bb5b5553ba8af",
+        "text": "Our pilot implementation is web based in svg rendered by Mike Bostock's d3.js. [[http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html chart]"
+      },
+      "date": 1576783165267
+    },
+    {
+      "type": "edit",
+      "id": "8e3bb5b5553ba8af",
+      "item": {
+        "type": "paragraph",
+        "id": "8e3bb5b5553ba8af",
+        "text": "Our pilot implementation is web based in svg rendered by Mike Bostock's d3.js. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html chart]"
+      },
+      "date": 1576783173489
+    },
+    {
+      "type": "edit",
+      "id": "97336959c65164fc",
+      "item": {
+        "type": "markdown",
+        "id": "97336959c65164fc",
+        "text": "# d3"
+      },
+      "date": 1576783176618
+    },
+    {
+      "type": "add",
+      "id": "7d3c8df796980fe3",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3c8df796980fe3",
+        "text": "Make this scroll down smoothly every 15 seconds."
+      },
+      "after": "8e3bb5b5553ba8af",
+      "date": 1576783199960
+    },
+    {
+      "type": "add",
+      "id": "1d4e804720a60dbd",
+      "item": {
+        "type": "paragraph",
+        "id": "1d4e804720a60dbd",
+        "text": "Simulate viewing angle by drawing grid and radio planes and adjusting their relative position with shift-hover motion."
+      },
+      "after": "7d3c8df796980fe3",
+      "date": 1576783296837
+    },
+    {
+      "type": "add",
+      "id": "7f18ff63ea25ab2a",
+      "item": {
+        "type": "paragraph",
+        "id": "7f18ff63ea25ab2a",
+        "text": "Touch a decode to highlight all similar decodes by all radios. \"K1JT K9OX -03\" is similar to its response \"K9OX K1JT R-15\"."
+      },
+      "after": "1d4e804720a60dbd",
+      "date": 1576783488157
+    },
+    {
+      "type": "edit",
+      "id": "7f18ff63ea25ab2a",
+      "item": {
+        "type": "paragraph",
+        "id": "7f18ff63ea25ab2a",
+        "text": "Touch a decode to highlight all similar decodes by all radios."
+      },
+      "date": 1576783520781
+    },
+    {
+      "type": "add",
+      "id": "fd4c94bb4ce267e8",
+      "item": {
+        "type": "factory",
+        "id": "fd4c94bb4ce267e8",
+        "text": "\"K1JT K9OX -03\" is similar to its response \"K9OX K1JT R-15\"."
+      },
+      "after": "7f18ff63ea25ab2a",
+      "date": 1576783522304
+    },
+    {
+      "type": "edit",
+      "id": "fd4c94bb4ce267e8",
+      "item": {
+        "type": "markdown",
+        "id": "fd4c94bb4ce267e8",
+        "text": "> K1JT K9OX -03 is similar to its response\n> K9OX K1JT R-15"
+      },
+      "date": 1576783547283
+    },
+    {
+      "type": "edit",
+      "id": "fd4c94bb4ce267e8",
+      "item": {
+        "type": "markdown",
+        "id": "fd4c94bb4ce267e8",
+        "text": "> K1JT K9OX -03\n> K9OX K1JT R-15"
+      },
+      "date": 1576783570528
+    },
+    {
+      "type": "edit",
+      "id": "7f18ff63ea25ab2a",
+      "item": {
+        "type": "paragraph",
+        "id": "7f18ff63ea25ab2a",
+        "text": "Touch a decode to highlight all similar decodes by all radios. Both parties to an exchange are similar."
+      },
+      "date": 1576783597539
+    },
+    {
+      "type": "edit",
+      "id": "fd4c94bb4ce267e8",
+      "item": {
+        "type": "markdown",
+        "id": "fd4c94bb4ce267e8",
+        "text": "> K1JT K9OX -03\n> K9OX K1JT R-15\n> K1JT K9OX R73"
+      },
+      "date": 1576783660924
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51a7c7c0174e6f18"
+      },
+      "id": "51a7c7c0174e6f18",
+      "type": "add",
+      "after": "fd4c94bb4ce267e8",
+      "date": 1576783780907
+    },
+    {
+      "type": "edit",
+      "id": "51a7c7c0174e6f18",
+      "item": {
+        "type": "paragraph",
+        "id": "51a7c7c0174e6f18",
+        "text": "# AR"
+      },
+      "date": 1576783804679
+    },
+    {
+      "type": "add",
+      "id": "c0e74c27b0b71105",
+      "item": {
+        "type": "paragraph",
+        "id": "c0e74c27b0b71105",
+        "text": "We understand a variety of novel interactions are possible by reaching into the table top scene."
+      },
+      "after": "51a7c7c0174e6f18",
+      "date": 1576783864139
+    },
+    {
+      "type": "edit",
+      "id": "51a7c7c0174e6f18",
+      "item": {
+        "type": "markdown",
+        "id": "51a7c7c0174e6f18",
+        "text": "# AR"
+      },
+      "date": 1576783874627
+    },
+    {
+      "type": "edit",
+      "id": "97336959c65164fc",
+      "item": {
+        "type": "markdown",
+        "id": "97336959c65164fc",
+        "text": "# D3"
+      },
+      "date": 1576783886810
+    },
+    {
+      "type": "edit",
+      "id": "97336959c65164fc",
+      "item": {
+        "type": "markdown",
+        "id": "97336959c65164fc",
+        "text": "# d3"
+      },
+      "date": 1576783896842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c8041a4e37ff529"
+      },
+      "id": "4c8041a4e37ff529",
+      "type": "add",
+      "after": "c0e74c27b0b71105",
+      "date": 1576783965405
+    },
+    {
+      "type": "edit",
+      "id": "4c8041a4e37ff529",
+      "item": {
+        "type": "paragraph",
+        "id": "4c8041a4e37ff529",
+        "text": "Enable remote viewing by broadcasting gestures as they are recognized."
+      },
+      "date": 1576784049010
+    },
+    {
+      "type": "move",
+      "order": [
+        "d0d305a07bb1a830",
+        "97336959c65164fc",
+        "8e3bb5b5553ba8af",
+        "7d3c8df796980fe3",
+        "1d4e804720a60dbd",
+        "7f18ff63ea25ab2a",
+        "fd4c94bb4ce267e8",
+        "4c8041a4e37ff529",
+        "51a7c7c0174e6f18",
+        "c0e74c27b0b71105"
+      ],
+      "id": "4c8041a4e37ff529",
+      "date": 1576784052216
+    },
+    {
+      "type": "add",
+      "id": "29b37972535d1526",
+      "item": {
+        "type": "paragraph",
+        "id": "29b37972535d1526",
+        "text": "Query details by \"playing cards\" that render more information within a limited part of the scene."
+      },
+      "after": "c0e74c27b0b71105",
+      "date": 1576784141478
+    },
+    {
+      "type": "add",
+      "id": "e0d05d767542fed5",
+      "item": {
+        "type": "paragraph",
+        "id": "e0d05d767542fed5",
+        "text": "A raw-data camera card could snap a picture of the source signal FFT of a small region. Snaps would drift with the data it examined, possibly collecting in a bin for later review."
+      },
+      "after": "29b37972535d1526",
+      "date": 1576784315488
+    },
+    {
+      "type": "add",
+      "id": "0a74e4d11e86adaf",
+      "item": {
+        "type": "paragraph",
+        "id": "0a74e4d11e86adaf",
+        "text": "Select a region to render additional properties within that region. Keyboard selectable tools select specific decorations that may or may not drift with the data."
+      },
+      "after": "7f18ff63ea25ab2a",
+      "date": 1576784989311
+    },
+    {
+      "type": "move",
+      "order": [
+        "d0d305a07bb1a830",
+        "97336959c65164fc",
+        "8e3bb5b5553ba8af",
+        "7d3c8df796980fe3",
+        "1d4e804720a60dbd",
+        "7f18ff63ea25ab2a",
+        "fd4c94bb4ce267e8",
+        "0a74e4d11e86adaf",
+        "4c8041a4e37ff529",
+        "51a7c7c0174e6f18",
+        "c0e74c27b0b71105",
+        "29b37972535d1526",
+        "e0d05d767542fed5"
+      ],
+      "id": "0a74e4d11e86adaf",
+      "date": 1576784999671
+    },
+    {
+      "type": "edit",
+      "id": "1d4e804720a60dbd",
+      "item": {
+        "type": "paragraph",
+        "id": "1d4e804720a60dbd",
+        "text": "Simulate viewing angle by drawing grid and radio planes and adjusting their relative position in a smooth back-and-forth motion."
+      },
+      "date": 1576788951558
+    },
+    {
+      "type": "add",
+      "id": "6b4a691a320feef7",
+      "item": {
+        "type": "paragraph",
+        "id": "6b4a691a320feef7",
+        "text": "Specify or compute radio tuning offsets by comparing identical decodes."
+      },
+      "after": "8e3bb5b5553ba8af",
+      "date": 1576789036236
+    },
+    {
+      "type": "edit",
+      "id": "29b37972535d1526",
+      "item": {
+        "type": "paragraph",
+        "id": "29b37972535d1526",
+        "text": "Query details by \"playing cards\" that render more information within a limited part of the scene. Provide a \"deck\" of useful measurements."
+      },
+      "date": 1576789154029
+    },
+    {
+      "type": "edit",
+      "id": "1d4e804720a60dbd",
+      "item": {
+        "type": "paragraph",
+        "id": "1d4e804720a60dbd",
+        "text": "Simulate viewing angle by drawing grid and radio planes and adjusting their relative position in a smooth back-and-forth motion. ✔"
+      },
+      "date": 1576866469991
+    },
+    {
+      "type": "add",
+      "id": "ceb72a0a4e04d6c9",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb72a0a4e04d6c9",
+        "text": "See [[Share the Wonder]]"
+      },
+      "after": "d0d305a07bb1a830",
+      "date": 1576877370522
+    },
+    {
+      "type": "edit",
+      "id": "6b4a691a320feef7",
+      "item": {
+        "type": "paragraph",
+        "id": "6b4a691a320feef7",
+        "text": "Specify or compute radio tuning offsets by comparing identical decodes. ✔"
+      },
+      "date": 1576906403777
+    },
+    {
+      "type": "add",
+      "id": "76f3fa4a3e9387dc",
+      "item": {
+        "type": "paragraph",
+        "id": "76f3fa4a3e9387dc",
+        "text": "Encode signal strength by increased thickness and opacity."
+      },
+      "after": "1d4e804720a60dbd",
+      "date": 1577032334194
+    },
+    {
+      "type": "edit",
+      "id": "8e3bb5b5553ba8af",
+      "item": {
+        "type": "paragraph",
+        "id": "8e3bb5b5553ba8af",
+        "text": "Our pilot implementation is web based in svg rendered by Mike Bostock's d3.js. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=0 chart]"
+      },
+      "date": 1577036913024
+    },
+    {
+      "type": "add",
+      "id": "814d95329f3f21c7",
+      "item": {
+        "type": "paragraph",
+        "id": "814d95329f3f21c7",
+        "text": "Handle slots (hhmmss) wrap around at 0000 utc.  ✔"
+      },
+      "after": "6b4a691a320feef7",
+      "date": 1577152134071
+    },
+    {
+      "type": "edit",
+      "id": "814d95329f3f21c7",
+      "item": {
+        "type": "paragraph",
+        "id": "814d95329f3f21c7",
+        "text": "Handle slot (hhmmss) wrap around at 0000 utc.  ✔"
+      },
+      "date": 1577152143772
+    },
+    {
+      "type": "edit",
+      "id": "7f18ff63ea25ab2a",
+      "item": {
+        "type": "paragraph",
+        "id": "7f18ff63ea25ab2a",
+        "text": "Touch a decode to highlight all similar decodes by all radios. Both parties to an exchange are similar. ✔"
+      },
+      "date": 1577465063312
+    },
+    {
+      "type": "move",
+      "order": [
+        "d0d305a07bb1a830",
+        "ceb72a0a4e04d6c9",
+        "97336959c65164fc",
+        "8e3bb5b5553ba8af",
+        "6b4a691a320feef7",
+        "814d95329f3f21c7",
+        "7d3c8df796980fe3",
+        "1d4e804720a60dbd",
+        "76f3fa4a3e9387dc",
+        "7f18ff63ea25ab2a",
+        "fd4c94bb4ce267e8",
+        "4c8041a4e37ff529",
+        "51a7c7c0174e6f18",
+        "c0e74c27b0b71105",
+        "0a74e4d11e86adaf",
+        "29b37972535d1526",
+        "e0d05d767542fed5"
+      ],
+      "id": "0a74e4d11e86adaf",
+      "date": 1577815654960
+    },
+    {
+      "type": "add",
+      "id": "9cbaf25fb156f9e8",
+      "item": {
+        "type": "paragraph",
+        "id": "9cbaf25fb156f9e8",
+        "text": "Highlight decodes matching a provided search string."
+      },
+      "after": "7f18ff63ea25ab2a",
+      "date": 1577815741645
+    },
+    {
+      "type": "edit",
+      "id": "9cbaf25fb156f9e8",
+      "item": {
+        "type": "paragraph",
+        "id": "9cbaf25fb156f9e8",
+        "text": "Highlight decodes matching a provided search string. ✔"
+      },
+      "date": 1577815754995
+    },
+    {
+      "type": "move",
+      "order": [
+        "d0d305a07bb1a830",
+        "ceb72a0a4e04d6c9",
+        "97336959c65164fc",
+        "8e3bb5b5553ba8af",
+        "6b4a691a320feef7",
+        "814d95329f3f21c7",
+        "7d3c8df796980fe3",
+        "1d4e804720a60dbd",
+        "76f3fa4a3e9387dc",
+        "fd4c94bb4ce267e8",
+        "7f18ff63ea25ab2a",
+        "9cbaf25fb156f9e8",
+        "4c8041a4e37ff529",
+        "51a7c7c0174e6f18",
+        "c0e74c27b0b71105",
+        "0a74e4d11e86adaf",
+        "29b37972535d1526",
+        "e0d05d767542fed5"
+      ],
+      "id": "fd4c94bb4ce267e8",
+      "date": 1577815772667
+    },
+    {
+      "type": "add",
+      "id": "a023aa2d4996ea01",
+      "item": {
+        "type": "paragraph",
+        "id": "a023aa2d4996ea01",
+        "text": "Expose a massive globe under the table. Rotate it to show tx and rx grid squares when known."
+      },
+      "after": "e0d05d767542fed5",
+      "date": 1577889995541
+    }
+  ]
+}

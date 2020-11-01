@@ -1,0 +1,240 @@
+{
+  "title": "US Cities by Grid Square",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a54d3fe3323107b3",
+      "text": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities."
+    },
+    {
+      "type": "paragraph",
+      "id": "2db3ef3956fb2e42",
+      "text": "List of United States cities by population. [https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population wikipedia]"
+    },
+    {
+      "type": "map",
+      "id": "945bd435a3f3f384",
+      "text": "40.6635, -73.9387 FN30 New York City\n34.0194, -118.4108 DM04 Los Angeles\n41.8376, -87.6818 EN61 Chicago\n29.7866, -95.3909 EL29 Houston\n33.5722, -112.0901 DM33 Phoenix\n40.0094, -75.1333 FN20 Philadelphia\n29.4724, -98.5251 EL09 San Antonio\n32.8153, -117.135 DM12 San Diego\n32.7933, -96.7665 EM12 Dallas\n37.2967, -121.8189 CM97 San Jose\n30.3039, -97.7544 EM10 Austin\n30.3369, -81.6616 EM90 Jacksonville\n39.9852, -82.9848 EM89 Columbus\n37.7272, -123.0322 CM87 San Francisco\n35.2078, -80.831 EM95 Charlotte\n39.7767, -86.1459 EM69 Indianapolis\n47.6205, -122.3509 CN87 Seattle\n39.7619, -104.8811 DM79 Denver\n38.9041, -77.0172 FM18 Washington, D.C.\n42.332, -71.0202 FN42 Boston\n31.8484, -106.427 DM61 El Paso\n42.383, -83.1022 EN82 Detroit\n36.1718, -86.785 EM66 Nashville\n45.537, -122.65 CN85 Portland\n35.1028, -89.9774 EM55 Memphis\n35.4671, -97.5137 EM15 Oklahoma City\n36.2292, -115.2601 DM26 Las Vegas\n38.1654, -85.6474 EM78 Louisville\n39.3, -76.6105 FM19 Baltimore\n43.0633, -87.9667 EN63 Milwaukee\n35.1056, -106.6474 DM65 Albuquerque\n32.1531, -110.8706 DM42 Tucson\n36.7836, -119.7934 DM06 Fresno\n33.4019, -111.7174 DM43 Mesa\n38.5666, -121.4686 CM98 Sacramento\n33.7629, -84.4227 EM73 Atlanta\n39.1251, -94.551 EM29 Kansas City, MO\n38.8673, -104.7607 DM78 Colorado Springs\n25.7752, -80.2086 EL95 Miami\n35.8306, -78.6418 FM05 Raleigh\n41.2644, -96.0451 EN11 Omaha\n33.8092, -118.1553 DM03 Long Beach\n36.78, -76.0252 FM16 Virginia Beach\n44.9633, -93.2683 EN34 Minneapolis\n36.1279, -95.9023 EM26 Tulsa\n27.9701, -82.4797 EL87 Tampa\n30.0534, -89.9345 EM50 New Orleans\n37.6907, -97.3459 EM17 Wichita\n41.4785, -81.6794 EN91 Cleveland\n35.3212, -119.0183 DM05 Bakersfield\n33.8555, -117.7601 DM13 Anaheim\n27.7543, -97.1734 EL17 Corpus Christi\n38.6357, -90.2446 EM48 St. Louis\n39.1402, -84.5058 EM79 Cincinnati\n40.4398, -79.9766 FN00 Pittsburgh\n36.0951, -79.827 FM06 Greensboro\n33.0508, -96.7479 EM13 Plano\n40.8105, -96.6803 EN10 Lincoln\n28.4166, -81.2736 EL98 Orlando\n41.6641, -83.5819 EN81 Toledo\n41.0882, -85.1439 EN71 Fort Wayne\n27.5604, -99.4892 EL07 Laredo\n43.0878, -89.4299 EN53 Madison\n42.8925, -78.8597 FN02 Buffalo\n33.5656, -101.8867 DM93 Lubbock\n39.5491, -119.8499 DM09 Reno\n36.1027, -80.261 EM96 Winston-Salem\n43.6002, -116.2317 DN13 Boise\n37.5314, -77.476 FM17 Richmond\n30.4422, -91.1309 EM40 Baton Rouge\n47.6669, -117.4333 DN17 Spokane\n41.5726, -93.6102 EN31 Des Moines\n34.1416, -117.2936 DM14 San Bernardino\n33.5274, -86.799 EM63 Birmingham\n43.1699, -77.6169 FN13 Rochester\n40.7769, -111.931 DN40 Salt Lake City\n42.9612, -85.6556 EN72 Grand Rapids\n35.1999, -101.8302 DM95 Amarillo\n41.7635, -88.2901 EN51 Aurora\n32.3472, -86.2661 EM62 Montgomery\n34.7254, -92.3586 EM34 Little Rock\n34.699, -86.673 EM64 Huntsville\n33.3655, -82.0734 EM83 Augusta\n27.2806, -80.3883 EL97 Port St. Lucie\n32.5102, -84.8749 EM72 Columbus\n30.4551, -84.2534 EM70 Tallahassee\n38.889, -94.6906 EM28 Overland Park\n26.6432, -81.9974 EL96 Cape Coral\n32.4669, -93.7922 EM32 Shreveport\n35.9707, -83.9493 EM85 Knoxville\n25.9991, -97.455 EL15 Brownsville\n43.5383, -96.732 EN13 Sioux Falls\n35.066, -85.2484 EM75 Chattanooga\n41.8231, -71.4188 FN41 Providence\n38.4468, -122.7061 CM88 Santa Rosa\n44.9237, -123.0232 CN84 Salem\n37.1942, -93.2913 EM37 Springfield\n40.5482, -105.0648 DN70 Fort Collins\n32.3158, -90.2128 EM42 Jackson\n36.6902, -121.6337 CM96 Salinas\n42.1155, -72.54 FN32 Springfield\n32.8088, -83.6942 EM82 Macon\n31.0777, -97.732 EM11 Killeen\n42.2588, -89.0646 EN52 Rockford\n32.0025, -81.1536 EM92 Savannah\n41.1874, -73.1958 FN31 Bridgeport\n26.2322, -98.2464 EL06 McAllen\n32.0246, -102.1135 DM82 Midland\n35.8522, -86.416 EM65 Murfreesboro\n40.6885, -112.0118 DN30 West Valley City\n32.8179, -79.959 FM02 Charleston\n29.6788, -82.3461 EL89 Gainesville\n34.0291, -80.898 EM94 Columbia\n41.967, -91.6778 EN41 Cedar Rapids\n30.2074, -92.0285 EM30 Lafayette\n46.8652, -96.829 EN16 Fargo\n38.951561, -92.328638 EM38 Columbia\n32.4545, -99.7381 EM02 Abilene\n34.2092, -77.8858 FM14 Wilmington\n31.8838, -102.3411 DM81 Odessa\n30.0849, -94.1453 EM20 Beaumont\n37.9877, -87.5347 EM67 Evansville\n39.7911, -89.6446 EM59 Springfield\n40.7515, -89.6174 EN50 Peoria\n45.7885, -108.5499 DN55 Billings\n34.9332, -120.4438 CM94 Santa Maria\n32.3173, -95.3059 EM22 Tyler\n44.5207, -87.9842 EN64 Green Bay\n33.9067, -98.5259 EM03 Wichita Falls\n32.3264, -106.7897 DM62 Las Cruces\n31.4411, -100.4505 DM91 San Angelo\n42.5822, -87.8456 EN62 Kenosha"
+    },
+    {
+      "type": "map",
+      "id": "e0537e3e405fe83f",
+      "text": "\n21.3243, -157.8476 BL11 Honolulu\n61.1743, -149.2843 BP51 Anchorage"
+    },
+    {
+      "type": "paragraph",
+      "id": "60f072877b34a9a1",
+      "text": "See [[Street Map]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "US Cities by Grid Square",
+        "story": []
+      },
+      "date": 1575065661026
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a54d3fe3323107b3"
+      },
+      "id": "a54d3fe3323107b3",
+      "type": "add",
+      "date": 1575065663112
+    },
+    {
+      "type": "edit",
+      "id": "a54d3fe3323107b3",
+      "item": {
+        "type": "paragraph",
+        "id": "a54d3fe3323107b3",
+        "text": "We locate the largest city in each grid square."
+      },
+      "date": 1575065698082
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "945bd435a3f3f384"
+      },
+      "id": "945bd435a3f3f384",
+      "type": "add",
+      "after": "a54d3fe3323107b3",
+      "date": 1575065700470
+    },
+    {
+      "type": "edit",
+      "id": "945bd435a3f3f384",
+      "item": {
+        "type": "map",
+        "id": "945bd435a3f3f384",
+        "text": "40.6635, 73.9387 FN30 New York City, New York\n34.0194, 118.4108 DM04 Los Angeles, California\n41.8376, 87.6818 EN61 Chicago, Illinois\n29.7866, 95.3909 EL29 Houston, Texas\n33.5722, 112.0901 DM33 Phoenix, Arizona\n40.0094, 75.1333 FN20 Philadelphia, Pennsylvania\n29.4724, 98.5251 EL09 San Antonio, Texas\n32.8153, 117.135 DM12 San Diego, California\n32.7933, 96.7665 EM12 Dallas, Texas\n37.2967, 121.8189 CM97 San Jose, California\n30.3039, 97.7544 EM10 Austin, Texas\n30.3369, 81.6616 EM90 Jacksonville, Florida\n39.9852, 82.9848 EM89 Columbus, Ohio\n37.7272, 123.0322 CM87 San Francisco, California\n35.2078, 80.831 EM95 Charlotte, North Carolina\n39.7767, 86.1459 EM69 Indianapolis, Indiana\n47.6205, 122.3509 CN87 Seattle, Washington\n39.7619, 104.8811 DM79 Denver, Colorado\n38.9041, 77.0172 FM18 Washington, D.C., District of Columbia\n42.332, 71.0202 FN42 Boston, Massachusetts\n31.8484, 106.427 DM61 El Paso, Texas\n42.383, 83.1022 EN82 Detroit, Michigan\n36.1718, 86.785 EM66 Nashville, Tennessee\n45.537, 122.65 CN85 Portland, Oregon\n35.1028, 89.9774 EM55 Memphis, Tennessee\n35.4671, 97.5137 EM15 Oklahoma City, Oklahoma\n36.2292, 115.2601 DM26 Las Vegas, Nevada\n38.1654, 85.6474 EM78 Louisville, Kentucky\n39.3, 76.6105 FM19 Baltimore, Maryland\n43.0633, 87.9667 EN63 Milwaukee, Wisconsin\n35.1056, 106.6474 DM65 Albuquerque, New Mexico\n32.1531, 110.8706 DM42 Tucson, Arizona\n36.7836, 119.7934 DM06 Fresno, California\n33.4019, 111.7174 DM43 Mesa, Arizona\n38.5666, 121.4686 CM98 Sacramento, California\n33.7629, 84.4227 EM73 Atlanta, Georgia \n39.1251, 94.551 EM29 Kansas City, MO, Missouri\n38.8673, 104.7607 DM78 Colorado Springs, Colorado\n25.7752, 80.2086 EL95 Miami, Florida\n35.8306, 78.6418 FM05 Raleigh, North Carolina\n41.2644, 96.0451 EN11 Omaha, Nebraska\n33.8092, 118.1553 DM03 Long Beach, California\n36.78, 76.0252 FM16 Virginia Beach, Virginia\n44.9633, 93.2683 EN34 Minneapolis, Minnesota\n36.1279, 95.9023 EM26 Tulsa, Oklahoma\n27.9701, 82.4797 EL87 Tampa, Florida\n30.0534, 89.9345 EM50 New Orleans, Louisiana\n37.6907, 97.3459 EM17 Wichita, Kansas\n41.4785, 81.6794 EN91 Cleveland, Ohio\n35.3212, 119.0183 DM05 Bakersfield, California\n33.8555, 117.7601 DM13 Anaheim, California\n21.3243, 157.8476 BL11 Honolulu, Hawaii\n27.7543, 97.1734 EL17 Corpus Christi, Texas\n38.6357, 90.2446 EM48 St. Louis, Missouri\n39.1402, 84.5058 EM79 Cincinnati, Ohio\n40.4398, 79.9766 FN00 Pittsburgh, Pennsylvania\n36.0951, 79.827 FM06 Greensboro, North Carolina\n61.1743, 149.2843 BP51 Anchorage, Alaska\n33.0508, 96.7479 EM13 Plano, Texas\n40.8105, 96.6803 EN10 Lincoln, Nebraska\n28.4166, 81.2736 EL98 Orlando, Florida\n41.6641, 83.5819 EN81 Toledo, Ohio\n41.0882, 85.1439 EN71 Fort Wayne, Indiana\n27.5604, 99.4892 EL07 Laredo, Texas\n43.0878, 89.4299 EN53 Madison, Wisconsin\n42.8925, 78.8597 FN02 Buffalo, New York\n33.5656, 101.8867 DM93 Lubbock, Texas\n39.5491, 119.8499 DM09 Reno, Nevada\n36.1027, 80.261 EM96 Winston-Salem, North Carolina\n43.6002, 116.2317 DN13 Boise, Idaho\n37.5314, 77.476 FM17 Richmond, Virginia\n30.4422, 91.1309 EM40 Baton Rouge, Louisiana\n47.6669, 117.4333 DN17 Spokane, Washington\n41.5726, 93.6102 EN31 Des Moines, Iowa\n34.1416, 117.2936 DM14 San Bernardino, California\n33.5274, 86.799 EM63 Birmingham, Alabama\n43.1699, 77.6169 FN13 Rochester, New York\n40.7769, 111.931 DN40 Salt Lake City, Utah\n42.9612, 85.6556 EN72 Grand Rapids, Michigan\n35.1999, 101.8302 DM95 Amarillo, Texas\n41.7635, 88.2901 EN51 Aurora, Illinois\n32.3472, 86.2661 EM62 Montgomery, Alabama\n34.7254, 92.3586 EM34 Little Rock, Arkansas\n34.699, 86.673 EM64 Huntsville, Alabama\n33.3655, 82.0734 EM83 Augusta, Georgia \n27.2806, 80.3883 EL97 Port St. Lucie, Florida\n32.5102, 84.8749 EM72 Columbus, Georgia \n30.4551, 84.2534 EM70 Tallahassee, Florida\n38.889, 94.6906 EM28 Overland Park, Kansas\n26.6432, 81.9974 EL96 Cape Coral, Florida\n32.4669, 93.7922 EM32 Shreveport, Louisiana\n35.9707, 83.9493 EM85 Knoxville, Tennessee\n25.9991, 97.455 EL15 Brownsville, Texas\n43.5383, 96.732 EN13 Sioux Falls, South Dakota\n35.066, 85.2484 EM75 Chattanooga, Tennessee\n41.8231, 71.4188 FN41 Providence, Rhode Island\n38.4468, 122.7061 CM88 Santa Rosa, California\n44.9237, 123.0232 CN84 Salem, Oregon\n37.1942, 93.2913 EM37 Springfield, Missouri\n40.5482, 105.0648 DN70 Fort Collins, Colorado\n32.3158, 90.2128 EM42 Jackson, Mississippi\n36.6902, 121.6337 CM96 Salinas, California\n42.1155, 72.54 FN32 Springfield, Massachusetts\n32.8088, 83.6942 EM82 Macon, Georgia \n31.0777, 97.732 EM11 Killeen, Texas\n42.2588, 89.0646 EN52 Rockford, Illinois\n32.0025, 81.1536 EM92 Savannah, Georgia \n41.1874, 73.1958 FN31 Bridgeport, Connecticut\n26.2322, 98.2464 EL06 McAllen, Texas\n32.0246, 102.1135 DM82 Midland, Texas\n35.8522, 86.416 EM65 Murfreesboro, Tennessee\n40.6885, 112.0118 DN30 West Valley City, Utah\n32.8179, 79.959 FM02 Charleston, South Carolina\n29.6788, 82.3461 EL89 Gainesville, Florida\n34.0291, 80.898 EM94 Columbia, South Carolina\n41.967, 91.6778 EN41 Cedar Rapids, Iowa\n30.2074, 92.0285 EM30 Lafayette, Louisiana\n46.8652, 96.829 EN16 Fargo, North Dakota\n38.951561, 92.328638 EM38 Columbia, Missouri\n32.4545, 99.7381 EM02 Abilene, Texas\n34.2092, 77.8858 FM14 Wilmington, North Carolina\n31.8838, 102.3411 DM81 Odessa, Texas\n30.0849, 94.1453 EM20 Beaumont, Texas\n37.9877, 87.5347 EM67 Evansville, Indiana\n39.7911, 89.6446 EM59 Springfield, Illinois\n40.7515, 89.6174 EN50 Peoria, Illinois\n45.7885, 108.5499 DN55 Billings, Montana\n34.9332, 120.4438 CM94 Santa Maria, California\n32.3173, 95.3059 EM22 Tyler, Texas\n44.5207, 87.9842 EN64 Green Bay, Wisconsin\n33.9067, 98.5259 EM03 Wichita Falls, Texas\n32.3264, 106.7897 DM62 Las Cruces, New Mexico\n31.4411, 100.4505 DM91 San Angelo, Texas\n42.5822, 87.8456 EN62 Kenosha, Wisconsin"
+      },
+      "date": 1575065707931
+    },
+    {
+      "type": "edit",
+      "id": "945bd435a3f3f384",
+      "item": {
+        "type": "map",
+        "id": "945bd435a3f3f384",
+        "text": "40.6635, -73.9387 FN30 New York City, New York\n34.0194, -118.4108 DM04 Los Angeles, California\n41.8376, -87.6818 EN61 Chicago, Illinois\n29.7866, -95.3909 EL29 Houston, Texas\n33.5722, -112.0901 DM33 Phoenix, Arizona\n40.0094, -75.1333 FN20 Philadelphia, Pennsylvania\n29.4724, -98.5251 EL09 San Antonio, Texas\n32.8153, -117.135 DM12 San Diego, California\n32.7933, -96.7665 EM12 Dallas, Texas\n37.2967, -121.8189 CM97 San Jose, California\n30.3039, -97.7544 EM10 Austin, Texas\n30.3369, -81.6616 EM90 Jacksonville, Florida\n39.9852, -82.9848 EM89 Columbus, Ohio\n37.7272, -123.0322 CM87 San Francisco, California\n35.2078, -80.831 EM95 Charlotte, North Carolina\n39.7767, -86.1459 EM69 Indianapolis, Indiana\n47.6205, -122.3509 CN87 Seattle, Washington\n39.7619, -104.8811 DM79 Denver, Colorado\n38.9041, -77.0172 FM18 Washington, D.C., District of Columbia\n42.332, -71.0202 FN42 Boston, Massachusetts\n31.8484, -106.427 DM61 El Paso, Texas\n42.383, -83.1022 EN82 Detroit, Michigan\n36.1718, -86.785 EM66 Nashville, Tennessee\n45.537, -122.65 CN85 Portland, Oregon\n35.1028, -89.9774 EM55 Memphis, Tennessee\n35.4671, -97.5137 EM15 Oklahoma City, Oklahoma\n36.2292, -115.2601 DM26 Las Vegas, Nevada\n38.1654, -85.6474 EM78 Louisville, Kentucky\n39.3, -76.6105 FM19 Baltimore, Maryland\n43.0633, -87.9667 EN63 Milwaukee, Wisconsin\n35.1056, -106.6474 DM65 Albuquerque, New Mexico\n32.1531, -110.8706 DM42 Tucson, Arizona\n36.7836, -119.7934 DM06 Fresno, California\n33.4019, -111.7174 DM43 Mesa, Arizona\n38.5666, -121.4686 CM98 Sacramento, California\n33.7629, -84.4227 EM73 Atlanta, Georgia \n39.1251, -94.551 EM29 Kansas City, MO, Missouri\n38.8673, -104.7607 DM78 Colorado Springs, Colorado\n25.7752, -80.2086 EL95 Miami, Florida\n35.8306, -78.6418 FM05 Raleigh, North Carolina\n41.2644, -96.0451 EN11 Omaha, Nebraska\n33.8092, -118.1553 DM03 Long Beach, California\n36.78, -76.0252 FM16 Virginia Beach, Virginia\n44.9633, -93.2683 EN34 Minneapolis, Minnesota\n36.1279, -95.9023 EM26 Tulsa, Oklahoma\n27.9701, -82.4797 EL87 Tampa, Florida\n30.0534, -89.9345 EM50 New Orleans, Louisiana\n37.6907, -97.3459 EM17 Wichita, Kansas\n41.4785, -81.6794 EN91 Cleveland, Ohio\n35.3212, -119.0183 DM05 Bakersfield, California\n33.8555, -117.7601 DM13 Anaheim, California\n21.3243, -157.8476 BL11 Honolulu, Hawaii\n27.7543, -97.1734 EL17 Corpus Christi, Texas\n38.6357, -90.2446 EM48 St. Louis, Missouri\n39.1402, -84.5058 EM79 Cincinnati, Ohio\n40.4398, -79.9766 FN00 Pittsburgh, Pennsylvania\n36.0951, -79.827 FM06 Greensboro, North Carolina\n61.1743, -149.2843 BP51 Anchorage, Alaska\n33.0508, -96.7479 EM13 Plano, Texas\n40.8105, -96.6803 EN10 Lincoln, Nebraska\n28.4166, -81.2736 EL98 Orlando, Florida\n41.6641, -83.5819 EN81 Toledo, Ohio\n41.0882, -85.1439 EN71 Fort Wayne, Indiana\n27.5604, -99.4892 EL07 Laredo, Texas\n43.0878, -89.4299 EN53 Madison, Wisconsin\n42.8925, -78.8597 FN02 Buffalo, New York\n33.5656, -101.8867 DM93 Lubbock, Texas\n39.5491, -119.8499 DM09 Reno, Nevada\n36.1027, -80.261 EM96 Winston-Salem, North Carolina\n43.6002, -116.2317 DN13 Boise, Idaho\n37.5314, -77.476 FM17 Richmond, Virginia\n30.4422, -91.1309 EM40 Baton Rouge, Louisiana\n47.6669, -117.4333 DN17 Spokane, Washington\n41.5726, -93.6102 EN31 Des Moines, Iowa\n34.1416, -117.2936 DM14 San Bernardino, California\n33.5274, -86.799 EM63 Birmingham, Alabama\n43.1699, -77.6169 FN13 Rochester, New York\n40.7769, -111.931 DN40 Salt Lake City, Utah\n42.9612, -85.6556 EN72 Grand Rapids, Michigan\n35.1999, -101.8302 DM95 Amarillo, Texas\n41.7635, -88.2901 EN51 Aurora, Illinois\n32.3472, -86.2661 EM62 Montgomery, Alabama\n34.7254, -92.3586 EM34 Little Rock, Arkansas\n34.699, -86.673 EM64 Huntsville, Alabama\n33.3655, -82.0734 EM83 Augusta, Georgia \n27.2806, -80.3883 EL97 Port St. Lucie, Florida\n32.5102, -84.8749 EM72 Columbus, Georgia \n30.4551, -84.2534 EM70 Tallahassee, Florida\n38.889, -94.6906 EM28 Overland Park, Kansas\n26.6432, -81.9974 EL96 Cape Coral, Florida\n32.4669, -93.7922 EM32 Shreveport, Louisiana\n35.9707, -83.9493 EM85 Knoxville, Tennessee\n25.9991, -97.455 EL15 Brownsville, Texas\n43.5383, -96.732 EN13 Sioux Falls, South Dakota\n35.066, -85.2484 EM75 Chattanooga, Tennessee\n41.8231, -71.4188 FN41 Providence, Rhode Island\n38.4468, -122.7061 CM88 Santa Rosa, California\n44.9237, -123.0232 CN84 Salem, Oregon\n37.1942, -93.2913 EM37 Springfield, Missouri\n40.5482, -105.0648 DN70 Fort Collins, Colorado\n32.3158, -90.2128 EM42 Jackson, Mississippi\n36.6902, -121.6337 CM96 Salinas, California\n42.1155, -72.54 FN32 Springfield, Massachusetts\n32.8088, -83.6942 EM82 Macon, Georgia \n31.0777, -97.732 EM11 Killeen, Texas\n42.2588, -89.0646 EN52 Rockford, Illinois\n32.0025, -81.1536 EM92 Savannah, Georgia \n41.1874, -73.1958 FN31 Bridgeport, Connecticut\n26.2322, -98.2464 EL06 McAllen, Texas\n32.0246, -102.1135 DM82 Midland, Texas\n35.8522, -86.416 EM65 Murfreesboro, Tennessee\n40.6885, -112.0118 DN30 West Valley City, Utah\n32.8179, -79.959 FM02 Charleston, South Carolina\n29.6788, -82.3461 EL89 Gainesville, Florida\n34.0291, -80.898 EM94 Columbia, South Carolina\n41.967, -91.6778 EN41 Cedar Rapids, Iowa\n30.2074, -92.0285 EM30 Lafayette, Louisiana\n46.8652, -96.829 EN16 Fargo, North Dakota\n38.951561, -92.328638 EM38 Columbia, Missouri\n32.4545, -99.7381 EM02 Abilene, Texas\n34.2092, -77.8858 FM14 Wilmington, North Carolina\n31.8838, -102.3411 DM81 Odessa, Texas\n30.0849, -94.1453 EM20 Beaumont, Texas\n37.9877, -87.5347 EM67 Evansville, Indiana\n39.7911, -89.6446 EM59 Springfield, Illinois\n40.7515, -89.6174 EN50 Peoria, Illinois\n45.7885, -108.5499 DN55 Billings, Montana\n34.9332, -120.4438 CM94 Santa Maria, California\n32.3173, -95.3059 EM22 Tyler, Texas\n44.5207, -87.9842 EN64 Green Bay, Wisconsin\n33.9067, -98.5259 EM03 Wichita Falls, Texas\n32.3264, -106.7897 DM62 Las Cruces, New Mexico\n31.4411, -100.4505 DM91 San Angelo, Texas\n42.5822, -87.8456 EN62 Kenosha, Wisconsin"
+      },
+      "date": 1575065791705
+    },
+    {
+      "type": "edit",
+      "id": "945bd435a3f3f384",
+      "item": {
+        "type": "map",
+        "id": "945bd435a3f3f384",
+        "text": "40.6635, -73.9387 FN30 New York City\n34.0194, -118.4108 DM04 Los Angeles\n41.8376, -87.6818 EN61 Chicago\n29.7866, -95.3909 EL29 Houston\n33.5722, -112.0901 DM33 Phoenix\n40.0094, -75.1333 FN20 Philadelphia\n29.4724, -98.5251 EL09 San Antonio\n32.8153, -117.135 DM12 San Diego\n32.7933, -96.7665 EM12 Dallas\n37.2967, -121.8189 CM97 San Jose\n30.3039, -97.7544 EM10 Austin\n30.3369, -81.6616 EM90 Jacksonville\n39.9852, -82.9848 EM89 Columbus\n37.7272, -123.0322 CM87 San Francisco\n35.2078, -80.831 EM95 Charlotte\n39.7767, -86.1459 EM69 Indianapolis\n47.6205, -122.3509 CN87 Seattle\n39.7619, -104.8811 DM79 Denver\n38.9041, -77.0172 FM18 Washington, D.C.\n42.332, -71.0202 FN42 Boston\n31.8484, -106.427 DM61 El Paso\n42.383, -83.1022 EN82 Detroit\n36.1718, -86.785 EM66 Nashville\n45.537, -122.65 CN85 Portland\n35.1028, -89.9774 EM55 Memphis\n35.4671, -97.5137 EM15 Oklahoma City\n36.2292, -115.2601 DM26 Las Vegas\n38.1654, -85.6474 EM78 Louisville\n39.3, -76.6105 FM19 Baltimore\n43.0633, -87.9667 EN63 Milwaukee\n35.1056, -106.6474 DM65 Albuquerque\n32.1531, -110.8706 DM42 Tucson\n36.7836, -119.7934 DM06 Fresno\n33.4019, -111.7174 DM43 Mesa\n38.5666, -121.4686 CM98 Sacramento\n33.7629, -84.4227 EM73 Atlanta\n39.1251, -94.551 EM29 Kansas City, MO\n38.8673, -104.7607 DM78 Colorado Springs\n25.7752, -80.2086 EL95 Miami\n35.8306, -78.6418 FM05 Raleigh\n41.2644, -96.0451 EN11 Omaha\n33.8092, -118.1553 DM03 Long Beach\n36.78, -76.0252 FM16 Virginia Beach\n44.9633, -93.2683 EN34 Minneapolis\n36.1279, -95.9023 EM26 Tulsa\n27.9701, -82.4797 EL87 Tampa\n30.0534, -89.9345 EM50 New Orleans\n37.6907, -97.3459 EM17 Wichita\n41.4785, -81.6794 EN91 Cleveland\n35.3212, -119.0183 DM05 Bakersfield\n33.8555, -117.7601 DM13 Anaheim\n21.3243, -157.8476 BL11 Honolulu\n27.7543, -97.1734 EL17 Corpus Christi\n38.6357, -90.2446 EM48 St. Louis\n39.1402, -84.5058 EM79 Cincinnati\n40.4398, -79.9766 FN00 Pittsburgh\n36.0951, -79.827 FM06 Greensboro\n61.1743, -149.2843 BP51 Anchorage\n33.0508, -96.7479 EM13 Plano\n40.8105, -96.6803 EN10 Lincoln\n28.4166, -81.2736 EL98 Orlando\n41.6641, -83.5819 EN81 Toledo\n41.0882, -85.1439 EN71 Fort Wayne\n27.5604, -99.4892 EL07 Laredo\n43.0878, -89.4299 EN53 Madison\n42.8925, -78.8597 FN02 Buffalo\n33.5656, -101.8867 DM93 Lubbock\n39.5491, -119.8499 DM09 Reno\n36.1027, -80.261 EM96 Winston-Salem\n43.6002, -116.2317 DN13 Boise\n37.5314, -77.476 FM17 Richmond\n30.4422, -91.1309 EM40 Baton Rouge\n47.6669, -117.4333 DN17 Spokane\n41.5726, -93.6102 EN31 Des Moines\n34.1416, -117.2936 DM14 San Bernardino\n33.5274, -86.799 EM63 Birmingham\n43.1699, -77.6169 FN13 Rochester\n40.7769, -111.931 DN40 Salt Lake City\n42.9612, -85.6556 EN72 Grand Rapids\n35.1999, -101.8302 DM95 Amarillo\n41.7635, -88.2901 EN51 Aurora\n32.3472, -86.2661 EM62 Montgomery\n34.7254, -92.3586 EM34 Little Rock\n34.699, -86.673 EM64 Huntsville\n33.3655, -82.0734 EM83 Augusta\n27.2806, -80.3883 EL97 Port St. Lucie\n32.5102, -84.8749 EM72 Columbus\n30.4551, -84.2534 EM70 Tallahassee\n38.889, -94.6906 EM28 Overland Park\n26.6432, -81.9974 EL96 Cape Coral\n32.4669, -93.7922 EM32 Shreveport\n35.9707, -83.9493 EM85 Knoxville\n25.9991, -97.455 EL15 Brownsville\n43.5383, -96.732 EN13 Sioux Falls\n35.066, -85.2484 EM75 Chattanooga\n41.8231, -71.4188 FN41 Providence\n38.4468, -122.7061 CM88 Santa Rosa\n44.9237, -123.0232 CN84 Salem\n37.1942, -93.2913 EM37 Springfield\n40.5482, -105.0648 DN70 Fort Collins\n32.3158, -90.2128 EM42 Jackson\n36.6902, -121.6337 CM96 Salinas\n42.1155, -72.54 FN32 Springfield\n32.8088, -83.6942 EM82 Macon\n31.0777, -97.732 EM11 Killeen\n42.2588, -89.0646 EN52 Rockford\n32.0025, -81.1536 EM92 Savannah\n41.1874, -73.1958 FN31 Bridgeport\n26.2322, -98.2464 EL06 McAllen\n32.0246, -102.1135 DM82 Midland\n35.8522, -86.416 EM65 Murfreesboro\n40.6885, -112.0118 DN30 West Valley City\n32.8179, -79.959 FM02 Charleston\n29.6788, -82.3461 EL89 Gainesville\n34.0291, -80.898 EM94 Columbia\n41.967, -91.6778 EN41 Cedar Rapids\n30.2074, -92.0285 EM30 Lafayette\n46.8652, -96.829 EN16 Fargo\n38.951561, -92.328638 EM38 Columbia\n32.4545, -99.7381 EM02 Abilene\n34.2092, -77.8858 FM14 Wilmington\n31.8838, -102.3411 DM81 Odessa\n30.0849, -94.1453 EM20 Beaumont\n37.9877, -87.5347 EM67 Evansville\n39.7911, -89.6446 EM59 Springfield\n40.7515, -89.6174 EN50 Peoria\n45.7885, -108.5499 DN55 Billings\n34.9332, -120.4438 CM94 Santa Maria\n32.3173, -95.3059 EM22 Tyler\n44.5207, -87.9842 EN64 Green Bay\n33.9067, -98.5259 EM03 Wichita Falls\n32.3264, -106.7897 DM62 Las Cruces\n31.4411, -100.4505 DM91 San Angelo\n42.5822, -87.8456 EN62 Kenosha"
+      },
+      "date": 1575066464196
+    },
+    {
+      "type": "edit",
+      "id": "945bd435a3f3f384",
+      "item": {
+        "type": "map",
+        "id": "945bd435a3f3f384",
+        "text": "40.6635, -73.9387 FN30 New York City\n34.0194, -118.4108 DM04 Los Angeles\n41.8376, -87.6818 EN61 Chicago\n29.7866, -95.3909 EL29 Houston\n33.5722, -112.0901 DM33 Phoenix\n40.0094, -75.1333 FN20 Philadelphia\n29.4724, -98.5251 EL09 San Antonio\n32.8153, -117.135 DM12 San Diego\n32.7933, -96.7665 EM12 Dallas\n37.2967, -121.8189 CM97 San Jose\n30.3039, -97.7544 EM10 Austin\n30.3369, -81.6616 EM90 Jacksonville\n39.9852, -82.9848 EM89 Columbus\n37.7272, -123.0322 CM87 San Francisco\n35.2078, -80.831 EM95 Charlotte\n39.7767, -86.1459 EM69 Indianapolis\n47.6205, -122.3509 CN87 Seattle\n39.7619, -104.8811 DM79 Denver\n38.9041, -77.0172 FM18 Washington, D.C.\n42.332, -71.0202 FN42 Boston\n31.8484, -106.427 DM61 El Paso\n42.383, -83.1022 EN82 Detroit\n36.1718, -86.785 EM66 Nashville\n45.537, -122.65 CN85 Portland\n35.1028, -89.9774 EM55 Memphis\n35.4671, -97.5137 EM15 Oklahoma City\n36.2292, -115.2601 DM26 Las Vegas\n38.1654, -85.6474 EM78 Louisville\n39.3, -76.6105 FM19 Baltimore\n43.0633, -87.9667 EN63 Milwaukee\n35.1056, -106.6474 DM65 Albuquerque\n32.1531, -110.8706 DM42 Tucson\n36.7836, -119.7934 DM06 Fresno\n33.4019, -111.7174 DM43 Mesa\n38.5666, -121.4686 CM98 Sacramento\n33.7629, -84.4227 EM73 Atlanta\n39.1251, -94.551 EM29 Kansas City, MO\n38.8673, -104.7607 DM78 Colorado Springs\n25.7752, -80.2086 EL95 Miami\n35.8306, -78.6418 FM05 Raleigh\n41.2644, -96.0451 EN11 Omaha\n33.8092, -118.1553 DM03 Long Beach\n36.78, -76.0252 FM16 Virginia Beach\n44.9633, -93.2683 EN34 Minneapolis\n36.1279, -95.9023 EM26 Tulsa\n27.9701, -82.4797 EL87 Tampa\n30.0534, -89.9345 EM50 New Orleans\n37.6907, -97.3459 EM17 Wichita\n41.4785, -81.6794 EN91 Cleveland\n35.3212, -119.0183 DM05 Bakersfield\n33.8555, -117.7601 DM13 Anaheim\n27.7543, -97.1734 EL17 Corpus Christi\n38.6357, -90.2446 EM48 St. Louis\n39.1402, -84.5058 EM79 Cincinnati\n40.4398, -79.9766 FN00 Pittsburgh\n36.0951, -79.827 FM06 Greensboro\n33.0508, -96.7479 EM13 Plano\n40.8105, -96.6803 EN10 Lincoln\n28.4166, -81.2736 EL98 Orlando\n41.6641, -83.5819 EN81 Toledo\n41.0882, -85.1439 EN71 Fort Wayne\n27.5604, -99.4892 EL07 Laredo\n43.0878, -89.4299 EN53 Madison\n42.8925, -78.8597 FN02 Buffalo\n33.5656, -101.8867 DM93 Lubbock\n39.5491, -119.8499 DM09 Reno\n36.1027, -80.261 EM96 Winston-Salem\n43.6002, -116.2317 DN13 Boise\n37.5314, -77.476 FM17 Richmond\n30.4422, -91.1309 EM40 Baton Rouge\n47.6669, -117.4333 DN17 Spokane\n41.5726, -93.6102 EN31 Des Moines\n34.1416, -117.2936 DM14 San Bernardino\n33.5274, -86.799 EM63 Birmingham\n43.1699, -77.6169 FN13 Rochester\n40.7769, -111.931 DN40 Salt Lake City\n42.9612, -85.6556 EN72 Grand Rapids\n35.1999, -101.8302 DM95 Amarillo\n41.7635, -88.2901 EN51 Aurora\n32.3472, -86.2661 EM62 Montgomery\n34.7254, -92.3586 EM34 Little Rock\n34.699, -86.673 EM64 Huntsville\n33.3655, -82.0734 EM83 Augusta\n27.2806, -80.3883 EL97 Port St. Lucie\n32.5102, -84.8749 EM72 Columbus\n30.4551, -84.2534 EM70 Tallahassee\n38.889, -94.6906 EM28 Overland Park\n26.6432, -81.9974 EL96 Cape Coral\n32.4669, -93.7922 EM32 Shreveport\n35.9707, -83.9493 EM85 Knoxville\n25.9991, -97.455 EL15 Brownsville\n43.5383, -96.732 EN13 Sioux Falls\n35.066, -85.2484 EM75 Chattanooga\n41.8231, -71.4188 FN41 Providence\n38.4468, -122.7061 CM88 Santa Rosa\n44.9237, -123.0232 CN84 Salem\n37.1942, -93.2913 EM37 Springfield\n40.5482, -105.0648 DN70 Fort Collins\n32.3158, -90.2128 EM42 Jackson\n36.6902, -121.6337 CM96 Salinas\n42.1155, -72.54 FN32 Springfield\n32.8088, -83.6942 EM82 Macon\n31.0777, -97.732 EM11 Killeen\n42.2588, -89.0646 EN52 Rockford\n32.0025, -81.1536 EM92 Savannah\n41.1874, -73.1958 FN31 Bridgeport\n26.2322, -98.2464 EL06 McAllen\n32.0246, -102.1135 DM82 Midland\n35.8522, -86.416 EM65 Murfreesboro\n40.6885, -112.0118 DN30 West Valley City\n32.8179, -79.959 FM02 Charleston\n29.6788, -82.3461 EL89 Gainesville\n34.0291, -80.898 EM94 Columbia\n41.967, -91.6778 EN41 Cedar Rapids\n30.2074, -92.0285 EM30 Lafayette\n46.8652, -96.829 EN16 Fargo\n38.951561, -92.328638 EM38 Columbia\n32.4545, -99.7381 EM02 Abilene\n34.2092, -77.8858 FM14 Wilmington\n31.8838, -102.3411 DM81 Odessa\n30.0849, -94.1453 EM20 Beaumont\n37.9877, -87.5347 EM67 Evansville\n39.7911, -89.6446 EM59 Springfield\n40.7515, -89.6174 EN50 Peoria\n45.7885, -108.5499 DN55 Billings\n34.9332, -120.4438 CM94 Santa Maria\n32.3173, -95.3059 EM22 Tyler\n44.5207, -87.9842 EN64 Green Bay\n33.9067, -98.5259 EM03 Wichita Falls\n32.3264, -106.7897 DM62 Las Cruces\n31.4411, -100.4505 DM91 San Angelo\n42.5822, -87.8456 EN62 Kenosha"
+      },
+      "date": 1575066525093
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0537e3e405fe83f"
+      },
+      "id": "e0537e3e405fe83f",
+      "type": "add",
+      "after": "945bd435a3f3f384",
+      "date": 1575066529320
+    },
+    {
+      "type": "edit",
+      "id": "e0537e3e405fe83f",
+      "item": {
+        "type": "map",
+        "id": "e0537e3e405fe83f",
+        "text": "\n21.3243, -157.8476 BL11 Honolulu\n61.1743, -149.2843 BP51 Anchorage"
+      },
+      "date": 1575066592850
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2db3ef3956fb2e42"
+      },
+      "id": "2db3ef3956fb2e42",
+      "type": "add",
+      "after": "e0537e3e405fe83f",
+      "date": 1575066705948
+    },
+    {
+      "type": "edit",
+      "id": "2db3ef3956fb2e42",
+      "item": {
+        "type": "paragraph",
+        "id": "2db3ef3956fb2e42",
+        "text": "From List of United States cities by population [https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population wikipedia]"
+      },
+      "date": 1575066727862
+    },
+    {
+      "type": "move",
+      "order": [
+        "a54d3fe3323107b3",
+        "2db3ef3956fb2e42",
+        "945bd435a3f3f384",
+        "e0537e3e405fe83f"
+      ],
+      "id": "2db3ef3956fb2e42",
+      "date": 1575066738108
+    },
+    {
+      "type": "edit",
+      "id": "a54d3fe3323107b3",
+      "item": {
+        "type": "paragraph",
+        "id": "a54d3fe3323107b3",
+        "text": "We identify grid squares that contain a large city."
+      },
+      "date": 1575067011433
+    },
+    {
+      "type": "edit",
+      "id": "a54d3fe3323107b3",
+      "item": {
+        "type": "paragraph",
+        "id": "a54d3fe3323107b3",
+        "text": "We identify grid squares that contain a large city. These are "
+      },
+      "date": 1575067147434
+    },
+    {
+      "type": "edit",
+      "id": "a54d3fe3323107b3",
+      "item": {
+        "type": "paragraph",
+        "id": "a54d3fe3323107b3",
+        "text": "We identify grid squares that contain a large city. These are 133 of the 314"
+      },
+      "date": 1575067163988
+    },
+    {
+      "type": "edit",
+      "id": "a54d3fe3323107b3",
+      "item": {
+        "type": "paragraph",
+        "id": "a54d3fe3323107b3",
+        "text": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities."
+      },
+      "date": 1575067212557
+    },
+    {
+      "type": "edit",
+      "id": "2db3ef3956fb2e42",
+      "item": {
+        "type": "paragraph",
+        "id": "2db3ef3956fb2e42",
+        "text": "From List of United States cities by population. [https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population wikipedia]"
+      },
+      "date": 1575067282174
+    },
+    {
+      "type": "edit",
+      "id": "2db3ef3956fb2e42",
+      "item": {
+        "type": "paragraph",
+        "id": "2db3ef3956fb2e42",
+        "text": "List of United States cities by population. [https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population wikipedia]"
+      },
+      "date": 1575067293329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60f072877b34a9a1"
+      },
+      "id": "60f072877b34a9a1",
+      "type": "add",
+      "after": "e0537e3e405fe83f",
+      "date": 1575067619261
+    },
+    {
+      "type": "edit",
+      "id": "60f072877b34a9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "60f072877b34a9a1",
+        "text": "See [[Street Map]]"
+      },
+      "date": 1575067637870
+    }
+  ]
+}
