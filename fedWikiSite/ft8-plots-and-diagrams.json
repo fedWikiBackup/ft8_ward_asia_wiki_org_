@@ -1,0 +1,444 @@
+{
+  "title": "FT8 Plots and Diagrams",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5bc89770b3bffb98",
+      "text": "We collect decodes from various locations and display them various ways. Here we pull these together to find each quickly."
+    },
+    {
+      "type": "pagefold",
+      "id": "44f8b9e81c27f8dd",
+      "text": "datalog"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4d1426c56937420",
+      "text": "Unexpected memory consumption. Collected from and stored by hour at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3ba220cff5db29c7",
+      "text": "Decoding buffer stats. Collected from and stored by day at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?keep=2 plot]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e8ea6ab80805fa64",
+      "text": "High attention stations Collected from ward.asia.wiki.org and stored by day at ward.bay.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?site=found.ward.bay.wiki.org&slug=ft8-attention-datalog&chunk=day&min=28&keep=2 plot]"
+    },
+    {
+      "type": "pagefold",
+      "id": "dc3afbf8d7e70e65",
+      "text": "plugin"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb2f42bc6f9bf005",
+      "text": "Socal network. Collected by laptop and stored as svg at ward.bay.wiki.org. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html view]"
+    },
+    {
+      "type": "pagefold",
+      "id": "a9844da551e7e245",
+      "text": "upload"
+    },
+    {
+      "type": "paragraph",
+      "id": "bdcfaf4421be3807",
+      "text": "See [[K9OX FT8 Log]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "524b36199615b494",
+      "text": "World contact counts by grid square. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html map]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0964458dd0b03b3d",
+      "text": "Stations and new grids worked by day and hour. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/timecard.html chart]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8fee1c432977e2be",
+      "text": "[[Decode Waterfall]] in table-top 3d"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "FT8 Plots and Diagrams",
+        "story": []
+      },
+      "date": 1573054911033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bc89770b3bffb98"
+      },
+      "id": "5bc89770b3bffb98",
+      "type": "add",
+      "date": 1573054914273
+    },
+    {
+      "type": "fork",
+      "date": 1573054924357
+    },
+    {
+      "type": "edit",
+      "id": "5bc89770b3bffb98",
+      "item": {
+        "type": "paragraph",
+        "id": "5bc89770b3bffb98",
+        "text": "We collect decodes from various locations and display them various ways. Here we pull these together to find each quickly."
+      },
+      "date": 1573055042360
+    },
+    {
+      "type": "add",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption by the WSJT plugin. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "after": "5bc89770b3bffb98",
+      "date": 1573055137547
+    },
+    {
+      "type": "edit",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption by the WSJT plugin. Collected from http://ward.asia.wiki.org/ and stored at same. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "date": 1573055221855
+    },
+    {
+      "type": "edit",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption by the WSJT plugin. Collected from ward.asia.wiki.org and stored at same. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "date": 1573055241898
+    },
+    {
+      "type": "edit",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption by the WSJT plugin. Collected from and stored at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "date": 1573055263498
+    },
+    {
+      "type": "add",
+      "id": "3ba220cff5db29c7",
+      "item": {
+        "type": "paragraph",
+        "id": "3ba220cff5db29c7",
+        "text": "Decoding stats from the WSJT plugin buffer. Collected from and stored by day at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?keep=2 plot]"
+      },
+      "after": "b4d1426c56937420",
+      "date": 1573055502781
+    },
+    {
+      "type": "add",
+      "id": "e8ea6ab80805fa64",
+      "item": {
+        "type": "paragraph",
+        "id": "e8ea6ab80805fa64",
+        "text": "High attention stations Collected from ward.asia.wiki.org and stored at ward.bay.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?site=found.ward.bay.wiki.org&slug=ft8-attention-datalog&chunk=day&min=28&keep=2 plot]"
+      },
+      "after": "3ba220cff5db29c7",
+      "date": 1573055686091
+    },
+    {
+      "type": "edit",
+      "id": "e8ea6ab80805fa64",
+      "item": {
+        "type": "paragraph",
+        "id": "e8ea6ab80805fa64",
+        "text": "High attention stations Collected from ward.asia.wiki.org and stored by day at ward.bay.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?site=found.ward.bay.wiki.org&slug=ft8-attention-datalog&chunk=day&min=28&keep=2 plot]"
+      },
+      "date": 1573055727159
+    },
+    {
+      "type": "edit",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption by the WSJT plugin. Collected from and stored by hour at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "date": 1573055738803
+    },
+    {
+      "type": "edit",
+      "id": "b4d1426c56937420",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d1426c56937420",
+        "text": "Unexpected memory consumption. Collected from and stored by hour at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/plot-raw-datalog.html?slug=heap-datalog&keep=24 plot]"
+      },
+      "date": 1573055756867
+    },
+    {
+      "type": "edit",
+      "id": "3ba220cff5db29c7",
+      "item": {
+        "type": "paragraph",
+        "id": "3ba220cff5db29c7",
+        "text": "Decoding buffer stats. Collected from and stored by day at ward.asia.wiki.org. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?keep=2 plot]"
+      },
+      "date": 1573055790626
+    },
+    {
+      "type": "add",
+      "id": "eb2f42bc6f9bf005",
+      "item": {
+        "type": "paragraph",
+        "id": "eb2f42bc6f9bf005",
+        "text": "Socal network. Collected by laptop and stored as svg at ward.bay.wiki.org. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html view]"
+      },
+      "after": "e8ea6ab80805fa64",
+      "date": 1573055970174
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44f8b9e81c27f8dd"
+      },
+      "id": "44f8b9e81c27f8dd",
+      "type": "add",
+      "after": "eb2f42bc6f9bf005",
+      "date": 1573399232444
+    },
+    {
+      "type": "edit",
+      "id": "44f8b9e81c27f8dd",
+      "item": {
+        "type": "pagefold",
+        "id": "44f8b9e81c27f8dd",
+        "text": "datalog"
+      },
+      "date": 1573399245497
+    },
+    {
+      "type": "move",
+      "order": [
+        "5bc89770b3bffb98",
+        "44f8b9e81c27f8dd",
+        "b4d1426c56937420",
+        "3ba220cff5db29c7",
+        "e8ea6ab80805fa64",
+        "eb2f42bc6f9bf005"
+      ],
+      "id": "44f8b9e81c27f8dd",
+      "date": 1573399249012
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a9844da551e7e245"
+      },
+      "id": "a9844da551e7e245",
+      "type": "add",
+      "after": "eb2f42bc6f9bf005",
+      "date": 1573399260877
+    },
+    {
+      "type": "edit",
+      "id": "a9844da551e7e245",
+      "item": {
+        "type": "pagefold",
+        "id": "a9844da551e7e245",
+        "text": "adif"
+      },
+      "date": 1573399270443
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc3afbf8d7e70e65"
+      },
+      "id": "dc3afbf8d7e70e65",
+      "type": "add",
+      "after": "a9844da551e7e245",
+      "date": 1573399327867
+    },
+    {
+      "type": "edit",
+      "id": "dc3afbf8d7e70e65",
+      "item": {
+        "type": "pagefold",
+        "id": "dc3afbf8d7e70e65",
+        "text": "plugin"
+      },
+      "date": 1573399349367
+    },
+    {
+      "type": "move",
+      "order": [
+        "5bc89770b3bffb98",
+        "44f8b9e81c27f8dd",
+        "b4d1426c56937420",
+        "3ba220cff5db29c7",
+        "e8ea6ab80805fa64",
+        "dc3afbf8d7e70e65",
+        "eb2f42bc6f9bf005",
+        "a9844da551e7e245"
+      ],
+      "id": "dc3afbf8d7e70e65",
+      "date": 1573399353570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "524b36199615b494"
+      },
+      "id": "524b36199615b494",
+      "type": "add",
+      "after": "a9844da551e7e245",
+      "date": 1573399357657
+    },
+    {
+      "type": "edit",
+      "id": "a9844da551e7e245",
+      "item": {
+        "type": "pagefold",
+        "id": "a9844da551e7e245",
+        "text": "adif upload"
+      },
+      "date": 1573399370015
+    },
+    {
+      "type": "edit",
+      "id": "a9844da551e7e245",
+      "item": {
+        "type": "pagefold",
+        "id": "a9844da551e7e245",
+        "text": "upload"
+      },
+      "date": 1573399381934
+    },
+    {
+      "type": "edit",
+      "id": "524b36199615b494",
+      "item": {
+        "type": "paragraph",
+        "id": "524b36199615b494",
+        "text": "World contact counts by grid square. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html map]"
+      },
+      "date": 1573399501099
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bdcfaf4421be3807"
+      },
+      "id": "bdcfaf4421be3807",
+      "type": "add",
+      "after": "524b36199615b494",
+      "date": 1573399563926
+    },
+    {
+      "type": "edit",
+      "id": "bdcfaf4421be3807",
+      "item": {
+        "type": "paragraph",
+        "id": "bdcfaf4421be3807",
+        "text": "See [[K9OX FT8 Log]]"
+      },
+      "date": 1573399576935
+    },
+    {
+      "type": "move",
+      "order": [
+        "5bc89770b3bffb98",
+        "44f8b9e81c27f8dd",
+        "b4d1426c56937420",
+        "3ba220cff5db29c7",
+        "e8ea6ab80805fa64",
+        "dc3afbf8d7e70e65",
+        "eb2f42bc6f9bf005",
+        "a9844da551e7e245",
+        "bdcfaf4421be3807",
+        "524b36199615b494"
+      ],
+      "id": "bdcfaf4421be3807",
+      "date": 1573399592560
+    },
+    {
+      "type": "add",
+      "id": "0964458dd0b03b3d",
+      "item": {
+        "type": "paragraph",
+        "id": "0964458dd0b03b3d",
+        "text": "Stations and new grid squares worked by day and hour. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/timecard.html chart]"
+      },
+      "after": "524b36199615b494",
+      "date": 1573399720564
+    },
+    {
+      "type": "edit",
+      "id": "0964458dd0b03b3d",
+      "item": {
+        "type": "paragraph",
+        "id": "0964458dd0b03b3d",
+        "text": "Stations and new squares worked by day and hour. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/timecard.html chart]"
+      },
+      "date": 1573399748798
+    },
+    {
+      "type": "edit",
+      "id": "0964458dd0b03b3d",
+      "item": {
+        "type": "paragraph",
+        "id": "0964458dd0b03b3d",
+        "text": "Stations and new grids worked by day and hour. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/timecard.html chart]"
+      },
+      "date": 1573399770577
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb8b0b48d34b52fe"
+      },
+      "id": "bb8b0b48d34b52fe",
+      "type": "add",
+      "after": "0964458dd0b03b3d",
+      "date": 1576450646215
+    },
+    {
+      "type": "edit",
+      "id": "bb8b0b48d34b52fe",
+      "item": {
+        "type": "paragraph",
+        "id": "bb8b0b48d34b52fe",
+        "text": "Stations worked highlighted in decode waterfall. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html chart]"
+      },
+      "date": 1576450697235
+    },
+    {
+      "type": "add",
+      "id": "8fee1c432977e2be",
+      "item": {
+        "type": "paragraph",
+        "id": "8fee1c432977e2be",
+        "text": "[[Decode Waterfall]] in table-top 3d"
+      },
+      "after": "bb8b0b48d34b52fe",
+      "date": 1576679668586
+    },
+    {
+      "type": "remove",
+      "id": "bb8b0b48d34b52fe",
+      "date": 1576679685119
+    }
+  ]
+}
