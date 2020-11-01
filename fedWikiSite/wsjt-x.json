@@ -1,0 +1,133 @@
+{
+  "title": "WSJT-X",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1c0f68807e848268",
+      "text": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
+    },
+    {
+      "type": "plugmatic",
+      "id": "6cdb63a35533f648",
+      "text": "wiki-plugin-wsjt"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b3579e9938a2eb6",
+      "text": "See [[FT8 at K9OX]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2e0035799c38003a",
+      "text": "Stations receiving attention. [http://ft8.ward.asia.wiki.org/plugin/wsjt/attention api]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9df069edb9b0b156",
+      "text": "All stations decoded. [http://ft8.ward.asia.wiki.org/plugin/wsjt/copy api]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "WSJT-X",
+        "story": []
+      },
+      "date": 1569716789750
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c0f68807e848268"
+      },
+      "id": "1c0f68807e848268",
+      "type": "add",
+      "date": 1569717070209
+    },
+    {
+      "type": "edit",
+      "id": "1c0f68807e848268",
+      "item": {
+        "type": "paragraph",
+        "id": "1c0f68807e848268",
+        "text": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT."
+      },
+      "date": 1569717077644
+    },
+    {
+      "type": "edit",
+      "id": "1c0f68807e848268",
+      "item": {
+        "type": "paragraph",
+        "id": "1c0f68807e848268",
+        "text": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
+      },
+      "date": 1569717107050
+    },
+    {
+      "type": "add",
+      "id": "3b3579e9938a2eb6",
+      "item": {
+        "type": "paragraph",
+        "id": "3b3579e9938a2eb6",
+        "text": "See [[FT8 at K9OX]]"
+      },
+      "after": "1c0f68807e848268",
+      "date": 1569717177593
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "plugmatic",
+        "id": "6cdb63a35533f648",
+        "text": "wiki-plugin-wsjt"
+      },
+      "after": "1c0f68807e848268",
+      "id": "6cdb63a35533f648",
+      "date": 1569892601792
+    },
+    {
+      "type": "add",
+      "id": "2e0035799c38003a",
+      "item": {
+        "type": "paragraph",
+        "id": "2e0035799c38003a",
+        "text": "Stations receiving attention. [http://ft8.ward.asia.wiki.org/plugin/wsjt/attention]"
+      },
+      "after": "3b3579e9938a2eb6",
+      "date": 1569893028789
+    },
+    {
+      "type": "edit",
+      "id": "2e0035799c38003a",
+      "item": {
+        "type": "paragraph",
+        "id": "2e0035799c38003a",
+        "text": "Stations receiving attention. [http://ft8.ward.asia.wiki.org/plugin/wsjt/attention api]"
+      },
+      "date": 1569893038130
+    },
+    {
+      "type": "add",
+      "id": "9df069edb9b0b156",
+      "item": {
+        "type": "paragraph",
+        "id": "9df069edb9b0b156",
+        "text": "All stations decoded. [http://ft8.ward.asia.wiki.org/plugin/wsjt/copy] api"
+      },
+      "after": "2e0035799c38003a",
+      "date": 1569893102160
+    },
+    {
+      "type": "edit",
+      "id": "9df069edb9b0b156",
+      "item": {
+        "type": "paragraph",
+        "id": "9df069edb9b0b156",
+        "text": "All stations decoded. [http://ft8.ward.asia.wiki.org/plugin/wsjt/copy api]"
+      },
+      "date": 1569893115279
+    }
+  ]
+}
