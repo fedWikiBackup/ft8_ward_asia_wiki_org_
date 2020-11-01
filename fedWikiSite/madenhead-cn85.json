@@ -1,0 +1,94 @@
+{
+  "title": "Madenhead CN85",
+  "story": [
+    {
+      "type": "map",
+      "id": "b8f3518e647b30fc",
+      "text": "BOUNDARY 46.0, -124.0\nBOUNDARY 45.0, -122.0"
+    },
+    {
+      "type": "paragraph",
+      "id": "25ff53aeef9924b2",
+      "text": "See [[Missing Grid Squares]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Madenhead CN85",
+        "story": []
+      },
+      "date": 1575069995823
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8f3518e647b30fc"
+      },
+      "id": "b8f3518e647b30fc",
+      "type": "add",
+      "date": 1575070002881
+    },
+    {
+      "type": "edit",
+      "id": "b8f3518e647b30fc",
+      "item": {
+        "type": "map",
+        "id": "b8f3518e647b30fc",
+        "text": "BOUNDARY "
+      },
+      "date": 1575070026624
+    },
+    {
+      "type": "edit",
+      "id": "b8f3518e647b30fc",
+      "item": {
+        "type": "map",
+        "id": "b8f3518e647b30fc",
+        "text": "BOUNDARY 45.0, -122.0"
+      },
+      "date": 1575070090554
+    },
+    {
+      "type": "edit",
+      "id": "b8f3518e647b30fc",
+      "item": {
+        "type": "map",
+        "id": "b8f3518e647b30fc",
+        "text": "BOUNDARY 46.0, -123.0\nBOUNDARY 45.0, -122.0"
+      },
+      "date": 1575070130425
+    },
+    {
+      "type": "edit",
+      "id": "b8f3518e647b30fc",
+      "item": {
+        "type": "map",
+        "id": "b8f3518e647b30fc",
+        "text": "BOUNDARY 46.0, -124.0\nBOUNDARY 45.0, -122.0"
+      },
+      "date": 1575070160493
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25ff53aeef9924b2"
+      },
+      "id": "25ff53aeef9924b2",
+      "type": "add",
+      "after": "b8f3518e647b30fc",
+      "date": 1575078935155
+    },
+    {
+      "type": "edit",
+      "id": "25ff53aeef9924b2",
+      "item": {
+        "type": "paragraph",
+        "id": "25ff53aeef9924b2",
+        "text": "See [[Missing Grid Squares]]"
+      },
+      "date": 1575078960371
+    }
+  ]
+}
