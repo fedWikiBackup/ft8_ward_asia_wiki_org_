@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "a35jt-tonga-expedition",
+    "title": "A35JT Tonga Expedition",
+    "date": 1569785789318,
+    "synopsis": "The DX Expedition in affiliation with IOTA, Islands on the Air, had a presence on the band in that so many stations were calling it. Here the infrequent acknowledgements suggest they were operating  [[Concurrent Contacts]] and would not wait for these transmissions. [https://vk5gr-iota.net site]"
+  },
+  {
+    "slug": "advanced-d3-technique",
+    "title": "Advanced D3 Technique",
+    "date": 1576938489515,
+    "synopsis": "It has been a few years since cracking the code for d3 technique. It is coming back slowly. First, be sure anything you read online is for v5 which we have chosen to use. Then use each example as a guide through the docs before trying any part in code you want to work."
+  },
+  {
+    "slug": "aperture-effects",
+    "title": "Aperture Effects",
+    "date": 1565534441972,
+    "synopsis": "We count events to quantify the activity reported from digital ham radio receivers. We find ourselves trading off statistical properties for temporal resolution."
+  },
+  {
+    "slug": "bl",
+    "title": "BL",
+    "date": 1575085723157,
+    "synopsis": "- BL09 [http://www.levinecentral.com/ham/grid_square.php?Grid=BL09 map]"
+  },
+  {
+    "slug": "bp",
+    "title": "BP",
+    "date": 1575085659435,
+    "synopsis": "- BP09 [http://www.levinecentral.com/ham/grid_square.php?Grid=BP09 map]"
+  },
+  {
+    "slug": "broadband-radio-system",
+    "title": "Broadband Radio System",
+    "date": 1592150252073,
+    "synopsis": "We're assembling a digital radio from large modules from open-source hardware and software."
+  },
+  {
+    "slug": "cm",
+    "title": "CM",
+    "date": 1575085363156,
+    "synopsis": "- CM09 [http://www.levinecentral.com/ham/grid_square.php?Grid=CM09 map]"
+  },
+  {
+    "slug": "cn",
+    "title": "CN",
+    "date": 1575085435577,
+    "synopsis": "- CN09 [http://www.levinecentral.com/ham/grid_square.php?Grid=CN09 map]"
+  },
+  {
+    "slug": "concurrent-contacts",
+    "title": "Concurrent Contacts",
+    "date": 1569784100460,
+    "synopsis": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
+  },
+  {
+    "slug": "decode-waterfall",
+    "title": "Decode Waterfall",
+    "date": 1582516332396,
+    "synopsis": "We prototype a waterfall display reconstructed from decoded data and rendered with d3. This shows digital ham radio activity at 14 MHz that depends on daytime ionospheric skip. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=-1331 chart] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/waterfall.html github]"
+  },
+  {
+    "slug": "diagram-status-block",
+    "title": "Diagram Status Block",
+    "date": 1566772561336,
+    "synopsis": "We experiment here to decide how we might format status information in our social network diagrams."
+  },
+  {
+    "slug": "dm",
+    "title": "DM",
+    "date": 1575083546238,
+    "synopsis": "- DM09 Reno, Nevada"
+  },
+  {
+    "slug": "dn",
+    "title": "DN",
+    "date": 1575085516035,
+    "synopsis": "- DN09 [http://www.levinecentral.com/ham/grid_square.php?Grid=DN09 map]"
+  },
+  {
+    "slug": "el",
+    "title": "EL",
+    "date": 1575083662271,
+    "synopsis": "- EL09 San Antonio, Texas"
+  },
+  {
+    "slug": "em",
+    "title": "EM",
+    "date": 1575085305855,
+    "synopsis": "- EM09 [http://www.levinecentral.com/ham/grid_square.php?Grid=EM09 map]"
+  },
+  {
+    "slug": "en",
+    "title": "EN",
+    "date": 1575083595846,
+    "synopsis": "- EN09 [http://www.levinecentral.com/ham/grid_square.php?Grid=EN09 map]"
+  },
+  {
+    "slug": "federation-search",
+    "title": "Federation Search",
+    "date": 1555276226218,
+    "synopsis": "Search the visible federation for pages matching all words entered. Case doesn't matter but spelling does."
+  },
+  {
+    "slug": "fm",
+    "title": "FM",
+    "date": 1575085534855,
+    "synopsis": "- FM09 [http://www.levinecentral.com/ham/grid_square.php?Grid=FM09 map]"
+  },
+  {
+    "slug": "fn",
+    "title": "FN",
+    "date": 1575085419189,
+    "synopsis": "- FN09 [http://www.levinecentral.com/ham/grid_square.php?Grid=FN09 map]"
+  },
+  {
+    "slug": "ft8-at-k9ox",
+    "title": "FT8 at K9OX",
+    "date": 1569695118609,
+    "synopsis": "New digital modes appear in amateur radio with software downloads and a sound card connection to a suitable laptop computer. FT8 is the new thing logging at least 10x more contacts than any other, or perhaps all other modes combined. [https://www.flexradio.com/ft8-tipping-point-for-ham-radio/ post]"
+  },
+  {
+    "slug": "ft8-plots-and-diagrams",
+    "title": "FT8 Plots and Diagrams",
+    "date": 1576679685119,
+    "synopsis": "We collect decodes from various locations and display them various ways. Here we pull these together to find each quickly."
+  },
+  {
+    "slug": "ham-radio-operations",
+    "title": "Ham Radio Operations",
+    "date": 1589681305054,
+    "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]"
+  },
+  {
+    "slug": "hermes-lite-sdr-transceiver",
+    "title": "Hermes-Lite SDR Transceiver",
+    "date": 1591845635454,
+    "synopsis": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [http://www.hermeslite.com/ site]  [https://github.com/softerhardware/Hermes-Lite2/wiki wiki] [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+  },
+  {
+    "slug": "joe-taylor-fan-club",
+    "title": "Joe Taylor Fan Club",
+    "date": 1571497246141,
+    "synopsis": "Joseph Hooton Taylor Jr. (born March 29, 1941) is an American astrophysicist and Nobel Prize in Physics laureate for his discovery with Russell Alan Hulse of a \"new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation.\" [https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor_Jr. wikipedia]"
+  },
+  {
+    "slug": "k2gt-efficient-operation",
+    "title": "K2GT Efficient Operation",
+    "date": 1564921027632,
+    "synopsis": "We see a single station dominating our connection diagram and investigate his operating practice."
+  },
+  {
+    "slug": "kp3h-efficient-operation",
+    "title": "KP3H Efficient Operation",
+    "date": 1564922568316,
+    "synopsis": "Our social network diagram brings another exceptional operator to our attention."
+  },
+  {
+    "slug": "logbook-of-the-world",
+    "title": "Logbook of The World",
+    "date": 1576446485623,
+    "synopsis": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. [https://en.wikipedia.org/wiki/Logbook_of_The_World wikipedia] [https://www.rickmurphy.net/trustedqsl.org/tQSL-documents/lotwspec.pdf pdf]"
+  },
+  {
+    "slug": "madenhead-cn85",
+    "title": "Madenhead CN85",
+    "date": 1575078960371,
+    "synopsis": "See [[Missing Grid Squares]]"
+  },
+  {
+    "slug": "missing-grid-squares",
+    "title": "Missing Grid Squares",
+    "date": 1575085818126,
+    "synopsis": "<center><table>"
+  },
+  {
+    "slug": "overnight-opening",
+    "title": "Overnight Opening",
+    "date": 1571321098385,
+    "synopsis": "Datalog recordings report continuous activity Oct 16-17. What's with that? Select All from WSJT-X shows otherwise."
+  },
+  {
+    "slug": "radios-social-network",
+    "title": "Radio's Social Network",
+    "date": 1572382460695,
+    "synopsis": "We look at recent radio traffic and draw associations based on who has confirmed contacts. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html enlarge] [https://github.com/WardCunningham/ft8-network github]"
+  },
+  {
+    "slug": "share-the-wonder",
+    "title": "Share the Wonder",
+    "date": 1563290533766,
+    "synopsis": "Jeri Ellsworth's Tilt Five suggests we can, \"Explore, battle, and solve puzzles together with friends as your game unfolds in a shared holographic space, whether they’re across the table or across the world.\" [https://www.tiltfive.com/ site]"
+  },
+  {
+    "slug": "tag-propagation",
+    "title": "Tag Propagation",
+    "date": 1566485033074,
+    "synopsis": "We identify some stations as tagged and once tagged all stations they confirm will hence be marked as tagged too."
+  },
+  {
+    "slug": "threejs-fundamentals",
+    "title": "Three.js Fundamentals",
+    "date": 1582517106532,
+    "synopsis": "This is the first article in a series of articles about three.js. Three.js is a 3D library that tries to make it as easy as possible to get 3D content on a webpage."
+  },
+  {
+    "slug": "transmission-sequences",
+    "title": "Transmission Sequences",
+    "date": 1582777718817,
+    "synopsis": "We examine the usual exchange of information and variations that might be interesting in decode datasets."
+  },
+  {
+    "slug": "udp-reporting-and-requests",
+    "title": "UDP Reporting and Requests",
+    "date": 1572200163262,
+    "synopsis": "The WSJT-X ham radio digital signaling application will report decoding status and accept requests by UDP datagrams. Here we explore how to avail ourselves of that service. [https://en.wikipedia.org/wiki/User_Datagram_Protocol wikipedia]"
+  },
+  {
+    "slug": "us-cities-by-grid-square",
+    "title": "US Cities by Grid Square",
+    "date": 1575067637870,
+    "synopsis": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities."
+  },
+  {
+    "slug": "waterfall-decorations",
+    "title": "Waterfall Decorations",
+    "date": 1577889995541,
+    "synopsis": "We imagine interacting with a [[Decode Waterfall]] as an open testbed for interaction mechanisms, some easily simulated in 2d, others unique to the TiltFive hardware."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1564921989197,
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+  },
+  {
+    "slug": "wsjt-x",
+    "title": "WSJT-X",
+    "date": 1569893115279,
+    "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
+  }
+]
