@@ -1,0 +1,463 @@
+{
+  "title": "Logbook of The World",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a9a9494111b7d982",
+      "text": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. [https://en.wikipedia.org/wiki/Logbook_of_The_World wikipedia] [https://www.rickmurphy.net/trustedqsl.org/tQSL-documents/lotwspec.pdf pdf]"
+    },
+    {
+      "type": "html",
+      "id": "d82b98c8751e6f1f",
+      "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics (2018)\n</caption>\n<tbody><tr>\n<td align=right>1,000,003,855</td>\n<td>QSO records entered\n</td></tr>\n<tr>\n<td align=right>187,798,390</td>\n<td>QSL records confirmed\n</td></tr>\n<tr>\n<td align=right>112,824</td>\n<td>Users registered\n</td></tr>\n<tr>\n<td align=right>165,239</td>\n<td>Certificates active\n</td></tr>\n<tr>\n<td align=right>18,724,655</td>\n<td>User files processed\n</td></tr></tbody>\n</table>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ea40ead5c02c885",
+      "text": "Using LoTW, radio amateurs can claim and verify contacts made with other amateurs, generally for claiming credit for operating awards, such as DXCC."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c3b42c6a4025b05",
+      "text": "After repeated attempts, the ARRL has been unwilling to accept change requests in the design of LoTW as it has been published, and we do not expect them to make any changes that would make it easier to establish a server-to-server link between LoTW and eQSL.cc. [http://www.eqsl.cc/qslcard/LOTWAnalysis.cfm post]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4bb6e49539b8f70f",
+      "text": "request"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d5e7ae8a047f6bb",
+      "text": "Started processing your New Certificate Request.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "214eee0eca53dc15",
+      "text": "For call sign: K9OX\nFor DXCC Entity: UNITED STATES OF AMERICA (291)\nFor QSOs not before: 2013-02-08 00:00:00\nFor QSOs not after: <blank>\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "861bd1d047951d62",
+      "text": "Your certificate request has been accepted. As the next step in the verification process, a verification code will be printed on a postcard and sent to you via USPS. We will send you another e-mail once your postcard is on its way. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b8ab7877a76a357a",
+      "text": "If you do not receive that e-mail within 2 business days, please contact LoTW-help@arrl.org explaining the situation. Please NO NOT resubmit this request."
+    },
+    {
+      "type": "assets",
+      "id": "631235628845d7b1",
+      "text": "pages/logbook-of-the-world"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Logbook of The World",
+        "story": []
+      },
+      "date": 1574979957284
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4bb6e49539b8f70f"
+      },
+      "id": "4bb6e49539b8f70f",
+      "type": "add",
+      "date": 1574979986034
+    },
+    {
+      "type": "edit",
+      "id": "4bb6e49539b8f70f",
+      "item": {
+        "type": "pagefold",
+        "id": "4bb6e49539b8f70f",
+        "text": "request"
+      },
+      "date": 1574980004583
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d5e7ae8a047f6bb"
+      },
+      "id": "0d5e7ae8a047f6bb",
+      "type": "add",
+      "after": "4bb6e49539b8f70f",
+      "date": 1574980007248
+    },
+    {
+      "type": "edit",
+      "id": "0d5e7ae8a047f6bb",
+      "item": {
+        "type": "paragraph",
+        "id": "0d5e7ae8a047f6bb",
+        "text": "Started processing your New Certificate Request.\n"
+      },
+      "date": 1574980025534
+    },
+    {
+      "type": "add",
+      "id": "214eee0eca53dc15",
+      "item": {
+        "type": "factory",
+        "id": "214eee0eca53dc15",
+        "text": "For call sign: K9OX\nFor DXCC Entity: UNITED STATES OF AMERICA (291)\nFor QSOs not before: 2013-02-08 00:00:00\nFor QSOs not after: <blank>\nYour certificate request has been accepted. As the next step in the verification process, a verification code will be printed on a postcard and sent to you via USPS. We will send you another e-mail once your postcard is on its way. If you do not receive that e-mail within 2 business days, please contact LoTW-help@arrl.org<mailto:LoTW-help@arrl.org> explaining the situation. Please NO NOT resubmit this request."
+      },
+      "after": "0d5e7ae8a047f6bb",
+      "date": 1574980057650
+    },
+    {
+      "type": "edit",
+      "id": "214eee0eca53dc15",
+      "item": {
+        "type": "markdown",
+        "id": "214eee0eca53dc15",
+        "text": "For call sign: K9OX\nFor DXCC Entity: UNITED STATES OF AMERICA (291)\nFor QSOs not before: 2013-02-08 00:00:00\nFor QSOs not after: <blank>\n\n"
+      },
+      "date": 1574980078747
+    },
+    {
+      "type": "add",
+      "id": "861bd1d047951d62",
+      "item": {
+        "type": "factory",
+        "id": "861bd1d047951d62",
+        "text": "Your certificate request has been accepted. As the next step in the verification process, a verification code will be printed on a postcard and sent to you via USPS. We will send you another e-mail once your postcard is on its way. If you do not receive that e-mail within 2 business days, please contact LoTW-help@arrl.org<mailto:LoTW-help@arrl.org> explaining the situation. Please NO NOT resubmit this request."
+      },
+      "after": "214eee0eca53dc15",
+      "date": 1574980081585
+    },
+    {
+      "type": "edit",
+      "id": "861bd1d047951d62",
+      "item": {
+        "type": "paragraph",
+        "id": "861bd1d047951d62",
+        "text": "Your certificate request has been accepted. As the next step in the verification process, a verification code will be printed on a postcard and sent to you via USPS. We will send you another e-mail once your postcard is on its way. "
+      },
+      "date": 1574980121608
+    },
+    {
+      "type": "add",
+      "id": "b8ab7877a76a357a",
+      "item": {
+        "type": "paragraph",
+        "id": "b8ab7877a76a357a",
+        "text": "If you do not receive that e-mail within 2 business days, please contact LoTW-help@arrl.org explaining the situation. Please NO NOT resubmit this request."
+      },
+      "after": "861bd1d047951d62",
+      "date": 1574980131464
+    },
+    {
+      "type": "add",
+      "id": "a9a9494111b7d982",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a9494111b7d982",
+        "text": "Logbook of the World (LoTW) is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. Using LoTW, radio amateurs (hams) can claim and verify contacts (QSOs) made with other amateurs, generally for claiming credit for operating awards, such as DXCC."
+      },
+      "after": "b8ab7877a76a357a",
+      "date": 1574980226365
+    },
+    {
+      "type": "edit",
+      "id": "a9a9494111b7d982",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a9494111b7d982",
+        "text": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. Using LoTW, radio amateurs can claim and verify contacts made with other amateurs, generally for claiming credit for operating awards, such as DXCC."
+      },
+      "date": 1574980262766
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9a9494111b7d982",
+        "4bb6e49539b8f70f",
+        "0d5e7ae8a047f6bb",
+        "214eee0eca53dc15",
+        "861bd1d047951d62",
+        "b8ab7877a76a357a"
+      ],
+      "id": "a9a9494111b7d982",
+      "date": 1574980266768
+    },
+    {
+      "type": "add",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table>"
+      },
+      "after": "a9a9494111b7d982",
+      "date": 1574982426412
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table>\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records have been entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982448041
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table>\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982475967
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table borderwidth=1>\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982502548
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1>\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982510035
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982595347
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1 cellpad=3 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982620831
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1 pad=3 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982628231
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1 cellpadding=3 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982672055
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982691494
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LOTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982703149
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982722380
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics (2018)\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users are registered in the system\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates are active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files have been processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982769371
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics (2018)\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered into the system.\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records have resulted.\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users registered in the system.\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates active.\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files processed.\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982824658
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics (2018)\n</caption>\n<tbody><tr>\n<td>1,000,003,855</td>\n<td>QSO records entered\n</td></tr>\n<tr>\n<td>187,798,390</td>\n<td>QSL records confirmed\n</td></tr>\n<tr>\n<td>112,824</td>\n<td>Users registered\n</td></tr>\n<tr>\n<td>165,239</td>\n<td>Certificates active\n</td></tr>\n<tr>\n<td>18,724,655</td>\n<td>User files processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574982897440
+    },
+    {
+      "type": "edit",
+      "id": "d82b98c8751e6f1f",
+      "item": {
+        "type": "html",
+        "id": "d82b98c8751e6f1f",
+        "text": "<table width=100% border=1 cellpadding=4 style=\"border-collapse: collapse;\">\n<caption>LoTW Statistics (2018)\n</caption>\n<tbody><tr>\n<td align=right>1,000,003,855</td>\n<td>QSO records entered\n</td></tr>\n<tr>\n<td align=right>187,798,390</td>\n<td>QSL records confirmed\n</td></tr>\n<tr>\n<td align=right>112,824</td>\n<td>Users registered\n</td></tr>\n<tr>\n<td align=right>165,239</td>\n<td>Certificates active\n</td></tr>\n<tr>\n<td align=right>18,724,655</td>\n<td>User files processed\n</td></tr></tbody>\n</table>"
+      },
+      "date": 1574983029376
+    },
+    {
+      "type": "fork",
+      "date": 1574983117626
+    },
+    {
+      "type": "edit",
+      "id": "a9a9494111b7d982",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a9494111b7d982",
+        "text": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators."
+      },
+      "date": 1574983150145
+    },
+    {
+      "type": "add",
+      "id": "2ea40ead5c02c885",
+      "item": {
+        "type": "paragraph",
+        "id": "2ea40ead5c02c885",
+        "text": "Using LoTW, radio amateurs can claim and verify contacts made with other amateurs, generally for claiming credit for operating awards, such as DXCC."
+      },
+      "after": "a9a9494111b7d982",
+      "date": 1574983151551
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9a9494111b7d982",
+        "d82b98c8751e6f1f",
+        "2ea40ead5c02c885",
+        "4bb6e49539b8f70f",
+        "0d5e7ae8a047f6bb",
+        "214eee0eca53dc15",
+        "861bd1d047951d62",
+        "b8ab7877a76a357a"
+      ],
+      "id": "2ea40ead5c02c885",
+      "date": 1574983155547
+    },
+    {
+      "type": "edit",
+      "id": "a9a9494111b7d982",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a9494111b7d982",
+        "text": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. [https://www.rickmurphy.net/trustedqsl.org/tQSL-documents/lotwspec.pdf pdf]"
+      },
+      "date": 1574983555983
+    },
+    {
+      "type": "edit",
+      "id": "a9a9494111b7d982",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a9494111b7d982",
+        "text": "Logbook of the World is a web-accessed database provided by the American Radio Relay League to implement a contact verification service among amateur radio operators. [https://en.wikipedia.org/wiki/Logbook_of_The_World wikipedia] [https://www.rickmurphy.net/trustedqsl.org/tQSL-documents/lotwspec.pdf pdf]"
+      },
+      "date": 1574983607379
+    },
+    {
+      "type": "add",
+      "id": "3c3b42c6a4025b05",
+      "item": {
+        "type": "paragraph",
+        "id": "3c3b42c6a4025b05",
+        "text": "After repeated attempts, the ARRL has been unwilling to accept change requests in the design of LOTW as it has been published, and we do not expect them to make any changes that would make it easier to establish a server-to-server link between LOTW and eQSL.cc."
+      },
+      "after": "2ea40ead5c02c885",
+      "date": 1574983760312
+    },
+    {
+      "type": "edit",
+      "id": "3c3b42c6a4025b05",
+      "item": {
+        "type": "paragraph",
+        "id": "3c3b42c6a4025b05",
+        "text": "After repeated attempts, the ARRL has been unwilling to accept change requests in the design of LOTW as it has been published, and we do not expect them to make any changes that would make it easier to establish a server-to-server link between LOTW and eQSL.cc. [http://www.eqsl.cc/qslcard/LOTWAnalysis.cfm post]"
+      },
+      "date": 1574983789069
+    },
+    {
+      "type": "edit",
+      "id": "3c3b42c6a4025b05",
+      "item": {
+        "type": "paragraph",
+        "id": "3c3b42c6a4025b05",
+        "text": "After repeated attempts, the ARRL has been unwilling to accept change requests in the design of LoTW as it has been published, and we do not expect them to make any changes that would make it easier to establish a server-to-server link between LoTW and eQSL.cc. [http://www.eqsl.cc/qslcard/LOTWAnalysis.cfm post]"
+      },
+      "date": 1574983834204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "631235628845d7b1"
+      },
+      "id": "631235628845d7b1",
+      "type": "add",
+      "after": "b8ab7877a76a357a",
+      "date": 1576446476459
+    },
+    {
+      "type": "edit",
+      "id": "631235628845d7b1",
+      "item": {
+        "type": "assets",
+        "id": "631235628845d7b1",
+        "text": "pages/logbook-of-the-world"
+      },
+      "date": 1576446485623
+    }
+  ]
+}
