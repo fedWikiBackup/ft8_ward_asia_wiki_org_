@@ -4,12 +4,17 @@
     {
       "type": "paragraph",
       "id": "3aceb717b4a047e7",
-      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
     },
     {
-      "type": "code",
-      "id": "a74c91787c232c97",
-      "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+      "type": "graphviz",
+      "id": "d0ca591e44928c87",
+      "text": "digraph { rankdir=LR\n  node [shape=box style=filled fillcolor=bisque]\n  \"Hermes\\nLite-2\" -> SparkSDR [label=\"udp\\ndatagrams\"]\n  SparkSDR -> \"HTML\\nScripts\" [label=\"web\\nsocket\"]\n}\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "53ebc90e6c3c0f2d",
+      "text": "We write html scripts that can be launched by anyone to listen to decodes from local SparkSDR V2.0.3.8."
     },
     {
       "type": "assets",
@@ -19,7 +24,17 @@
     {
       "type": "paragraph",
       "id": "c31017556509ed3d",
-      "text": "Example listener coded in Rust. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+    },
+    {
+      "type": "paragraph",
+      "id": "fc8aeac70b1bfd85",
+      "text": "SparkSDR has more options available when launched from the command line."
+    },
+    {
+      "type": "code",
+      "id": "a74c91787c232c97",
+      "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
     }
   ],
   "journal": [
@@ -172,6 +187,147 @@
         "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
       },
       "date": 1605365498002
+    },
+    {
+      "type": "add",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We're writing html scripts that can be launched by anyone to listen to decodes from their own SparkSDR version "
+      },
+      "after": "3aceb717b4a047e7",
+      "date": 1605379471803
+    },
+    {
+      "type": "edit",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We're writing html scripts that can be launched by anyone to listen to decodes from their own SparkSDR V2.0.3.8 on localhost."
+      },
+      "date": 1605379510054
+    },
+    {
+      "type": "edit",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We're writing html scripts that can be launched by anyone to listen to decodes from local SparkSDR V2.0.3.8."
+      },
+      "date": 1605379532746
+    },
+    {
+      "id": "53ebc90e6c3c0f2d",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "a74c91787c232c97",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "c31017556509ed3d"
+      ],
+      "date": 1605379535470
+    },
+    {
+      "type": "edit",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We write html scripts that can be launched by anyone to listen to decodes from local SparkSDR V2.0.3.8."
+      },
+      "date": 1605379553911
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "This Rust code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "date": 1605379590100
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "date": 1605379626049
+    },
+    {
+      "type": "edit",
+      "id": "3aceb717b4a047e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3aceb717b4a047e7",
+        "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605379694746
+    },
+    {
+      "type": "add",
+      "id": "fc8aeac70b1bfd85",
+      "item": {
+        "type": "paragraph",
+        "id": "fc8aeac70b1bfd85",
+        "text": "SparkSDR has more options available when launched from the command line."
+      },
+      "after": "c31017556509ed3d",
+      "date": 1605379923251
+    },
+    {
+      "id": "a74c91787c232c97",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "c31017556509ed3d",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97"
+      ],
+      "date": 1605379926927
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0ca591e44928c87"
+      },
+      "id": "d0ca591e44928c87",
+      "type": "add",
+      "after": "a74c91787c232c97",
+      "date": 1605379987438
+    },
+    {
+      "type": "edit",
+      "id": "d0ca591e44928c87",
+      "item": {
+        "type": "graphviz",
+        "id": "d0ca591e44928c87",
+        "text": "digraph { rankdir=LR\n  node [shape=box style=filled fillcolor=bisque]\n  \"Hermes\\nLite-2\" -> SparkSDR [label=\"udp\\ndatagrams\"]\n  SparkSDR -> \"HTML\\nScripts\" [label=\"web\\nsocket\"]\n}\n"
+      },
+      "date": 1605380210789
+    },
+    {
+      "id": "d0ca591e44928c87",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "c31017556509ed3d",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97"
+      ],
+      "date": 1605380255867
     }
   ]
 }
