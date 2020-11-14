@@ -37,6 +37,11 @@
       "type": "code",
       "id": "a74c91787c232c97",
       "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+    },
+    {
+      "type": "frame",
+      "id": "66b83b51bc0649b4",
+      "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
     }
   ],
   "journal": [
@@ -388,6 +393,26 @@
         "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR V2.0.3.8."
       },
       "date": 1605381392017
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "66b83b51bc0649b4"
+      },
+      "id": "66b83b51bc0649b4",
+      "type": "add",
+      "after": "a74c91787c232c97",
+      "date": 1605384845500
+    },
+    {
+      "type": "edit",
+      "id": "66b83b51bc0649b4",
+      "item": {
+        "type": "frame",
+        "id": "66b83b51bc0649b4",
+        "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
+      },
+      "date": 1605384879830
     }
   ]
 }
