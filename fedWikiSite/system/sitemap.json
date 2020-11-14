@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605365498002,
-    "synopsis": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+    "date": 1605380255867,
+    "synopsis": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   }
 ]
