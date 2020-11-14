@@ -238,5 +238,11 @@
     "title": "WSJT-X",
     "date": 1569893115279,
     "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
+  },
+  {
+    "slug": "spark-decodes",
+    "title": "Spark Decodes",
+    "date": 1605329556445,
+    "synopsis": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket."
   }
 ]
