@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "3aceb717b4a047e7",
-      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket."
+      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
     },
     {
       "type": "code",
@@ -162,6 +162,16 @@
         "text": "Example listener coded in Rust. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
       },
       "date": 1605359839006
+    },
+    {
+      "type": "edit",
+      "id": "3aceb717b4a047e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3aceb717b4a047e7",
+        "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605365498002
     }
   ]
 }
