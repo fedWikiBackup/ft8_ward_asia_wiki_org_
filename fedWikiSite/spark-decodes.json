@@ -1,0 +1,64 @@
+{
+  "title": "Spark Decodes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3aceb717b4a047e7",
+      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket."
+    },
+    {
+      "type": "assets",
+      "id": "758060bfe18c8252",
+      "text": "pages/spark-decodes"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Spark Decodes",
+        "story": []
+      },
+      "date": 1605329478346
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3aceb717b4a047e7"
+      },
+      "id": "3aceb717b4a047e7",
+      "type": "add",
+      "date": 1605329479940
+    },
+    {
+      "type": "edit",
+      "id": "3aceb717b4a047e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3aceb717b4a047e7",
+        "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket."
+      },
+      "date": 1605329537796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "758060bfe18c8252"
+      },
+      "id": "758060bfe18c8252",
+      "type": "add",
+      "after": "3aceb717b4a047e7",
+      "date": 1605329541444
+    },
+    {
+      "type": "edit",
+      "id": "758060bfe18c8252",
+      "item": {
+        "type": "assets",
+        "id": "758060bfe18c8252",
+        "text": "pages/spark-decodes"
+      },
+      "date": 1605329556445
+    }
+  ]
+}
