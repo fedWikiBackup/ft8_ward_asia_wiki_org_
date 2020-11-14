@@ -25,8 +25,18 @@
     },
     {
       "type": "paragraph",
-      "id": "c31017556509ed3d",
-      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      "id": "04e818c84c279a35",
+      "text": "[[Spark Signals]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3067e1d0cae1352b",
+      "text": "Click any of these scripts to run them in a new tab. Some scripts have special features when run inside a wiki page. Use these links to see this work."
+    },
+    {
+      "type": "pagefold",
+      "id": "f1283f472b6e6df4",
+      "text": "."
     },
     {
       "type": "paragraph",
@@ -39,9 +49,9 @@
       "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
     },
     {
-      "type": "frame",
-      "id": "66b83b51bc0649b4",
-      "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
+      "type": "paragraph",
+      "id": "c31017556509ed3d",
+      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
     }
   ],
   "journal": [
@@ -413,6 +423,121 @@
         "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
       },
       "date": 1605384879830
+    },
+    {
+      "type": "add",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click any of these scripts to run them in a new tab. Some scripts have special features when run inside a wiki page. Use these links to see this work."
+      },
+      "after": "c31017556509ed3d",
+      "date": 1605392351289
+    },
+    {
+      "type": "add",
+      "id": "04e818c84c279a35",
+      "item": {
+        "type": "paragraph",
+        "id": "04e818c84c279a35",
+        "text": "[[Spark Signals]]"
+      },
+      "after": "3067e1d0cae1352b",
+      "date": 1605392397411
+    },
+    {
+      "id": "c31017556509ed3d",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "3067e1d0cae1352b",
+        "04e818c84c279a35",
+        "c31017556509ed3d",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "66b83b51bc0649b4"
+      ],
+      "date": 1605392416828
+    },
+    {
+      "id": "66b83b51bc0649b4",
+      "type": "remove",
+      "date": 1605392564724
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1283f472b6e6df4"
+      },
+      "id": "f1283f472b6e6df4",
+      "type": "add",
+      "after": "a74c91787c232c97",
+      "date": 1605392737055
+    },
+    {
+      "type": "edit",
+      "id": "f1283f472b6e6df4",
+      "item": {
+        "type": "pagefold",
+        "id": "f1283f472b6e6df4",
+        "text": "."
+      },
+      "date": 1605392740971
+    },
+    {
+      "id": "f1283f472b6e6df4",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "3067e1d0cae1352b",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "c31017556509ed3d",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97"
+      ],
+      "date": 1605392744993
+    },
+    {
+      "id": "c31017556509ed3d",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "3067e1d0cae1352b",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c31017556509ed3d"
+      ],
+      "date": 1605392759909
+    },
+    {
+      "id": "3067e1d0cae1352b",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "758060bfe18c8252",
+        "04e818c84c279a35",
+        "3067e1d0cae1352b",
+        "f1283f472b6e6df4",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c31017556509ed3d"
+      ],
+      "date": 1605392858207
     }
   ]
 }
