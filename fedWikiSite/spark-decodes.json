@@ -7,6 +7,16 @@
       "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a websocket."
     },
     {
+      "type": "code",
+      "id": "a74c91787c232c97",
+      "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+    },
+    {
+      "type": "paragraph",
+      "id": "c31017556509ed3d",
+      "text": "Example listener. [https://rig.kk4wjs.com/spark/ site] [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github]"
+    },
+    {
       "type": "assets",
       "id": "758060bfe18c8252",
       "text": "pages/spark-decodes"
@@ -59,6 +69,58 @@
         "text": "pages/spark-decodes"
       },
       "date": 1605329556445
+    },
+    {
+      "type": "add",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Example listener. [https://rig.kk4wjs.com/spark/ site]"
+      },
+      "after": "3aceb717b4a047e7",
+      "date": 1605332492129
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Example listener. [https://rig.kk4wjs.com/spark/ site] [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github]"
+      },
+      "date": 1605332522352
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a74c91787c232c97"
+      },
+      "id": "a74c91787c232c97",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605332989878
+    },
+    {
+      "type": "edit",
+      "id": "a74c91787c232c97",
+      "item": {
+        "type": "code",
+        "id": "a74c91787c232c97",
+        "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+      },
+      "date": 1605332994106
+    },
+    {
+      "id": "a74c91787c232c97",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "a74c91787c232c97",
+        "c31017556509ed3d",
+        "758060bfe18c8252"
+      ],
+      "date": 1605333003286
     }
   ]
 }
