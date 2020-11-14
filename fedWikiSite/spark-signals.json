@@ -1,0 +1,73 @@
+{
+  "title": "Spark Signals",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1c21cfca07fe2185",
+      "text": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
+    },
+    {
+      "type": "frame",
+      "id": "66b83b51bc0649b4",
+      "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Spark Signals",
+        "story": []
+      },
+      "date": 1605392424803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c21cfca07fe2185"
+      },
+      "id": "1c21cfca07fe2185",
+      "type": "add",
+      "date": 1605392431755
+    },
+    {
+      "type": "edit",
+      "id": "1c21cfca07fe2185",
+      "item": {
+        "type": "paragraph",
+        "id": "1c21cfca07fe2185",
+        "text": "We observe [[Spark Decodes]] and report signal strength on a station by station basis."
+      },
+      "date": 1605392553234
+    },
+    {
+      "id": "66b83b51bc0649b4",
+      "type": "add",
+      "item": {
+        "type": "frame",
+        "id": "66b83b51bc0649b4",
+        "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
+      },
+      "date": 1605392564728
+    },
+    {
+      "id": "66b83b51bc0649b4",
+      "type": "move",
+      "order": [
+        "1c21cfca07fe2185",
+        "66b83b51bc0649b4"
+      ],
+      "date": 1605392572459
+    },
+    {
+      "type": "edit",
+      "id": "1c21cfca07fe2185",
+      "item": {
+        "type": "paragraph",
+        "id": "1c21cfca07fe2185",
+        "text": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
+      },
+      "date": 1605392686544
+    }
+  ]
+}
