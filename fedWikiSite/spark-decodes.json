@@ -12,14 +12,14 @@
       "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
     },
     {
-      "type": "paragraph",
-      "id": "c31017556509ed3d",
-      "text": "Example listener. [https://rig.kk4wjs.com/spark/ site] [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github]"
-    },
-    {
       "type": "assets",
       "id": "758060bfe18c8252",
       "text": "pages/spark-decodes"
+    },
+    {
+      "type": "paragraph",
+      "id": "c31017556509ed3d",
+      "text": "Example listener coded in Rust. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
     }
   ],
   "journal": [
@@ -121,6 +121,47 @@
         "758060bfe18c8252"
       ],
       "date": 1605333003286
+    },
+    {
+      "id": "c31017556509ed3d",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "a74c91787c232c97",
+        "758060bfe18c8252",
+        "c31017556509ed3d"
+      ],
+      "date": 1605359782865
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Example listener coded in Rust. [https://rig.kk4wjs.com/spark/ site] [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github]"
+      },
+      "date": 1605359798381
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Example listener coded in Rust. [https://rig.kk4wjs.com/spark/ run] [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github]"
+      },
+      "date": 1605359818331
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Example listener coded in Rust. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "date": 1605359839006
     }
   ]
 }
