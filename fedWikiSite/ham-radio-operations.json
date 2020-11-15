@@ -192,6 +192,23 @@
     },
     {
       "type": "markdown",
+      "id": "776b8221260c9a41",
+      "text": "# 2020"
+    },
+    {
+      "type": "reference",
+      "id": "4a864bda68e32c80",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+      },
+      "site": "ft8.ward.asia.wiki.org",
+      "slug": "spark-decodes",
+      "title": "Spark Decodes",
+      "text": "We're now using SparkSDR talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+    },
+    {
+      "type": "markdown",
       "id": "055655f6cc76789f",
       "text": "# Science"
     },
@@ -1297,6 +1314,252 @@
         "text": "This is the first article in a series of articles about three.js. Three.js is a 3D library that tries to make it as easy as possible to get 3D content on a webpage. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=-1322&copy=http://ft8.ward.asia.wiki.org/assets/pages/decode-waterfall/P49X.txt d3] [http://found.ward.bay.wiki.org/assets/pages/threejs-fundamentals/waterfall.html?offset=-1322&copy=http://ft8.ward.asia.wiki.org/assets/pages/decode-waterfall/P49X.txt 3js]"
       },
       "date": 1589681305054
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a864bda68e32c80"
+      },
+      "id": "4a864bda68e32c80",
+      "type": "add",
+      "after": "5548535f04dd9970",
+      "date": 1605400712027
+    },
+    {
+      "type": "edit",
+      "id": "4a864bda68e32c80",
+      "item": {
+        "type": "factory",
+        "id": "4a864bda68e32c80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+        }
+      },
+      "date": 1605400734458
+    },
+    {
+      "type": "edit",
+      "id": "4a864bda68e32c80",
+      "item": {
+        "type": "reference",
+        "id": "4a864bda68e32c80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+        },
+        "site": "ft8.ward.asia.wiki.org",
+        "slug": "spark-decodes",
+        "title": "Spark Decodes",
+        "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605400757965
+    },
+    {
+      "id": "4a864bda68e32c80",
+      "type": "move",
+      "order": [
+        "305bd220f07f1ccb",
+        "71a6973a26de9f0e",
+        "5d9cfdb4e6068363",
+        "29009b6891294047",
+        "1021059a132de15b",
+        "bb211f3d2bd64958",
+        "850277633f451fc6",
+        "77e274dbcfe3f995",
+        "17ced171f5c8ddcb",
+        "e289dc9b83c9ed53",
+        "a07e298cb0113df4",
+        "7187d88c95ea5304",
+        "e47883b0cdef5f8c",
+        "b9057abe745a6f11",
+        "eac1af65f5c58389",
+        "63952dded8ef6f43",
+        "d5bb6d42c52eba3a",
+        "61619b4920a36367",
+        "848a0e2f3b61fa82",
+        "d5e3195752194ea3",
+        "7c4f0d3c8d1affaa",
+        "889f98168a70abc1",
+        "6d39507f1394924f",
+        "f31c8e62e28ae275",
+        "06136db61c4b613f",
+        "187458b24640021d",
+        "4a864bda68e32c80",
+        "afe13a2c4cd0b475",
+        "055655f6cc76789f",
+        "5548535f04dd9970"
+      ],
+      "date": 1605400773199
+    },
+    {
+      "id": "4a864bda68e32c80",
+      "type": "move",
+      "order": [
+        "305bd220f07f1ccb",
+        "71a6973a26de9f0e",
+        "5d9cfdb4e6068363",
+        "29009b6891294047",
+        "1021059a132de15b",
+        "bb211f3d2bd64958",
+        "850277633f451fc6",
+        "77e274dbcfe3f995",
+        "17ced171f5c8ddcb",
+        "e289dc9b83c9ed53",
+        "a07e298cb0113df4",
+        "7187d88c95ea5304",
+        "e47883b0cdef5f8c",
+        "b9057abe745a6f11",
+        "eac1af65f5c58389",
+        "63952dded8ef6f43",
+        "d5bb6d42c52eba3a",
+        "61619b4920a36367",
+        "848a0e2f3b61fa82",
+        "d5e3195752194ea3",
+        "7c4f0d3c8d1affaa",
+        "889f98168a70abc1",
+        "6d39507f1394924f",
+        "f31c8e62e28ae275",
+        "06136db61c4b613f",
+        "187458b24640021d",
+        "afe13a2c4cd0b475",
+        "4a864bda68e32c80",
+        "055655f6cc76789f",
+        "5548535f04dd9970"
+      ],
+      "date": 1605400780285
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "776b8221260c9a41"
+      },
+      "id": "776b8221260c9a41",
+      "type": "add",
+      "after": "5548535f04dd9970",
+      "date": 1605401183677
+    },
+    {
+      "type": "edit",
+      "id": "776b8221260c9a41",
+      "item": {
+        "type": "markdown",
+        "id": "776b8221260c9a41",
+        "text": "# Digital"
+      },
+      "date": 1605401207905
+    },
+    {
+      "id": "776b8221260c9a41",
+      "type": "move",
+      "order": [
+        "305bd220f07f1ccb",
+        "71a6973a26de9f0e",
+        "5d9cfdb4e6068363",
+        "29009b6891294047",
+        "1021059a132de15b",
+        "bb211f3d2bd64958",
+        "850277633f451fc6",
+        "77e274dbcfe3f995",
+        "17ced171f5c8ddcb",
+        "e289dc9b83c9ed53",
+        "a07e298cb0113df4",
+        "7187d88c95ea5304",
+        "e47883b0cdef5f8c",
+        "b9057abe745a6f11",
+        "eac1af65f5c58389",
+        "63952dded8ef6f43",
+        "d5bb6d42c52eba3a",
+        "61619b4920a36367",
+        "848a0e2f3b61fa82",
+        "d5e3195752194ea3",
+        "7c4f0d3c8d1affaa",
+        "889f98168a70abc1",
+        "6d39507f1394924f",
+        "f31c8e62e28ae275",
+        "06136db61c4b613f",
+        "187458b24640021d",
+        "afe13a2c4cd0b475",
+        "776b8221260c9a41",
+        "4a864bda68e32c80",
+        "055655f6cc76789f",
+        "5548535f04dd9970"
+      ],
+      "date": 1605401212276
+    },
+    {
+      "type": "edit",
+      "id": "776b8221260c9a41",
+      "item": {
+        "type": "markdown",
+        "id": "776b8221260c9a41",
+        "text": "# Direct Digital"
+      },
+      "date": 1605401288458
+    },
+    {
+      "type": "edit",
+      "id": "4a864bda68e32c80",
+      "item": {
+        "type": "reference",
+        "id": "4a864bda68e32c80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+        },
+        "site": "ft8.ward.asia.wiki.org",
+        "slug": "spark-decodes",
+        "title": "Spark Decodes",
+        "text": "We're now using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605401311823
+    },
+    {
+      "type": "edit",
+      "id": "4a864bda68e32c80",
+      "item": {
+        "type": "reference",
+        "id": "4a864bda68e32c80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+        },
+        "site": "ft8.ward.asia.wiki.org",
+        "slug": "spark-decodes",
+        "title": "Spark Decodes",
+        "text": "We're now using SparkSDR talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605401392630
+    },
+    {
+      "type": "edit",
+      "id": "776b8221260c9a41",
+      "item": {
+        "type": "markdown",
+        "id": "776b8221260c9a41",
+        "text": "# Hermes"
+      },
+      "date": 1605401452196
+    },
+    {
+      "type": "edit",
+      "id": "776b8221260c9a41",
+      "item": {
+        "type": "markdown",
+        "id": "776b8221260c9a41",
+        "text": "# Nextgen"
+      },
+      "date": 1605401484865
+    },
+    {
+      "type": "edit",
+      "id": "776b8221260c9a41",
+      "item": {
+        "type": "markdown",
+        "id": "776b8221260c9a41",
+        "text": "# 2020"
+      },
+      "date": 1605401495874
     }
   ]
 }
