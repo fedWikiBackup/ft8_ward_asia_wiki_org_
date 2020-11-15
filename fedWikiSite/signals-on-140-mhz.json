@@ -1,0 +1,525 @@
+{
+  "title": "Signals on 14.0 MHz",
+  "story": [
+    {
+      "type": "paragraph",
+      "text": "These stations were recorded Sat Nov 14 2020 16:00:46 GMT-0800 (Pacific Standard Time). See [[Spark Decodes]]",
+      "id": "366433243197"
+    },
+    {
+      "type": "data",
+      "text": "Stations Strength and Distance",
+      "id": "644254929964",
+      "data": {
+        "KD0QQL": {
+          "snr": [
+            9,
+            5,
+            15
+          ],
+          "avg": 9.67,
+          "dst": 2229
+        },
+        "N7GHZ": {
+          "snr": [
+            0,
+            3,
+            3,
+            -4
+          ],
+          "avg": 0.5,
+          "dst": 1757
+        },
+        "JE6HGL": {
+          "snr": [
+            -7,
+            -7,
+            -6,
+            -4
+          ],
+          "avg": -6,
+          "dst": 8607
+        },
+        "WA0RIM": {
+          "snr": [
+            14,
+            14,
+            11
+          ],
+          "avg": 13,
+          "dst": 2151
+        },
+        "WD9IQN": {
+          "snr": [
+            -8,
+            -6,
+            -10,
+            -8
+          ],
+          "avg": -8,
+          "dst": 2867
+        },
+        "K6TAA": {
+          "snr": [
+            10,
+            7,
+            13
+          ],
+          "avg": 10
+        },
+        "KK4MQM": {
+          "snr": [
+            -5,
+            -10,
+            -1
+          ],
+          "avg": -5.33,
+          "dst": 1992
+        },
+        "K7REK": {
+          "snr": [
+            -11,
+            -11,
+            -11,
+            -11
+          ],
+          "avg": -11,
+          "dst": 23
+        },
+        "HI3SD": {
+          "snr": [
+            -13,
+            -14,
+            -12,
+            -14
+          ],
+          "avg": -13.25,
+          "dst": 5516
+        },
+        "N0ANE": {
+          "snr": [
+            -4,
+            3
+          ],
+          "avg": -0.5
+        },
+        "JH3KCW": {
+          "snr": [
+            -11,
+            -11,
+            -11,
+            -11
+          ],
+          "avg": -11,
+          "dst": 8189
+        },
+        "N0LD": {
+          "snr": [
+            -1
+          ],
+          "avg": -1,
+          "dst": 2425
+        },
+        "KC9YTT": {
+          "snr": [
+            -14
+          ],
+          "avg": -14
+        },
+        "PY5EF": {
+          "snr": [
+            -16
+          ],
+          "avg": -16
+        },
+        "N5AQM": {
+          "snr": [
+            -5,
+            -5,
+            -5,
+            -7
+          ],
+          "avg": -5.5,
+          "dst": 1664
+        },
+        "K5GHC": {
+          "snr": [
+            -5,
+            -13,
+            -5,
+            -8
+          ],
+          "avg": -7.75,
+          "dst": 1724
+        },
+        "JQ1NUT": {
+          "snr": [
+            -18
+          ],
+          "avg": -18,
+          "dst": 7848
+        },
+        "W7TRA": {
+          "snr": [
+            -8
+          ],
+          "avg": -8,
+          "dst": 1757
+        },
+        "JA7ETU": {
+          "snr": [
+            -9
+          ],
+          "avg": -9
+        },
+        "JF3PNQ": {
+          "snr": [
+            -1,
+            5,
+            8
+          ],
+          "avg": 4,
+          "dst": 8189
+        },
+        "KA9FOX": {
+          "snr": [
+            10,
+            16,
+            14
+          ],
+          "avg": 13.33,
+          "dst": 2507
+        },
+        "K5DTX": {
+          "snr": [
+            -10,
+            -16
+          ],
+          "avg": -13,
+          "dst": 2630
+        },
+        "N5JEH": {
+          "snr": [
+            0,
+            3,
+            7
+          ],
+          "avg": 3.33,
+          "dst": 1724
+        },
+        "JA4JKO": {
+          "snr": [
+            -3,
+            -4,
+            -3
+          ],
+          "avg": -3.33
+        },
+        "RU0LL": {
+          "snr": [
+            -4,
+            -4,
+            -2
+          ],
+          "avg": -3.33,
+          "dst": 7737
+        },
+        "JA9FFS": {
+          "snr": [
+            -5,
+            -8,
+            -6
+          ],
+          "avg": -6.33
+        },
+        "AG7KU": {
+          "snr": [
+            -3,
+            -7,
+            -9
+          ],
+          "avg": -6.33,
+          "dst": 1664
+        },
+        "JA3JFT": {
+          "snr": [
+            -9,
+            -8,
+            -8
+          ],
+          "avg": -8.33,
+          "dst": 8189
+        },
+        "BH4TVU": {
+          "snr": [
+            -8,
+            -8,
+            -10
+          ],
+          "avg": -8.67,
+          "dst": 9314
+        },
+        "JG2MLI": {
+          "snr": [
+            -1,
+            2,
+            0
+          ],
+          "avg": 0.33,
+          "dst": 7981
+        },
+        "JA5BDZ": {
+          "snr": [
+            -7,
+            -8,
+            -9
+          ],
+          "avg": -8,
+          "dst": 8319
+        },
+        "JE1JIM": {
+          "snr": [
+            -15,
+            -15,
+            -18
+          ],
+          "avg": -16
+        },
+        "K0AN": {
+          "snr": [
+            -18,
+            -15
+          ],
+          "avg": -16.5,
+          "dst": 2663
+        },
+        "KC7DJ": {
+          "snr": [
+            -19
+          ],
+          "avg": -19,
+          "dst": 2995
+        },
+        "LU8DRH": {
+          "snr": [
+            -18,
+            -17
+          ],
+          "avg": -17.5,
+          "dst": 11070
+        },
+        "N2PC": {
+          "snr": [
+            -1,
+            -6,
+            -1
+          ],
+          "avg": -2.67
+        },
+        "W7MGW": {
+          "snr": [
+            2,
+            2,
+            6
+          ],
+          "avg": 3.33,
+          "dst": 1567
+        },
+        "HI3CMQ": {
+          "snr": [
+            -14
+          ],
+          "avg": -14,
+          "dst": 5516
+        },
+        "LU1HW": {
+          "snr": [
+            -5,
+            -3
+          ],
+          "avg": -4
+        },
+        "K6QGK": {
+          "snr": [
+            -17
+          ],
+          "avg": -17,
+          "dst": 1567
+        },
+        "JF0SCH": {
+          "snr": [
+            -12
+          ],
+          "avg": -12,
+          "dst": 7773
+        },
+        "AG5CN": {
+          "snr": [
+            -4,
+            -10
+          ],
+          "avg": -7,
+          "dst": 2513
+        },
+        "ZS6WDL": {
+          "snr": [
+            -18
+          ],
+          "avg": -18
+        },
+        "W5IDX": {
+          "snr": [
+            -15,
+            -15
+          ],
+          "avg": -15,
+          "dst": 2995
+        },
+        "JH8IYN": {
+          "snr": [
+            -13,
+            -10
+          ],
+          "avg": -11.5
+        },
+        "CO8HO": {
+          "snr": [
+            -15
+          ],
+          "avg": -15
+        },
+        "EA3RKD": {
+          "snr": [
+            -18,
+            -16
+          ],
+          "avg": -17,
+          "dst": 8842
+        },
+        "KK5TIM": {
+          "snr": [
+            -11,
+            -7
+          ],
+          "avg": -9,
+          "dst": 2558
+        },
+        "AL6A": {
+          "snr": [
+            -17
+          ],
+          "avg": -17
+        },
+        "JH6PFY": {
+          "snr": [
+            -5
+          ],
+          "avg": -5
+        },
+        "BG4ACY": {
+          "snr": [
+            -16
+          ],
+          "avg": -16
+        },
+        "JG3WCZ": {
+          "snr": [
+            -17
+          ],
+          "avg": -17,
+          "dst": 8189
+        },
+        "W5ETL": {
+          "snr": [
+            -11
+          ],
+          "avg": -11,
+          "dst": 2989
+        },
+        "XE1DZ": {
+          "snr": [
+            -7
+          ],
+          "avg": -7
+        },
+        "PY5DD": {
+          "snr": [
+            -12
+          ],
+          "avg": -12,
+          "dst": 10527
+        },
+        "YB1MIG": {
+          "snr": [
+            -17
+          ],
+          "avg": -17,
+          "dst": 13653
+        },
+        "N0ZTN": {
+          "snr": [
+            -14
+          ],
+          "avg": -14,
+          "dst": 1538
+        },
+        "KJ7IY": {
+          "snr": [
+            0
+          ],
+          "avg": 0,
+          "dst": 23
+        },
+        "PY2MM": {
+          "snr": [
+            -14
+          ],
+          "avg": -14
+        },
+        "AI9Q": {
+          "snr": [
+            -5
+          ],
+          "avg": -5,
+          "dst": 23
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Stations in this dataset: KD0QQL, N7GHZ, JE6HGL, WA0RIM, WD9IQN, K6TAA, KK4MQM, K7REK, HI3SD, N0ANE, JH3KCW, N0LD, KC9YTT, PY5EF, N5AQM, K5GHC, JQ1NUT, W7TRA, JA7ETU, JF3PNQ, KA9FOX, K5DTX, N5JEH, JA4JKO, RU0LL, JA9FFS, AG7KU, JA3JFT, BH4TVU, JG2MLI, JA5BDZ, JE1JIM, K0AN, KC7DJ, LU8DRH, N2PC, W7MGW, HI3CMQ, LU1HW, K6QGK, JF0SCH, AG5CN, ZS6WDL, W5IDX, JH8IYN, CO8HO, EA3RKD, KK5TIM, AL6A, JH6PFY, BG4ACY, JG3WCZ, W5ETL, XE1DZ, PY5DD, YB1MIG, N0ZTN, KJ7IY, PY2MM, AI9Q",
+      "id": "163637258474"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f508d618b3b6f5c",
+      "text": "See [[About Scatter Plugin]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1605398453535
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f508d618b3b6f5c"
+      },
+      "id": "5f508d618b3b6f5c",
+      "type": "add",
+      "after": "163637258474",
+      "date": 1605398466296
+    },
+    {
+      "type": "edit",
+      "id": "5f508d618b3b6f5c",
+      "item": {
+        "type": "paragraph",
+        "id": "5f508d618b3b6f5c",
+        "text": "See [[About Scatter Plugin]]"
+      },
+      "date": 1605398480110
+    }
+  ]
+}

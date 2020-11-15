@@ -242,13 +242,19 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605392858207,
+    "date": 1605394997720,
     "synopsis": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
     "slug": "spark-signals",
     "title": "Spark Signals",
-    "date": 1605392686544,
+    "date": 1605398354473,
     "synopsis": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
+  },
+  {
+    "slug": "signals-on-140-mhz",
+    "title": "Signals on 14.0 MHz",
+    "date": 1605398480110,
+    "synopsis": "These stations were recorded Sat Nov 14 2020 16:00:46 GMT-0800 (Pacific Standard Time). See [[Spark Decodes]]"
   }
 ]
