@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "3aceb717b4a047e7",
-      "text": "We're using SparkSDR talking to Hermes-Lite-2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      "text": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
     },
     {
       "type": "graphviz",
@@ -16,7 +16,7 @@
     {
       "type": "paragraph",
       "id": "53ebc90e6c3c0f2d",
-      "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR V2.0.3.8."
+      "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR. [https://github.com/WardCunningham/assets/tree/master/pages/spark-decodes github]"
     },
     {
       "type": "assets",
@@ -555,6 +555,46 @@
         "c31017556509ed3d"
       ],
       "date": 1605394997720
+    },
+    {
+      "type": "edit",
+      "id": "3aceb717b4a047e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3aceb717b4a047e7",
+        "text": "We're using SparkSDR talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605401699744
+    },
+    {
+      "type": "edit",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR V2.0.3.8. [https://github.com/WardCunningham/assets/tree/master/pages/spark-decodes github]"
+      },
+      "date": 1605402145234
+    },
+    {
+      "type": "edit",
+      "id": "53ebc90e6c3c0f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "53ebc90e6c3c0f2d",
+        "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR. [https://github.com/WardCunningham/assets/tree/master/pages/spark-decodes github]"
+      },
+      "date": 1605402155578
+    },
+    {
+      "type": "edit",
+      "id": "3aceb717b4a047e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3aceb717b4a047e7",
+        "text": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+      },
+      "date": 1605402162586
     }
   ]
 }
