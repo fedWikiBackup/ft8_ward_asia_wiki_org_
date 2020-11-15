@@ -52,6 +52,11 @@
       "type": "paragraph",
       "id": "c31017556509ed3d",
       "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+    },
+    {
+      "type": "paragraph",
+      "id": "3ea16f9c959575a3",
+      "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
     }
   ],
   "journal": [
@@ -595,6 +600,17 @@
         "text": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
       },
       "date": 1605402162586
+    },
+    {
+      "type": "add",
+      "id": "3ea16f9c959575a3",
+      "item": {
+        "type": "paragraph",
+        "id": "3ea16f9c959575a3",
+        "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
+      },
+      "after": "c31017556509ed3d",
+      "date": 1605458495893
     }
   ]
 }
