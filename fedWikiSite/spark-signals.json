@@ -7,6 +7,11 @@
       "text": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
     },
     {
+      "type": "paragraph",
+      "id": "7d4cbe049359b609",
+      "text": "Click band header to export this data."
+    },
+    {
       "type": "frame",
       "id": "66b83b51bc0649b4",
       "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
@@ -68,6 +73,17 @@
         "text": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
       },
       "date": 1605392686544
+    },
+    {
+      "type": "add",
+      "id": "7d4cbe049359b609",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4cbe049359b609",
+        "text": "Click band header to export this data."
+      },
+      "after": "1c21cfca07fe2185",
+      "date": 1605398354473
     }
   ]
 }
