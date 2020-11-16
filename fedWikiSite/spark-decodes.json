@@ -19,9 +19,9 @@
       "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR. [https://github.com/WardCunningham/assets/tree/master/pages/spark-decodes github]"
     },
     {
-      "type": "pagefold",
-      "id": "42199d58dc861877",
-      "text": "."
+      "type": "markdown",
+      "id": "d097c8f512b14878",
+      "text": "# Browser"
     },
     {
       "type": "paragraph",
@@ -29,9 +29,19 @@
       "text": "Click any of these scripts to run them in a new tab."
     },
     {
+      "type": "html",
+      "id": "e5d483174383bc78",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.jpg>"
+    },
+    {
       "type": "paragraph",
       "id": "924598b21734f435",
       "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These appear as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+    },
+    {
+      "type": "html",
+      "id": "2ad4444da9515b94",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.jpg>"
     },
     {
       "type": "paragraph",
@@ -49,6 +59,11 @@
       "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html bands.html] plots the number of spots for each band decoded. Watch activity move up and down the spectrum."
     },
     {
+      "type": "markdown",
+      "id": "abe1a4dc8fe66de3",
+      "text": "# Wiki"
+    },
+    {
       "type": "paragraph",
       "id": "928ab6e8c64602d4",
       "text": "Some scripts have special features when run inside a wiki page. Use these links to see this work."
@@ -59,9 +74,9 @@
       "text": "[[Spark Signals]]"
     },
     {
-      "type": "pagefold",
+      "type": "markdown",
       "id": "f1283f472b6e6df4",
-      "text": "."
+      "text": "# Tools"
     },
     {
       "type": "paragraph",
@@ -72,6 +87,10 @@
       "type": "assets",
       "id": "758060bfe18c8252",
       "text": "pages/spark-decodes"
+    },
+    {
+      "type": "factory",
+      "id": "56463b5784c72215"
     }
   ],
   "journal": [
@@ -916,6 +935,235 @@
         "758060bfe18c8252"
       ],
       "date": 1605495396280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abe1a4dc8fe66de3"
+      },
+      "id": "abe1a4dc8fe66de3",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605496047294
+    },
+    {
+      "type": "edit",
+      "id": "abe1a4dc8fe66de3",
+      "item": {
+        "type": "pagefold",
+        "id": "abe1a4dc8fe66de3",
+        "text": "."
+      },
+      "date": 1605496052045
+    },
+    {
+      "id": "abe1a4dc8fe66de3",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "42199d58dc861877",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605496055434
+    },
+    {
+      "id": "5e485f832709f541",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "42199d58dc861877",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "758060bfe18c8252",
+        "5e485f832709f541"
+      ],
+      "date": 1605496062736
+    },
+    {
+      "type": "add",
+      "id": "d097c8f512b14878",
+      "item": {
+        "type": "paragraph",
+        "id": "d097c8f512b14878",
+        "text": "# Browser"
+      },
+      "after": "53ebc90e6c3c0f2d",
+      "date": 1605496107010
+    },
+    {
+      "type": "edit",
+      "id": "d097c8f512b14878",
+      "item": {
+        "type": "markdown",
+        "id": "d097c8f512b14878",
+        "text": "# Browser"
+      },
+      "date": 1605496117270
+    },
+    {
+      "type": "remove",
+      "id": "42199d58dc861877",
+      "date": 1605496122939
+    },
+    {
+      "type": "edit",
+      "id": "abe1a4dc8fe66de3",
+      "item": {
+        "type": "markdown",
+        "id": "abe1a4dc8fe66de3",
+        "text": "# Wiki"
+      },
+      "date": 1605496148023
+    },
+    {
+      "type": "edit",
+      "id": "f1283f472b6e6df4",
+      "item": {
+        "type": "markdown",
+        "id": "f1283f472b6e6df4",
+        "text": "# Tools"
+      },
+      "date": 1605496181870
+    },
+    {
+      "id": "5e485f832709f541",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605496185193
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5d483174383bc78"
+      },
+      "id": "e5d483174383bc78",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605499254153
+    },
+    {
+      "type": "edit",
+      "id": "e5d483174383bc78",
+      "item": {
+        "type": "html",
+        "id": "e5d483174383bc78",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.jpg>"
+      },
+      "date": 1605499271850
+    },
+    {
+      "id": "e5d483174383bc78",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "e5d483174383bc78",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605499278034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ad4444da9515b94"
+      },
+      "id": "2ad4444da9515b94",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605499308340
+    },
+    {
+      "type": "edit",
+      "id": "2ad4444da9515b94",
+      "item": {
+        "type": "html",
+        "id": "2ad4444da9515b94",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.jpg>"
+      },
+      "date": 1605499323786
+    },
+    {
+      "id": "2ad4444da9515b94",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "e5d483174383bc78",
+        "924598b21734f435",
+        "2ad4444da9515b94",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605499328035
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56463b5784c72215"
+      },
+      "id": "56463b5784c72215",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605499356799
     }
   ]
 }
