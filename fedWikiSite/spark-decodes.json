@@ -19,14 +19,39 @@
       "text": "We write html scripts that can be launched by anyone to listen to decodes from their local SparkSDR. [https://github.com/WardCunningham/assets/tree/master/pages/spark-decodes github]"
     },
     {
-      "type": "assets",
-      "id": "758060bfe18c8252",
-      "text": "pages/spark-decodes"
+      "type": "pagefold",
+      "id": "42199d58dc861877",
+      "text": "."
     },
     {
       "type": "paragraph",
       "id": "3067e1d0cae1352b",
-      "text": "Click any of these scripts to run them in a new tab. Some scripts have special features when run inside a wiki page. Use these links to see this work."
+      "text": "Click any of these scripts to run them in a new tab."
+    },
+    {
+      "type": "paragraph",
+      "id": "924598b21734f435",
+      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These appear as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+    },
+    {
+      "type": "paragraph",
+      "id": "6fe5f5f6e76ed25b",
+      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html prefix.html] shows the spots by prefix only in a single line per websocket message."
+    },
+    {
+      "type": "paragraph",
+      "id": "9912e37b79b1526a",
+      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates snr reports as new spots arrive."
+    },
+    {
+      "type": "paragraph",
+      "id": "6251f075cc31a537",
+      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html bands.html] plots the number of spots for each band decoded. Watch activity move up and down the spectrum."
+    },
+    {
+      "type": "paragraph",
+      "id": "928ab6e8c64602d4",
+      "text": "Some scripts have special features when run inside a wiki page. Use these links to see this work."
     },
     {
       "type": "paragraph",
@@ -40,23 +65,13 @@
     },
     {
       "type": "paragraph",
-      "id": "fc8aeac70b1bfd85",
-      "text": "SparkSDR has more options available when launched from the command line."
+      "id": "5e485f832709f541",
+      "text": "See [[Spark Script Tools]] we use here."
     },
     {
-      "type": "code",
-      "id": "a74c91787c232c97",
-      "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
-    },
-    {
-      "type": "paragraph",
-      "id": "c31017556509ed3d",
-      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
-    },
-    {
-      "type": "paragraph",
-      "id": "3ea16f9c959575a3",
-      "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
+      "type": "assets",
+      "id": "758060bfe18c8252",
+      "text": "pages/spark-decodes"
     }
   ],
   "journal": [
@@ -611,6 +626,296 @@
       },
       "after": "c31017556509ed3d",
       "date": 1605458495893
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e485f832709f541"
+      },
+      "id": "5e485f832709f541",
+      "type": "add",
+      "after": "3ea16f9c959575a3",
+      "date": 1605492902051
+    },
+    {
+      "type": "edit",
+      "id": "5e485f832709f541",
+      "item": {
+        "type": "paragraph",
+        "id": "5e485f832709f541",
+        "text": "See [[Spark Script Tools]] we use here."
+      },
+      "date": 1605492997879
+    },
+    {
+      "id": "fc8aeac70b1bfd85",
+      "type": "remove",
+      "date": 1605493246093
+    },
+    {
+      "id": "a74c91787c232c97",
+      "type": "remove",
+      "date": 1605493250484
+    },
+    {
+      "id": "c31017556509ed3d",
+      "type": "remove",
+      "date": 1605493257154
+    },
+    {
+      "id": "3ea16f9c959575a3",
+      "type": "remove",
+      "date": 1605493260991
+    },
+    {
+      "type": "edit",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click any of these scripts to run them in a new tab. "
+      },
+      "date": 1605494288066
+    },
+    {
+      "type": "add",
+      "id": "928ab6e8c64602d4",
+      "item": {
+        "type": "paragraph",
+        "id": "928ab6e8c64602d4",
+        "text": "Some scripts have special features when run inside a wiki page. Use these links to see this work."
+      },
+      "after": "3067e1d0cae1352b",
+      "date": 1605494290652
+    },
+    {
+      "id": "758060bfe18c8252",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "3067e1d0cae1352b",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "758060bfe18c8252",
+        "5e485f832709f541"
+      ],
+      "date": 1605494301455
+    },
+    {
+      "type": "edit",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click any of these scripts to run them in a new tab."
+      },
+      "date": 1605494346266
+    },
+    {
+      "type": "add",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/view/welcome-visitors/view/spark-decodes/view/spark-script-tools console.html]"
+      },
+      "after": "3067e1d0cae1352b",
+      "date": 1605494380483
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These are displayed in the javascript console as tables."
+      },
+      "date": 1605494545356
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These are displayed in the javascript console as tables. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      },
+      "date": 1605494607526
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These are displayed as tables. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      },
+      "date": 1605494629322
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These are displayed as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      },
+      "date": 1605494662292
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. See these as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      },
+      "date": 1605494695526
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These appear as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      },
+      "date": 1605494717069
+    },
+    {
+      "type": "add",
+      "id": "6fe5f5f6e76ed25b",
+      "item": {
+        "type": "paragraph",
+        "id": "6fe5f5f6e76ed25b",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html prefix.html] shows the spots by prefix only in a single line per websocket message."
+      },
+      "after": "924598b21734f435",
+      "date": 1605494868415
+    },
+    {
+      "id": "758060bfe18c8252",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605494945739
+    },
+    {
+      "type": "add",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "[[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates as new spots arrive."
+      },
+      "after": "6fe5f5f6e76ed25b",
+      "date": 1605495079710
+    },
+    {
+      "type": "edit",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates as new spots arrive."
+      },
+      "date": 1605495086312
+    },
+    {
+      "type": "edit",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates snr reports as new spots arrive. "
+      },
+      "date": 1605495196827
+    },
+    {
+      "type": "edit",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates snr reports as new spots arrive."
+      },
+      "date": 1605495224552
+    },
+    {
+      "type": "add",
+      "id": "6251f075cc31a537",
+      "item": {
+        "type": "paragraph",
+        "id": "6251f075cc31a537",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html bands.html] plots the number of spots for each band decoded. Watch activity move up and down the spectrum throughout the day."
+      },
+      "after": "9912e37b79b1526a",
+      "date": 1605495353340
+    },
+    {
+      "type": "edit",
+      "id": "6251f075cc31a537",
+      "item": {
+        "type": "paragraph",
+        "id": "6251f075cc31a537",
+        "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html bands.html] plots the number of spots for each band decoded. Watch activity move up and down the spectrum."
+      },
+      "date": 1605495367072
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "42199d58dc861877"
+      },
+      "id": "42199d58dc861877",
+      "type": "add",
+      "after": "758060bfe18c8252",
+      "date": 1605495383127
+    },
+    {
+      "type": "edit",
+      "id": "42199d58dc861877",
+      "item": {
+        "type": "pagefold",
+        "id": "42199d58dc861877",
+        "text": "."
+      },
+      "date": 1605495387699
+    },
+    {
+      "id": "42199d58dc861877",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "42199d58dc861877",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "6fe5f5f6e76ed25b",
+        "9912e37b79b1526a",
+        "6251f075cc31a537",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605495396280
     }
   ]
 }

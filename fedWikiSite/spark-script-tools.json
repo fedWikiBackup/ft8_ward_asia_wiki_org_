@@ -1,0 +1,337 @@
+{
+  "title": "Spark Script Tools",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "419cc9bac3595f9d",
+      "text": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
+    },
+    {
+      "type": "pagefold",
+      "id": "f5b218d5b7f2365f",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "fc8aeac70b1bfd85",
+      "text": "SparkSDR has more options available when launched from the command line."
+    },
+    {
+      "type": "code",
+      "id": "a74c91787c232c97",
+      "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+    },
+    {
+      "type": "pagefold",
+      "id": "bfb1b3982fd7f174",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "c31017556509ed3d",
+      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+    },
+    {
+      "type": "pagefold",
+      "id": "3363084e7ad352ca",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "3ea16f9c959575a3",
+      "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
+    },
+    {
+      "type": "reference",
+      "id": "6bfd0caab5bb0d1e",
+      "site": "found.ward.bay.wiki.org",
+      "slug": "esp8266-sensor-server",
+      "title": "ESP8266 Sensor Server",
+      "text": "The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack. It is here we first explored Plotly.js with accumulate-sensors.html."
+    },
+    {
+      "type": "pagefold",
+      "id": "46eef3d8ac285f19",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "8905d41cbb57950a",
+      "text": "Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Spark Script Tools",
+        "story": []
+      },
+      "date": 1605493002287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "419cc9bac3595f9d"
+      },
+      "id": "419cc9bac3595f9d",
+      "type": "add",
+      "date": 1605493013054
+    },
+    {
+      "type": "edit",
+      "id": "419cc9bac3595f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "419cc9bac3595f9d",
+        "text": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
+      },
+      "date": 1605493236042
+    },
+    {
+      "id": "fc8aeac70b1bfd85",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fc8aeac70b1bfd85",
+        "text": "SparkSDR has more options available when launched from the command line."
+      },
+      "after": "419cc9bac3595f9d",
+      "date": 1605493246094
+    },
+    {
+      "id": "a74c91787c232c97",
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "a74c91787c232c97",
+        "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+      },
+      "after": "fc8aeac70b1bfd85",
+      "date": 1605493250484
+    },
+    {
+      "id": "c31017556509ed3d",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "after": "a74c91787c232c97",
+      "date": 1605493257155
+    },
+    {
+      "id": "3ea16f9c959575a3",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3ea16f9c959575a3",
+        "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
+      },
+      "after": "c31017556509ed3d",
+      "date": 1605493260992
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5b218d5b7f2365f"
+      },
+      "id": "f5b218d5b7f2365f",
+      "type": "add",
+      "after": "3ea16f9c959575a3",
+      "date": 1605493269494
+    },
+    {
+      "type": "edit",
+      "id": "f5b218d5b7f2365f",
+      "item": {
+        "type": "pagefold",
+        "id": "f5b218d5b7f2365f",
+        "text": "."
+      },
+      "date": 1605493275210
+    },
+    {
+      "id": "f5b218d5b7f2365f",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c31017556509ed3d",
+        "3ea16f9c959575a3"
+      ],
+      "date": 1605493278387
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfb1b3982fd7f174"
+      },
+      "id": "bfb1b3982fd7f174",
+      "type": "add",
+      "after": "3ea16f9c959575a3",
+      "date": 1605493280857
+    },
+    {
+      "type": "edit",
+      "id": "bfb1b3982fd7f174",
+      "item": {
+        "type": "pagefold",
+        "id": "bfb1b3982fd7f174",
+        "text": "."
+      },
+      "date": 1605493285355
+    },
+    {
+      "id": "bfb1b3982fd7f174",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3ea16f9c959575a3"
+      ],
+      "date": 1605493288898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3363084e7ad352ca"
+      },
+      "id": "3363084e7ad352ca",
+      "type": "add",
+      "after": "3ea16f9c959575a3",
+      "date": 1605493295247
+    },
+    {
+      "type": "edit",
+      "id": "3363084e7ad352ca",
+      "item": {
+        "type": "pagefold",
+        "id": "3363084e7ad352ca",
+        "text": "."
+      },
+      "date": 1605493299454
+    },
+    {
+      "id": "3363084e7ad352ca",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3"
+      ],
+      "date": 1605493302471
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bfd0caab5bb0d1e"
+      },
+      "id": "6bfd0caab5bb0d1e",
+      "type": "add",
+      "after": "3ea16f9c959575a3",
+      "date": 1605493394436
+    },
+    {
+      "type": "edit",
+      "id": "6bfd0caab5bb0d1e",
+      "item": {
+        "type": "reference",
+        "id": "6bfd0caab5bb0d1e",
+        "site": "found.ward.bay.wiki.org",
+        "slug": "esp8266-sensor-server",
+        "title": "ESP8266 Sensor Server",
+        "text": "The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack and microcontroller capability produced by Shanghai-based manufacturer Espressif. [https://en.wikipedia.org/wiki/ESP8266 wikipedia]"
+      },
+      "date": 1605493404020
+    },
+    {
+      "type": "edit",
+      "id": "6bfd0caab5bb0d1e",
+      "item": {
+        "type": "reference",
+        "id": "6bfd0caab5bb0d1e",
+        "site": "found.ward.bay.wiki.org",
+        "slug": "esp8266-sensor-server",
+        "title": "ESP8266 Sensor Server",
+        "text": "The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack. It is here we first explored Plotly.js."
+      },
+      "date": 1605493480313
+    },
+    {
+      "type": "edit",
+      "id": "6bfd0caab5bb0d1e",
+      "item": {
+        "type": "reference",
+        "id": "6bfd0caab5bb0d1e",
+        "site": "found.ward.bay.wiki.org",
+        "slug": "esp8266-sensor-server",
+        "title": "ESP8266 Sensor Server",
+        "text": "The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack. It is here we first explored Plotly.js with accumulate-sensors.html."
+      },
+      "date": 1605493524272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46eef3d8ac285f19"
+      },
+      "id": "46eef3d8ac285f19",
+      "type": "add",
+      "after": "6bfd0caab5bb0d1e",
+      "date": 1605493679159
+    },
+    {
+      "type": "edit",
+      "id": "46eef3d8ac285f19",
+      "item": {
+        "type": "pagefold",
+        "id": "46eef3d8ac285f19",
+        "text": "."
+      },
+      "date": 1605493685837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8905d41cbb57950a"
+      },
+      "id": "8905d41cbb57950a",
+      "type": "add",
+      "after": "46eef3d8ac285f19",
+      "date": 1605493687578
+    },
+    {
+      "type": "edit",
+      "id": "8905d41cbb57950a",
+      "item": {
+        "type": "paragraph",
+        "id": "8905d41cbb57950a",
+        "text": "Eric Dobbs enhanced the wiki Frame plugin with the listener we talk to to open pages in the lineup. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+      },
+      "date": 1605493755432
+    },
+    {
+      "type": "edit",
+      "id": "8905d41cbb57950a",
+      "item": {
+        "type": "paragraph",
+        "id": "8905d41cbb57950a",
+        "text": "Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+      },
+      "date": 1605493857473
+    }
+  ]
+}

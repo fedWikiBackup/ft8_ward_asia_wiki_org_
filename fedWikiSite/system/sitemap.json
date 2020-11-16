@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605458495893,
+    "date": 1605495396280,
     "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
@@ -255,5 +255,11 @@
     "slug": "signals-on-140-mhz",
     "title": "Signals on 14.0 MHz",
     "synopsis": "These stations were recorded over an interval of 12.53 minutes. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "spark-script-tools",
+    "title": "Spark Script Tools",
+    "date": 1605493857473,
+    "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
   }
 ]
