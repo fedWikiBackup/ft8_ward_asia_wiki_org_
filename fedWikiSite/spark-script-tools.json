@@ -7,6 +7,11 @@
       "text": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
     },
     {
+      "type": "paragraph",
+      "id": "3699db072c30bd5f",
+      "text": "Read breaking news in groups. [https://groups.google.com/g/sparksdr sparksdr] [https://groups.google.com/g/hermes-lite hermes-lite]"
+    },
+    {
       "type": "pagefold",
       "id": "f5b218d5b7f2365f",
       "text": "."
@@ -332,6 +337,37 @@
         "text": "Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
       },
       "date": 1605493857473
+    },
+    {
+      "type": "add",
+      "id": "3699db072c30bd5f",
+      "item": {
+        "type": "paragraph",
+        "id": "3699db072c30bd5f",
+        "text": "Read breaking news in google groups. [https://groups.google.com/g/sparksdr sparksdr]"
+      },
+      "after": "419cc9bac3595f9d",
+      "date": 1605542369213
+    },
+    {
+      "type": "edit",
+      "id": "3699db072c30bd5f",
+      "item": {
+        "type": "paragraph",
+        "id": "3699db072c30bd5f",
+        "text": "Read breaking news in groups. [https://groups.google.com/g/sparksdr sparksdr]"
+      },
+      "date": 1605542378076
+    },
+    {
+      "type": "edit",
+      "id": "3699db072c30bd5f",
+      "item": {
+        "type": "paragraph",
+        "id": "3699db072c30bd5f",
+        "text": "Read breaking news in groups. [https://groups.google.com/g/sparksdr sparksdr] [https://groups.google.com/g/hermes-lite hermes-lite]"
+      },
+      "date": 1605542469043
     }
   ]
 }
