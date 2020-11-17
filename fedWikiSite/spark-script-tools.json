@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "33e619f3c6f88b17",
+      "text": "Preview Releases. [http://www.ihopper.org/radio/previews.htm page]"
+    },
+    {
+      "type": "paragraph",
       "id": "3699db072c30bd5f",
       "text": "Read breaking news in groups. [https://groups.google.com/g/sparksdr sparksdr] [https://groups.google.com/g/hermes-lite hermes-lite]"
     },
@@ -25,6 +30,16 @@
       "type": "code",
       "id": "a74c91787c232c97",
       "text": "/Applications/SparkSDR.app/Contents/MacOS/SparkSDR"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8e00ab5afa75ab3",
+      "text": "Error logs reported in this directory."
+    },
+    {
+      "type": "code",
+      "id": "de7c970cf6e597db",
+      "text": "cd ~/.config/m0nnb/SparkSDR2/errorlogs\ncat `ls -tr | tail -1`"
     },
     {
       "type": "pagefold",
@@ -368,6 +383,111 @@
         "text": "Read breaking news in groups. [https://groups.google.com/g/sparksdr sparksdr] [https://groups.google.com/g/hermes-lite hermes-lite]"
       },
       "date": 1605542469043
+    },
+    {
+      "type": "add",
+      "id": "33e619f3c6f88b17",
+      "item": {
+        "type": "paragraph",
+        "id": "33e619f3c6f88b17",
+        "text": "Preview Releases."
+      },
+      "after": "419cc9bac3595f9d",
+      "date": 1605586261412
+    },
+    {
+      "type": "edit",
+      "id": "33e619f3c6f88b17",
+      "item": {
+        "type": "paragraph",
+        "id": "33e619f3c6f88b17",
+        "text": "Preview Releases. [http://www.ihopper.org/radio/previews.htm page]"
+      },
+      "date": 1605586319372
+    },
+    {
+      "type": "add",
+      "id": "c8e00ab5afa75ab3",
+      "item": {
+        "type": "paragraph",
+        "id": "c8e00ab5afa75ab3",
+        "text": "Error logs reported in this directory."
+      },
+      "after": "fc8aeac70b1bfd85",
+      "date": 1605587839594
+    },
+    {
+      "id": "c8e00ab5afa75ab3",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "33e619f3c6f88b17",
+        "3699db072c30bd5f",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c8e00ab5afa75ab3",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3",
+        "6bfd0caab5bb0d1e",
+        "46eef3d8ac285f19",
+        "8905d41cbb57950a"
+      ],
+      "date": 1605587842854
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de7c970cf6e597db"
+      },
+      "id": "de7c970cf6e597db",
+      "type": "add",
+      "after": "8905d41cbb57950a",
+      "date": 1605587871074
+    },
+    {
+      "type": "edit",
+      "id": "de7c970cf6e597db",
+      "item": {
+        "type": "code",
+        "id": "de7c970cf6e597db",
+        "text": "~/.config/m0nnb/SparkSDR2/errorlogs"
+      },
+      "date": 1605587883083
+    },
+    {
+      "id": "de7c970cf6e597db",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "33e619f3c6f88b17",
+        "3699db072c30bd5f",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c8e00ab5afa75ab3",
+        "de7c970cf6e597db",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3",
+        "6bfd0caab5bb0d1e",
+        "46eef3d8ac285f19",
+        "8905d41cbb57950a"
+      ],
+      "date": 1605587886760
+    },
+    {
+      "type": "edit",
+      "id": "de7c970cf6e597db",
+      "item": {
+        "type": "code",
+        "id": "de7c970cf6e597db",
+        "text": "cd ~/.config/m0nnb/SparkSDR2/errorlogs\ncat `ls -tr | tail -1`"
+      },
+      "date": 1605588018502
     }
   ]
 }
