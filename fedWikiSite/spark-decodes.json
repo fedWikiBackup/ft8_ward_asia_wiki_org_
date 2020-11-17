@@ -26,12 +26,17 @@
     {
       "type": "paragraph",
       "id": "3067e1d0cae1352b",
-      "text": "Click these html scripts to run them in a new tab."
+      "text": "Click these script links to run the webapp in a new tab."
     },
     {
       "type": "paragraph",
       "id": "924598b21734f435",
-      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html] listens for spots bundled into websocket messages. These appear as tables in browser console. See View ⇒ Developer Tools ⇒ JavaScript Console."
+      "text": "▶︎ Listens for spots bundled into websocket messages. These appear as tables in browser console. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html script]"
+    },
+    {
+      "type": "paragraph",
+      "id": "941eb7c8439b06dc",
+      "text": "See View ⇒ Developer Tools ⇒ JavaScript Console"
     },
     {
       "type": "html",
@@ -41,7 +46,7 @@
     {
       "type": "paragraph",
       "id": "6fe5f5f6e76ed25b",
-      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html prefix.html] shows the spots by prefix only in a single line per websocket message."
+      "text": "▶︎ Shows the spots by prefix only in a single line per websocket message. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html script]"
     },
     {
       "type": "html",
@@ -51,7 +56,7 @@
     {
       "type": "paragraph",
       "id": "9912e37b79b1526a",
-      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html signals.html] collects and displays call signs heard on each band and updates snr reports as new spots arrive."
+      "text": "▶︎ Collects and displays call signs heard on each band and updates snr reports as new spots arrive. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html script]"
     },
     {
       "type": "html",
@@ -61,7 +66,7 @@
     {
       "type": "paragraph",
       "id": "6251f075cc31a537",
-      "text": "[http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html bands.html] plots the number of spots for each band decoded. Watch activity move up and down the spectrum."
+      "text": "▶︎ Plots the number of spots for each band decoded. Watch activity move up and down the spectrum. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html script]"
     },
     {
       "type": "html",
@@ -1389,6 +1394,147 @@
         "758060bfe18c8252"
       ],
       "date": 1605501236845
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "Listens for spots bundled into websocket messages. These appear as tables in browser console. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html console.html]"
+      },
+      "date": 1605653442525
+    },
+    {
+      "type": "add",
+      "id": "941eb7c8439b06dc",
+      "item": {
+        "type": "paragraph",
+        "id": "941eb7c8439b06dc",
+        "text": "See View ⇒ Developer Tools ⇒ JavaScript Console. "
+      },
+      "after": "924598b21734f435",
+      "date": 1605653444279
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "Listens for spots bundled into websocket messages. These appear as tables in browser console. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html script]"
+      },
+      "date": 1605653453035
+    },
+    {
+      "type": "edit",
+      "id": "941eb7c8439b06dc",
+      "item": {
+        "type": "paragraph",
+        "id": "941eb7c8439b06dc",
+        "text": "See View ⇒ Developer Tools ⇒ JavaScript Console"
+      },
+      "date": 1605653473863
+    },
+    {
+      "type": "edit",
+      "id": "6fe5f5f6e76ed25b",
+      "item": {
+        "type": "paragraph",
+        "id": "6fe5f5f6e76ed25b",
+        "text": "Shows the spots by prefix only in a single line per websocket message. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html script]"
+      },
+      "date": 1605653517754
+    },
+    {
+      "type": "edit",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "Collects and displays call signs heard on each band and updates snr reports as new spots arrive. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html script]"
+      },
+      "date": 1605653566904
+    },
+    {
+      "type": "edit",
+      "id": "6251f075cc31a537",
+      "item": {
+        "type": "paragraph",
+        "id": "6251f075cc31a537",
+        "text": "Plots the number of spots for each band decoded. Watch activity move up and down the spectrum. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html script]"
+      },
+      "date": 1605653610163
+    },
+    {
+      "type": "edit",
+      "id": "924598b21734f435",
+      "item": {
+        "type": "paragraph",
+        "id": "924598b21734f435",
+        "text": "▶︎ Listens for spots bundled into websocket messages. These appear as tables in browser console. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/console.html script]"
+      },
+      "date": 1605653815170
+    },
+    {
+      "type": "edit",
+      "id": "6fe5f5f6e76ed25b",
+      "item": {
+        "type": "paragraph",
+        "id": "6fe5f5f6e76ed25b",
+        "text": "▶︎ Shows the spots by prefix only in a single line per websocket message. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/prefix.html script]"
+      },
+      "date": 1605653827581
+    },
+    {
+      "type": "edit",
+      "id": "9912e37b79b1526a",
+      "item": {
+        "type": "paragraph",
+        "id": "9912e37b79b1526a",
+        "text": "▶︎ Collects and displays call signs heard on each band and updates snr reports as new spots arrive. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html script]"
+      },
+      "date": 1605653834204
+    },
+    {
+      "type": "edit",
+      "id": "6251f075cc31a537",
+      "item": {
+        "type": "paragraph",
+        "id": "6251f075cc31a537",
+        "text": "▶︎ Plots the number of spots for each band decoded. Watch activity move up and down the spectrum. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html script]"
+      },
+      "date": 1605653841563
+    },
+    {
+      "type": "edit",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click these html script links to run each webapp in a new tab."
+      },
+      "date": 1605653938025
+    },
+    {
+      "type": "edit",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click these script links to run each webapp in a new tab."
+      },
+      "date": 1605653947913
+    },
+    {
+      "type": "edit",
+      "id": "3067e1d0cae1352b",
+      "item": {
+        "type": "paragraph",
+        "id": "3067e1d0cae1352b",
+        "text": "Click these script links to run the webapp in a new tab."
+      },
+      "date": 1605653954921
     }
   ]
 }
