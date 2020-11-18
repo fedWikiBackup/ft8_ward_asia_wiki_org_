@@ -70,6 +70,11 @@
     },
     {
       "type": "paragraph",
+      "id": "50a5e7745b090221",
+      "text": "▶︎ Collects and displays call signs heard on each band and show varying snr with colors. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?fmt=color&domain=localhost script]"
+    },
+    {
+      "type": "paragraph",
       "id": "6251f075cc31a537",
       "text": "▶︎ Plots the number of spots for each band decoded. Watch activity move up and down the spectrum. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html?domain=localhost script]"
     },
@@ -1643,6 +1648,56 @@
         "758060bfe18c8252"
       ],
       "date": 1605654625784
+    },
+    {
+      "type": "add",
+      "id": "50a5e7745b090221",
+      "item": {
+        "type": "paragraph",
+        "id": "50a5e7745b090221",
+        "text": "▶︎ Collects and displays call signs heard on each band and show varying snr in color. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?fmt=color&domain=localhost script]"
+      },
+      "after": "9912e37b79b1526a",
+      "date": 1605661281985
+    },
+    {
+      "id": "50a5e7745b090221",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "71246e959044c992",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "941eb7c8439b06dc",
+        "e5d483174383bc78",
+        "6fe5f5f6e76ed25b",
+        "2ad4444da9515b94",
+        "9912e37b79b1526a",
+        "56463b5784c72215",
+        "50a5e7745b090221",
+        "6251f075cc31a537",
+        "63e2c8bc276ba287",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605661285805
+    },
+    {
+      "type": "edit",
+      "id": "50a5e7745b090221",
+      "item": {
+        "type": "paragraph",
+        "id": "50a5e7745b090221",
+        "text": "▶︎ Collects and displays call signs heard on each band and show varying snr with colors. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?fmt=color&domain=localhost script]"
+      },
+      "date": 1605661305751
     }
   ]
 }
