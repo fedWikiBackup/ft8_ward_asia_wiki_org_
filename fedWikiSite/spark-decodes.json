@@ -74,6 +74,11 @@
       "text": "▶︎ Collects and displays call signs heard on each band and show varying snr with colors. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?fmt=color&domain=localhost script]"
     },
     {
+      "type": "html",
+      "id": "77e9241cbdd94c4e",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals-fmt.jpg> "
+    },
+    {
       "type": "paragraph",
       "id": "6251f075cc31a537",
       "text": "▶︎ Plots the number of spots for each band decoded. Watch activity move up and down the spectrum. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.html?domain=localhost script]"
@@ -1698,6 +1703,27 @@
         "text": "▶︎ Collects and displays call signs heard on each band and show varying snr with colors. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?fmt=color&domain=localhost script]"
       },
       "date": 1605661305751
+    },
+    {
+      "type": "add",
+      "id": "77e9241cbdd94c4e",
+      "item": {
+        "type": "factory",
+        "id": "77e9241cbdd94c4e",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals-fmt.jpg>"
+      },
+      "after": "50a5e7745b090221",
+      "date": 1605661575075
+    },
+    {
+      "type": "edit",
+      "id": "77e9241cbdd94c4e",
+      "item": {
+        "type": "html",
+        "id": "77e9241cbdd94c4e",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals-fmt.jpg> "
+      },
+      "date": 1605661584171
     }
   ]
 }
