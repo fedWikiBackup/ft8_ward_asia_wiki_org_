@@ -14,7 +14,7 @@
     {
       "type": "frame",
       "id": "66b83b51bc0649b4",
-      "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html\nHEIGHT 800"
+      "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?domain=localhost\nHEIGHT 800"
     }
   ],
   "journal": [
@@ -84,6 +84,16 @@
       },
       "after": "1c21cfca07fe2185",
       "date": 1605398354473
+    },
+    {
+      "type": "edit",
+      "id": "66b83b51bc0649b4",
+      "item": {
+        "type": "frame",
+        "id": "66b83b51bc0649b4",
+        "text": "http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals.html?domain=localhost\nHEIGHT 800"
+      },
+      "date": 1605654566427
     }
   ]
 }
