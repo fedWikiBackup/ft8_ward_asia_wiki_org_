@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "fc8aeac70b1bfd85",
-      "text": "SparkSDR has more options available when launched from the command line."
+      "text": "SparkSDR. This .net core app has more options available when launched from the command line."
     },
     {
       "type": "code",
@@ -49,7 +49,7 @@
     {
       "type": "paragraph",
       "id": "c31017556509ed3d",
-      "text": "This Rust WASM code got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      "text": "Rust. WASM code that got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
     },
     {
       "type": "pagefold",
@@ -59,7 +59,7 @@
     {
       "type": "paragraph",
       "id": "3ea16f9c959575a3",
-      "text": "Plotly.js line charts. [https://plotly.com/javascript/line-charts/ tutorial]"
+      "text": "Plotly. Charts built on d3 for data science. [https://plotly.com/javascript/line-charts/ tutorial]"
     },
     {
       "type": "reference",
@@ -93,6 +93,26 @@
       "type": "paragraph",
       "id": "2bf485606aae9801",
       "text": "Here is the source at hpcc-systems. [https://github.com/hpcc-systems/hpcc-js-wasm github]"
+    },
+    {
+      "type": "pagefold",
+      "id": "7142b396f3be9a16",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "f24a1e5ac854c332",
+      "text": "Deno. A simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [https://deno.land/#installation install]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2937256c27d34235",
+      "text": "This is the console.js test script I used when debugging websocket connections. [https://github.com/WardCunningham/assets/blob/master/pages/spark-decodes/console.js github]"
+    },
+    {
+      "type": "code",
+      "id": "5dfa8dd4823254dc",
+      "text": "deno run --allow-net console.js"
     }
   ],
   "journal": [
@@ -594,6 +614,137 @@
         "text": "Frame. Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
       },
       "date": 1605805811444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7142b396f3be9a16"
+      },
+      "id": "7142b396f3be9a16",
+      "type": "add",
+      "after": "2bf485606aae9801",
+      "date": 1605819991210
+    },
+    {
+      "type": "edit",
+      "id": "7142b396f3be9a16",
+      "item": {
+        "type": "pagefold",
+        "id": "7142b396f3be9a16",
+        "text": "."
+      },
+      "date": 1605819998644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f24a1e5ac854c332"
+      },
+      "id": "f24a1e5ac854c332",
+      "type": "add",
+      "after": "7142b396f3be9a16",
+      "date": 1605820000333
+    },
+    {
+      "type": "edit",
+      "id": "f24a1e5ac854c332",
+      "item": {
+        "type": "paragraph",
+        "id": "f24a1e5ac854c332",
+        "text": "Deno. A simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust."
+      },
+      "date": 1605820017819
+    },
+    {
+      "type": "edit",
+      "id": "3ea16f9c959575a3",
+      "item": {
+        "type": "paragraph",
+        "id": "3ea16f9c959575a3",
+        "text": "Plotly. Charts built on d3 for data science. [https://plotly.com/javascript/line-charts/ tutorial]"
+      },
+      "date": 1605820115576
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Rust WASM code that got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "date": 1605820192535
+    },
+    {
+      "type": "edit",
+      "id": "c31017556509ed3d",
+      "item": {
+        "type": "paragraph",
+        "id": "c31017556509ed3d",
+        "text": "Rust. WASM code that got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
+      },
+      "date": 1605820197166
+    },
+    {
+      "type": "edit",
+      "id": "fc8aeac70b1bfd85",
+      "item": {
+        "type": "paragraph",
+        "id": "fc8aeac70b1bfd85",
+        "text": "SparkSDR. This .net core app has more options available when launched from the command line."
+      },
+      "date": 1605820229737
+    },
+    {
+      "type": "edit",
+      "id": "f24a1e5ac854c332",
+      "item": {
+        "type": "paragraph",
+        "id": "f24a1e5ac854c332",
+        "text": "Deno. A simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [https://deno.land/#installation install]"
+      },
+      "date": 1605820325167
+    },
+    {
+      "type": "add",
+      "id": "2937256c27d34235",
+      "item": {
+        "type": "paragraph",
+        "id": "2937256c27d34235",
+        "text": "This is the test script I used when debugging websocket connections. [https://github.com/WardCunningham/assets/blob/master/pages/spark-decodes/console.js github]"
+      },
+      "after": "f24a1e5ac854c332",
+      "date": 1605820552523
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5dfa8dd4823254dc"
+      },
+      "id": "5dfa8dd4823254dc",
+      "type": "add",
+      "after": "2937256c27d34235",
+      "date": 1605820602415
+    },
+    {
+      "type": "edit",
+      "id": "5dfa8dd4823254dc",
+      "item": {
+        "type": "code",
+        "id": "5dfa8dd4823254dc",
+        "text": "deno run --allow-net console.js"
+      },
+      "date": 1605820606024
+    },
+    {
+      "type": "edit",
+      "id": "2937256c27d34235",
+      "item": {
+        "type": "paragraph",
+        "id": "2937256c27d34235",
+        "text": "This is the console.js test script I used when debugging websocket connections. [https://github.com/WardCunningham/assets/blob/master/pages/spark-decodes/console.js github]"
+      },
+      "date": 1605820622459
     }
   ]
 }
