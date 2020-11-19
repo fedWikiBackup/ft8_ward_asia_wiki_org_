@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605661584171,
+    "date": 1605765766911,
     "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
@@ -261,5 +261,11 @@
     "title": "Spark Script Tools",
     "date": 1605588018502,
     "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
+  },
+  {
+    "slug": "spark-social-spreading",
+    "title": "Spark Social Spreading",
+    "date": 1605764119282,
+    "synopsis": "strict digraph { "
   }
 ]
