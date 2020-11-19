@@ -19,7 +19,7 @@
     {
       "type": "html",
       "id": "6529b20b8f097468",
-      "text": "<center><img width=50% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-social-spreading/inward-outward.png></center>"
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-social-spreading/inward-outward.png>"
     },
     {
       "type": "paragraph",
@@ -409,6 +409,16 @@
       "type": "remove",
       "id": "3c568ec887fca52d",
       "date": 1605795229272
+    },
+    {
+      "type": "edit",
+      "id": "6529b20b8f097468",
+      "item": {
+        "type": "html",
+        "id": "6529b20b8f097468",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-social-spreading/inward-outward.png>"
+      },
+      "date": 1605801137216
     }
   ]
 }
