@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605765766911,
+    "date": 1605766149954,
     "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
@@ -265,7 +265,7 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1605764119282,
-    "synopsis": "strict digraph { "
+    "date": 1605766269271,
+    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease."
   }
 ]

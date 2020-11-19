@@ -91,7 +91,12 @@
     {
       "type": "paragraph",
       "id": "71eb4404f5500e90",
-      "text": "▶︎ Confirmed contacts make arrow from the station we hear. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Not yet rendered. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+    },
+    {
+      "type": "html",
+      "id": "ebe2f921b6af6754",
+      "text": "<img width=100% src=<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.jpg>"
     },
     {
       "type": "markdown",
@@ -1788,6 +1793,57 @@
         "758060bfe18c8252"
       ],
       "date": 1605765766911
+    },
+    {
+      "type": "add",
+      "id": "ebe2f921b6af6754",
+      "item": {
+        "type": "factory",
+        "id": "ebe2f921b6af6754",
+        "text": "<img width=100% src=<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.jpg> "
+      },
+      "after": "71eb4404f5500e90",
+      "date": 1605765810560
+    },
+    {
+      "type": "edit",
+      "id": "ebe2f921b6af6754",
+      "item": {
+        "type": "html",
+        "id": "ebe2f921b6af6754",
+        "text": "<img width=100% src=<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.jpg>"
+      },
+      "date": 1605765816850
+    },
+    {
+      "type": "edit",
+      "id": "ebe2f921b6af6754",
+      "item": {
+        "type": "html",
+        "id": "ebe2f921b6af6754",
+        "text": "<img width=100% src=<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.jpg>"
+      },
+      "date": 1605765826012
+    },
+    {
+      "type": "edit",
+      "id": "71eb4404f5500e90",
+      "item": {
+        "type": "paragraph",
+        "id": "71eb4404f5500e90",
+        "text": "▶︎ Confirmed contacts joined with arrows rooted in the station heard. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      },
+      "date": 1605765979984
+    },
+    {
+      "type": "edit",
+      "id": "71eb4404f5500e90",
+      "item": {
+        "type": "paragraph",
+        "id": "71eb4404f5500e90",
+        "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Not yet rendered. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      },
+      "date": 1605766149954
     }
   ]
 }
