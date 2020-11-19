@@ -89,6 +89,11 @@
       "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/bands.jpg>"
     },
     {
+      "type": "paragraph",
+      "id": "71eb4404f5500e90",
+      "text": "▶︎ Confirmed contacts make arrow from the station we hear. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+    },
+    {
       "type": "markdown",
       "id": "abe1a4dc8fe66de3",
       "text": "# Wiki"
@@ -102,6 +107,11 @@
       "type": "paragraph",
       "id": "04e818c84c279a35",
       "text": "[[Spark Signals]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9ffd80ee54f8333c",
+      "text": "[[Spark Social Spreading]]"
     },
     {
       "type": "markdown",
@@ -1724,6 +1734,60 @@
         "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/signals-fmt.jpg> "
       },
       "date": 1605661584171
+    },
+    {
+      "type": "add",
+      "id": "9ffd80ee54f8333c",
+      "item": {
+        "type": "paragraph",
+        "id": "9ffd80ee54f8333c",
+        "text": "[[Spark Social Spreading]]"
+      },
+      "after": "04e818c84c279a35",
+      "date": 1605762911478
+    },
+    {
+      "type": "add",
+      "id": "71eb4404f5500e90",
+      "item": {
+        "type": "paragraph",
+        "id": "71eb4404f5500e90",
+        "text": "▶︎ Confirmed contacts make arrow from the station we hear. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      },
+      "after": "6251f075cc31a537",
+      "date": 1605765764015
+    },
+    {
+      "id": "71eb4404f5500e90",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "71246e959044c992",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "941eb7c8439b06dc",
+        "e5d483174383bc78",
+        "6fe5f5f6e76ed25b",
+        "2ad4444da9515b94",
+        "9912e37b79b1526a",
+        "56463b5784c72215",
+        "50a5e7745b090221",
+        "77e9241cbdd94c4e",
+        "6251f075cc31a537",
+        "63e2c8bc276ba287",
+        "71eb4404f5500e90",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "9ffd80ee54f8333c",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "758060bfe18c8252"
+      ],
+      "date": 1605765766911
     }
   ]
 }
