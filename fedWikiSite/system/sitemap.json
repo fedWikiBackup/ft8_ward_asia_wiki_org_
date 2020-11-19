@@ -265,7 +265,12 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1605795229272,
+    "date": 1605801137216,
     "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease."
+  },
+  {
+    "slug": "connetions-on-35-mhz",
+    "title": "Connetions on 3.5 MHz",
+    "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]"
   }
 ]
