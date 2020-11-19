@@ -77,7 +77,22 @@
     {
       "type": "paragraph",
       "id": "8905d41cbb57950a",
-      "text": "Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+      "text": "Frame. Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+    },
+    {
+      "type": "pagefold",
+      "id": "7e247a043c7cc06f",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "6da515a70f38110b",
+      "text": "Graphviz. Eric Dobbs has added and maintained the client-side rendering of dot using cross-compiles he found. [https://github.com/dobbs/wiki-plugin-graphviz/blob/master/package.json github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bf485606aae9801",
+      "text": "Here is the source at hpcc-systems. [https://github.com/hpcc-systems/hpcc-js-wasm github]"
     }
   ],
   "journal": [
@@ -488,6 +503,97 @@
         "text": "cd ~/.config/m0nnb/SparkSDR2/errorlogs\ncat `ls -tr | tail -1`"
       },
       "date": 1605588018502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e247a043c7cc06f"
+      },
+      "id": "7e247a043c7cc06f",
+      "type": "add",
+      "after": "8905d41cbb57950a",
+      "date": 1605805446102
+    },
+    {
+      "type": "edit",
+      "id": "7e247a043c7cc06f",
+      "item": {
+        "type": "pagefold",
+        "id": "7e247a043c7cc06f",
+        "text": "."
+      },
+      "date": 1605805450423
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6da515a70f38110b"
+      },
+      "id": "6da515a70f38110b",
+      "type": "add",
+      "after": "7e247a043c7cc06f",
+      "date": 1605805452518
+    },
+    {
+      "type": "edit",
+      "id": "6da515a70f38110b",
+      "item": {
+        "type": "paragraph",
+        "id": "6da515a70f38110b",
+        "text": "Eric Dobbs has added and maintained the client-side rendering of dot using cross-compiles he found elsewhere. [https://github.com/dobbs/wiki-plugin-graphviz/blob/master/package.json github]"
+      },
+      "date": 1605805554492
+    },
+    {
+      "type": "edit",
+      "id": "6da515a70f38110b",
+      "item": {
+        "type": "paragraph",
+        "id": "6da515a70f38110b",
+        "text": "Eric Dobbs has added and maintained the client-side rendering of dot using cross-compiles he found. [https://github.com/dobbs/wiki-plugin-graphviz/blob/master/package.json github]"
+      },
+      "date": 1605805573170
+    },
+    {
+      "type": "add",
+      "id": "2bf485606aae9801",
+      "item": {
+        "type": "paragraph",
+        "id": "2bf485606aae9801",
+        "text": "Here is the source at hpcc-systems. [https://github.com/hpcc-systems/hpcc-js-wasm github]"
+      },
+      "after": "6da515a70f38110b",
+      "date": 1605805734064
+    },
+    {
+      "type": "edit",
+      "id": "6da515a70f38110b",
+      "item": {
+        "type": "paragraph",
+        "id": "6da515a70f38110b",
+        "text": "Eric Dobbs has added and maintained the client-side rendering of dot using cross-compiles of Graphviz he found. [https://github.com/dobbs/wiki-plugin-graphviz/blob/master/package.json github]"
+      },
+      "date": 1605805773853
+    },
+    {
+      "type": "edit",
+      "id": "6da515a70f38110b",
+      "item": {
+        "type": "paragraph",
+        "id": "6da515a70f38110b",
+        "text": "Graphviz. Eric Dobbs has added and maintained the client-side rendering of dot using cross-compiles he found. [https://github.com/dobbs/wiki-plugin-graphviz/blob/master/package.json github]"
+      },
+      "date": 1605805801558
+    },
+    {
+      "type": "edit",
+      "id": "8905d41cbb57950a",
+      "item": {
+        "type": "paragraph",
+        "id": "8905d41cbb57950a",
+        "text": "Frame. Eric Dobbs enhanced wiki with the frameListener that opens pages in the lineup for us. [https://github.com/dobbs/wiki-plugin-frame/blob/master/client/frame.js github]"
+      },
+      "date": 1605805811444
     }
   ]
 }

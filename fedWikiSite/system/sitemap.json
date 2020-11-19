@@ -259,18 +259,28 @@
   {
     "slug": "spark-script-tools",
     "title": "Spark Script Tools",
-    "date": 1605588018502,
+    "date": 1605805811444,
     "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
   },
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1605801137216,
-    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease."
+    "date": 1605808113490,
+    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
   },
   {
     "slug": "connetions-on-35-mhz",
     "title": "Connetions on 3.5 MHz",
     "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "va7qi-on-101-mhz",
+    "title": "VA7QI on 10.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 19.9 minutes starting with VA7QI at 11/19/2020, 9:12:57 AM. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "n7tms-on-70-mhz",
+    "title": "N7TMS on 7.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 32.0 minutes starting with N7TMS at 11/19/2020, 9:15:12 AM. See [[Spark Decodes]]"
   }
 ]

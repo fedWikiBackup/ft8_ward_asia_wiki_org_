@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "53d5922e7700050c",
-      "text": "We show stations in contact with each other as if they are passing messages or spreading a disease."
+      "text": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
     },
     {
       "type": "frame",
@@ -30,6 +30,21 @@
       "type": "html",
       "id": "76d21a42e5a58f44",
       "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-social-spreading/complex.png> "
+    },
+    {
+      "type": "paragraph",
+      "id": "c3154f20d4ec78b1",
+      "text": "These notable or illustrative graphs caught our attention."
+    },
+    {
+      "type": "paragraph",
+      "id": "f6344a1507e662f0",
+      "text": "[[VA7QI on 10.1 MHz]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d247a3fdc14e7f06",
+      "text": "[[N7TMS on 7.0 MHz]]"
     }
   ],
   "journal": [
@@ -419,6 +434,97 @@
         "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-social-spreading/inward-outward.png>"
       },
       "date": 1605801137216
+    },
+    {
+      "type": "edit",
+      "id": "53d5922e7700050c",
+      "item": {
+        "type": "paragraph",
+        "id": "53d5922e7700050c",
+        "text": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose a band."
+      },
+      "date": 1605805942050
+    },
+    {
+      "type": "edit",
+      "id": "53d5922e7700050c",
+      "item": {
+        "type": "paragraph",
+        "id": "53d5922e7700050c",
+        "text": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
+      },
+      "date": 1605805950415
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3154f20d4ec78b1"
+      },
+      "id": "c3154f20d4ec78b1",
+      "type": "add",
+      "after": "76d21a42e5a58f44",
+      "date": 1605807309909
+    },
+    {
+      "type": "edit",
+      "id": "c3154f20d4ec78b1",
+      "item": {
+        "type": "paragraph",
+        "id": "c3154f20d4ec78b1",
+        "text": "We fork notable or illustrative diagrams when we notice them."
+      },
+      "date": 1605807360882
+    },
+    {
+      "type": "edit",
+      "id": "c3154f20d4ec78b1",
+      "item": {
+        "type": "paragraph",
+        "id": "c3154f20d4ec78b1",
+        "text": "These notable or illustrative diagrams caught our attention."
+      },
+      "date": 1605807381276
+    },
+    {
+      "type": "edit",
+      "id": "c3154f20d4ec78b1",
+      "item": {
+        "type": "paragraph",
+        "id": "c3154f20d4ec78b1",
+        "text": "These notable or illustrative graphs caught our attention."
+      },
+      "date": 1605807395575
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6344a1507e662f0"
+      },
+      "id": "f6344a1507e662f0",
+      "type": "add",
+      "after": "c3154f20d4ec78b1",
+      "date": 1605807400185
+    },
+    {
+      "type": "edit",
+      "id": "f6344a1507e662f0",
+      "item": {
+        "type": "paragraph",
+        "id": "f6344a1507e662f0",
+        "text": "[[VA7QI on 10.1 MHz]]"
+      },
+      "date": 1605807406120
+    },
+    {
+      "type": "add",
+      "id": "d247a3fdc14e7f06",
+      "item": {
+        "type": "paragraph",
+        "id": "d247a3fdc14e7f06",
+        "text": "[[N7TMS on 7.0 MHz]]"
+      },
+      "after": "f6344a1507e662f0",
+      "date": 1605808113490
     }
   ]
 }
