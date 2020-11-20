@@ -113,6 +113,11 @@
       "type": "code",
       "id": "5dfa8dd4823254dc",
       "text": "deno run --allow-net console.js"
+    },
+    {
+      "type": "assets",
+      "id": "7a68561bcb2c65ea",
+      "text": "pages/spark-script-tools"
     }
   ],
   "journal": [
@@ -745,6 +750,26 @@
         "text": "This is the console.js test script I used when debugging websocket connections. [https://github.com/WardCunningham/assets/blob/master/pages/spark-decodes/console.js github]"
       },
       "date": 1605820622459
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a68561bcb2c65ea"
+      },
+      "id": "7a68561bcb2c65ea",
+      "type": "add",
+      "after": "5dfa8dd4823254dc",
+      "date": 1605836907191
+    },
+    {
+      "type": "edit",
+      "id": "7a68561bcb2c65ea",
+      "item": {
+        "type": "assets",
+        "id": "7a68561bcb2c65ea",
+        "text": "pages/spark-script-tools"
+      },
+      "date": 1605836924514
     }
   ]
 }
