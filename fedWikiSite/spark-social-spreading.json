@@ -45,6 +45,11 @@
       "type": "paragraph",
       "id": "d247a3fdc14e7f06",
       "text": "[[N7TMS on 7.0 MHz]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b2f6502c9bb73e18",
+      "text": "[[WH6S on 18.1 MHz]]"
     }
   ],
   "journal": [
@@ -525,6 +530,17 @@
       },
       "after": "f6344a1507e662f0",
       "date": 1605808113490
+    },
+    {
+      "type": "add",
+      "id": "b2f6502c9bb73e18",
+      "item": {
+        "type": "paragraph",
+        "id": "b2f6502c9bb73e18",
+        "text": "[[WH6S on 18.1 MHz]]"
+      },
+      "after": "d247a3fdc14e7f06",
+      "date": 1605831768787
     }
   ]
 }

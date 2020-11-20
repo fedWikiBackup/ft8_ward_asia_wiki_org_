@@ -128,7 +128,7 @@
   {
     "slug": "ham-radio-operations",
     "title": "Ham Radio Operations",
-    "date": 1605401495874,
+    "date": 1605833261531,
     "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]"
   },
   {
@@ -265,7 +265,7 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1605808113490,
+    "date": 1605831768787,
     "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
   },
   {
@@ -288,5 +288,10 @@
     "title": "Earth from Space",
     "date": 1605812645720,
     "synopsis": "We could find some use for a globe coded in three.js and shared on github. Includes a walkthrough of the construction. [https://blog.mastermaps.com/2013/09/creating-webgl-earth-with-threejs.html post] [https://github.com/turban/webgl-earth github] [http://thematicmapping.org/playground/webgl/earth/ enlarge]"
+  },
+  {
+    "slug": "wh6s-on-181-mhz",
+    "title": "WH6S on 18.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 26.2 minutes starting with WH6S at 11/19/2020, 3:50:48 PM. See [[Spark Decodes]]"
   }
 ]
