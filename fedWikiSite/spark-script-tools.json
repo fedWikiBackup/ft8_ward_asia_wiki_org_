@@ -115,6 +115,11 @@
       "text": "deno run --allow-net console.js"
     },
     {
+      "type": "paragraph",
+      "id": "1e7d0068a5998164",
+      "text": "We've sought debugging help with our missing pong problems radio folks and from deno developers on discard. [https://discord.com/channels/684898665143206084/689420767620104201/779162088747696139 post]"
+    },
+    {
       "type": "assets",
       "id": "7a68561bcb2c65ea",
       "text": "pages/spark-script-tools"
@@ -770,6 +775,87 @@
         "text": "pages/spark-script-tools"
       },
       "date": 1605836924514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e7d0068a5998164"
+      },
+      "id": "1e7d0068a5998164",
+      "type": "add",
+      "after": "7a68561bcb2c65ea",
+      "date": 1605840636583
+    },
+    {
+      "type": "edit",
+      "id": "1e7d0068a5998164",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7d0068a5998164",
+        "text": "We've sought debugging help from deno developers on discoard"
+      },
+      "date": 1605840670974
+    },
+    {
+      "type": "edit",
+      "id": "1e7d0068a5998164",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7d0068a5998164",
+        "text": "We've sought debugging help from deno developers on discard. [https://discord.com/channels/684898665143206084/689420767620104201/779162088747696139 post]"
+      },
+      "date": 1605840697794
+    },
+    {
+      "type": "edit",
+      "id": "1e7d0068a5998164",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7d0068a5998164",
+        "text": "We've sought debugging help with our missing pong problems radio folks and from deno developers on discard.[https://discord.com/channels/684898665143206084/689420767620104201/779162088747696139 post]"
+      },
+      "date": 1605840771456
+    },
+    {
+      "type": "edit",
+      "id": "1e7d0068a5998164",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7d0068a5998164",
+        "text": "We've sought debugging help with our missing pong problems radio folks and from deno developers on discard. [https://discord.com/channels/684898665143206084/689420767620104201/779162088747696139 post]"
+      },
+      "date": 1605840777618
+    },
+    {
+      "id": "1e7d0068a5998164",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "33e619f3c6f88b17",
+        "3699db072c30bd5f",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c8e00ab5afa75ab3",
+        "de7c970cf6e597db",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3",
+        "6bfd0caab5bb0d1e",
+        "46eef3d8ac285f19",
+        "8905d41cbb57950a",
+        "7e247a043c7cc06f",
+        "6da515a70f38110b",
+        "2bf485606aae9801",
+        "7142b396f3be9a16",
+        "f24a1e5ac854c332",
+        "2937256c27d34235",
+        "5dfa8dd4823254dc",
+        "1e7d0068a5998164",
+        "7a68561bcb2c65ea"
+      ],
+      "date": 1605840783378
     }
   ]
 }
