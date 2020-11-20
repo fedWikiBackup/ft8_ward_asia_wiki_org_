@@ -91,7 +91,7 @@
     {
       "type": "paragraph",
       "id": "71eb4404f5500e90",
-      "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Not yet rendered. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Auto update of chosen band. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
     },
     {
       "type": "html",
@@ -1844,6 +1844,26 @@
         "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Not yet rendered. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
       },
       "date": 1605766149954
+    },
+    {
+      "type": "edit",
+      "id": "71eb4404f5500e90",
+      "item": {
+        "type": "paragraph",
+        "id": "71eb4404f5500e90",
+        "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. auto update of chosen band. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      },
+      "date": 1605851250495
+    },
+    {
+      "type": "edit",
+      "id": "71eb4404f5500e90",
+      "item": {
+        "type": "paragraph",
+        "id": "71eb4404f5500e90",
+        "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Auto update of chosen band. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
+      },
+      "date": 1605851271215
     }
   ]
 }
