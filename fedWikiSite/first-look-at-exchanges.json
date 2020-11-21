@@ -42,6 +42,21 @@
       "text": "  \"HP2AT - NN5O\": [\n    {\n      \"time\": \"2020-11-21T06:03:15Z\",\n      \"frequency\": 5357633,\n      \"snr\": -9,\n      \"dt\": 0.2,\n      \"msg\": \"HP2AT NN5O +00\",\n      \"distance\": null,\n      \"call\": \"NN5O\",\n      \"locator\": null\n    },\n    {\n      \"time\": \"2020-11-21T06:03:45Z\",\n      \"frequency\": 5357633,\n      \"snr\": -8,\n      \"dt\": 0.2,\n      \"msg\": \"HP2AT NN5O RR73\",\n      \"distance\": null,\n      \"call\": \"NN5O\",\n      \"locator\": null\n    }\n  ]"
     },
     {
+      "type": "paragraph",
+      "id": "2d816196546c320b",
+      "text": "Here I extract the back and forth messages of one near textbook exchange."
+    },
+    {
+      "type": "code",
+      "id": "ee52b115771f21d5",
+      "text": "exchange['AA0BQ - N0VTY'].map(s=>s.msg)"
+    },
+    {
+      "type": "code",
+      "id": "2542254864f6ab3e",
+      "text": "CQ N0VTY EN40\nN0VTY AA0BQ EN35\nAA0BQ N0VTY +01\nN0VTY AA0BQ R-09\nN0VTY AA0BQ 73 "
+    },
+    {
       "type": "assets",
       "id": "9ed1ba73b42abe15",
       "text": "pages/first-look-at-exchanges"
@@ -365,6 +380,111 @@
         "text": "Who that I heard call CQ got the most responses that I also heard? Here the top 10."
       },
       "date": 1605970985353
+    },
+    {
+      "type": "add",
+      "id": "2d816196546c320b",
+      "item": {
+        "type": "paragraph",
+        "id": "2d816196546c320b",
+        "text": "Here I extract the back and forth messages of one textbook exchange."
+      },
+      "after": "553f213cf1689ad7",
+      "date": 1605984808255
+    },
+    {
+      "id": "2d816196546c320b",
+      "type": "move",
+      "order": [
+        "48abef5525840d90",
+        "fd93fff8aab680b7",
+        "b3aba1825d028f08",
+        "d637234278ab2f2b",
+        "6c371ae15305bb0a",
+        "e93337ef8a579ece",
+        "553f213cf1689ad7",
+        "0ecec92a70ba3713",
+        "2d816196546c320b",
+        "9ed1ba73b42abe15",
+        "cd9a8552cc5405e3",
+        "f0614d061a401965",
+        "080eb6df37a9a6ab"
+      ],
+      "date": 1605984816944
+    },
+    {
+      "type": "add",
+      "id": "ee52b115771f21d5",
+      "item": {
+        "type": "factory",
+        "id": "ee52b115771f21d5",
+        "text": "exchange['AA0BQ - N0VTY'].map(s=>s.msg)\nCQ N0VTY EN40\nN0VTY AA0BQ EN35\nAA0BQ N0VTY +01\nN0VTY AA0BQ R-09\nN0VTY AA0BQ 73"
+      },
+      "after": "2d816196546c320b",
+      "date": 1605984835186
+    },
+    {
+      "type": "edit",
+      "id": "ee52b115771f21d5",
+      "item": {
+        "type": "code",
+        "id": "ee52b115771f21d5",
+        "text": "exchange['AA0BQ - N0VTY'].map(s=>s.msg)"
+      },
+      "date": 1605984854778
+    },
+    {
+      "type": "add",
+      "id": "2542254864f6ab3e",
+      "item": {
+        "type": "factory",
+        "id": "2542254864f6ab3e",
+        "text": "CQ N0VTY EN40\nN0VTY AA0BQ EN35\nAA0BQ N0VTY +01\nN0VTY AA0BQ R-09\nN0VTY AA0BQ 73"
+      },
+      "after": "2d816196546c320b",
+      "date": 1605984871569
+    },
+    {
+      "type": "edit",
+      "id": "2542254864f6ab3e",
+      "item": {
+        "type": "code",
+        "id": "2542254864f6ab3e",
+        "text": "CQ N0VTY EN40\nN0VTY AA0BQ EN35\nAA0BQ N0VTY +01\nN0VTY AA0BQ R-09\nN0VTY AA0BQ 73 "
+      },
+      "date": 1605984880248
+    },
+    {
+      "id": "2542254864f6ab3e",
+      "type": "move",
+      "order": [
+        "48abef5525840d90",
+        "fd93fff8aab680b7",
+        "b3aba1825d028f08",
+        "d637234278ab2f2b",
+        "6c371ae15305bb0a",
+        "e93337ef8a579ece",
+        "553f213cf1689ad7",
+        "0ecec92a70ba3713",
+        "2d816196546c320b",
+        "ee52b115771f21d5",
+        "2542254864f6ab3e",
+        "9ed1ba73b42abe15",
+        "cd9a8552cc5405e3",
+        "f0614d061a401965",
+        "080eb6df37a9a6ab"
+      ],
+      "date": 1605984882992
+    },
+    {
+      "type": "edit",
+      "id": "2d816196546c320b",
+      "item": {
+        "type": "paragraph",
+        "id": "2d816196546c320b",
+        "text": "Here I extract the back and forth messages of one near textbook exchange."
+      },
+      "date": 1605984976559
     }
   ]
 }
