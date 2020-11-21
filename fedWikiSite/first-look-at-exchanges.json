@@ -29,7 +29,7 @@
     {
       "type": "paragraph",
       "id": "e93337ef8a579ece",
-      "text": "Still unsure what further display would be useful I thought I should take a look at the data. I patched in a downloader to dump the exchange history which maps a callsign pair to an array of spots. [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/exchange.json json]"
+      "text": "Still unsure what further display would be useful I thought I should take a look at the data. I patched in a downloader to dump the exchange history which maps a callsign pair to an array of spots, first overnight and again the following morning. [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/exchange.json json] [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/morning.json json]"
     },
     {
       "type": "paragraph",
@@ -44,12 +44,12 @@
     {
       "type": "paragraph",
       "id": "2d816196546c320b",
-      "text": "Here I extract the back and forth messages of one near textbook exchange."
+      "text": "Here I extract the back and forth messages of one near textbook exchange. [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EN40 EN40] [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EN35 EN35]"
     },
     {
       "type": "code",
       "id": "ee52b115771f21d5",
-      "text": "exchange['AA0BQ - N0VTY'].map(s=>s.msg)"
+      "text": "morning['AA0BQ - N0VTY'].map(spot=>spot.msg)"
     },
     {
       "type": "code",
@@ -57,24 +57,44 @@
       "text": "CQ N0VTY EN40\nN0VTY AA0BQ EN35\nAA0BQ N0VTY +01\nN0VTY AA0BQ R-09\nN0VTY AA0BQ 73 "
     },
     {
-      "type": "assets",
-      "id": "9ed1ba73b42abe15",
-      "text": "pages/first-look-at-exchanges"
-    },
-    {
       "type": "paragraph",
       "id": "cd9a8552cc5405e3",
-      "text": "I fed this file into jq, the command line json inspector, and wrote some queries."
+      "text": "I feed these files into jq, the command line json inspector, and write unix pipeline queries."
     },
     {
       "type": "paragraph",
       "id": "f0614d061a401965",
-      "text": "Who that I heard call CQ got the most responses that I also heard? Here the top 10."
+      "text": "I wonder, which CQ got the most responses? Here are the top 10 heard overnight."
     },
     {
       "type": "code",
       "id": "080eb6df37a9a6ab",
       "text": "jq '.[][0].msg' | \\\ngrep '\"CQ '| sort | uniq -c | sort -nr | head -10\n  42 \"CQ K0TPP EM48\"\n  42 \"CQ HL5FUA PM57\"\n  36 \"CQ AA2MF EL87\"\n  29 \"CQ NA RM0F QN16\"\n  29 \"CQ KI0E DN13\"\n  22 \"CQ DX JF8QNF QN02\"\n  19 \"CQ AE7RN DN45\"\n  18 \"CQ DX N4QWZ EM66\"\n  18 \"CQ AG5XI EL09\"\n  17 \"CQ NF5KF EL96\"\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c137b2223a29085",
+      "text": "And again for the upper bands in the morning."
+    },
+    {
+      "type": "code",
+      "id": "531f58b5ea75e3e4",
+      "text": "  39 \"CQ YO3FRI KN34\"\n  32 \"CQ ZS6LKF KG44\"\n  30 \"CQ PY2YW GG66\"\n  29 \"CQ ZS4JAN KG30\"\n  26 \"CQ 9G5FI IJ95\"\n  25 \"CQ KA2DUT FN30\"\n  24 \"CQ TG9SRP EK44\"\n  24 \"CQ K0HMZ DN88\"\n  23 \"CQ POTA KI4LLA FM07\"\n  21 \"CQ SM2LIY KP04\"\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9eb85f859c4b02f",
+      "text": "I see KI4LLA working POTA stations. I learn from google that POTA stands for 'Parks on the Air'. [https://parksontheair.com/ site]"
+    },
+    {
+      "type": "paragraph",
+      "id": "75bd9c3411117b31",
+      "text": "The event has a registry and KI4LLA is in it. [https://pota.us site] [https://pota.us/#/parks/K-4526 loc]"
+    },
+    {
+      "type": "map",
+      "id": "0eb6ba2d45b1c935",
+      "text": "38.1056, -79.6509"
     }
   ],
   "journal": [
@@ -485,6 +505,246 @@
         "text": "Here I extract the back and forth messages of one near textbook exchange."
       },
       "date": 1605984976559
+    },
+    {
+      "type": "edit",
+      "id": "2d816196546c320b",
+      "item": {
+        "type": "paragraph",
+        "id": "2d816196546c320b",
+        "text": "Here I extract the back and forth messages of one near textbook exchange. [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EN40 EN40]"
+      },
+      "date": 1605985503420
+    },
+    {
+      "type": "edit",
+      "id": "2d816196546c320b",
+      "item": {
+        "type": "paragraph",
+        "id": "2d816196546c320b",
+        "text": "Here I extract the back and forth messages of one near textbook exchange. [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EN40 EN40] [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EN35 EN35]"
+      },
+      "date": 1605985570101
+    },
+    {
+      "type": "edit",
+      "id": "ee52b115771f21d5",
+      "item": {
+        "type": "code",
+        "id": "ee52b115771f21d5",
+        "text": "exchange['AA0BQ - N0VTY'].map(spot=>spot.msg)"
+      },
+      "date": 1605986060814
+    },
+    {
+      "type": "edit",
+      "id": "e93337ef8a579ece",
+      "item": {
+        "type": "paragraph",
+        "id": "e93337ef8a579ece",
+        "text": "Still unsure what further display would be useful I thought I should take a look at the data. I patched in a downloader to dump the exchange history which maps a callsign pair to an array of spots, first overnight and again the following morning. [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/exchange.json json] [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/morning.json json]"
+      },
+      "date": 1605987601827
+    },
+    {
+      "type": "edit",
+      "id": "ee52b115771f21d5",
+      "item": {
+        "type": "code",
+        "id": "ee52b115771f21d5",
+        "text": "morning['AA0BQ - N0VTY'].map(spot=>spot.msg)"
+      },
+      "date": 1605987669373
+    },
+    {
+      "type": "edit",
+      "id": "cd9a8552cc5405e3",
+      "item": {
+        "type": "paragraph",
+        "id": "cd9a8552cc5405e3",
+        "text": "I feed these files into jq, the command line json inspector, and write unix pipeline queries."
+      },
+      "date": 1605987763132
+    },
+    {
+      "type": "edit",
+      "id": "f0614d061a401965",
+      "item": {
+        "type": "paragraph",
+        "id": "f0614d061a401965",
+        "text": "Who that I heard call CQ got the most responses that I also heard? Here the top 10 overnight."
+      },
+      "date": 1605987889516
+    },
+    {
+      "type": "add",
+      "id": "3c137b2223a29085",
+      "item": {
+        "type": "paragraph",
+        "id": "3c137b2223a29085",
+        "text": "And again for the upper bands in the morning."
+      },
+      "after": "f0614d061a401965",
+      "date": 1605987913020
+    },
+    {
+      "id": "3c137b2223a29085",
+      "type": "move",
+      "order": [
+        "48abef5525840d90",
+        "fd93fff8aab680b7",
+        "b3aba1825d028f08",
+        "d637234278ab2f2b",
+        "6c371ae15305bb0a",
+        "e93337ef8a579ece",
+        "553f213cf1689ad7",
+        "0ecec92a70ba3713",
+        "2d816196546c320b",
+        "ee52b115771f21d5",
+        "2542254864f6ab3e",
+        "9ed1ba73b42abe15",
+        "cd9a8552cc5405e3",
+        "f0614d061a401965",
+        "080eb6df37a9a6ab",
+        "3c137b2223a29085"
+      ],
+      "date": 1605987915305
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "531f58b5ea75e3e4"
+      },
+      "id": "531f58b5ea75e3e4",
+      "type": "add",
+      "after": "3c137b2223a29085",
+      "date": 1605987916603
+    },
+    {
+      "type": "edit",
+      "id": "531f58b5ea75e3e4",
+      "item": {
+        "type": "code",
+        "id": "531f58b5ea75e3e4",
+        "text": "  39 \"CQ YO3FRI KN34\"\n  32 \"CQ ZS6LKF KG44\"\n  30 \"CQ PY2YW GG66\"\n  29 \"CQ ZS4JAN KG30\"\n  26 \"CQ 9G5FI IJ95\"\n  25 \"CQ KA2DUT FN30\"\n  24 \"CQ TG9SRP EK44\"\n  24 \"CQ K0HMZ DN88\"\n  23 \"CQ POTA KI4LLA FM07\"\n  21 \"CQ SM2LIY KP04\"\n"
+      },
+      "date": 1605987934903
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e9eb85f859c4b02f"
+      },
+      "id": "e9eb85f859c4b02f",
+      "type": "add",
+      "after": "531f58b5ea75e3e4",
+      "date": 1605988110659
+    },
+    {
+      "type": "edit",
+      "id": "e9eb85f859c4b02f",
+      "item": {
+        "type": "paragraph",
+        "id": "e9eb85f859c4b02f",
+        "text": "I see KI4LLA working POTA stations. I learn from the internet that POTA stands for 'Parks on the Air'. [https://parksontheair.com/ site]"
+      },
+      "date": 1605988202321
+    },
+    {
+      "type": "edit",
+      "id": "e9eb85f859c4b02f",
+      "item": {
+        "type": "paragraph",
+        "id": "e9eb85f859c4b02f",
+        "text": "I see KI4LLA working POTA stations. I learn from the internet that POTA stands for 'Parks on the Air'. [https://parksontheair.com/ site] [https://pota.us site]"
+      },
+      "date": 1605988428397
+    },
+    {
+      "type": "edit",
+      "id": "e9eb85f859c4b02f",
+      "item": {
+        "type": "paragraph",
+        "id": "e9eb85f859c4b02f",
+        "text": "I see KI4LLA working POTA stations. I learn from the internet that POTA stands for 'Parks on the Air'. [https://parksontheair.com/ site]"
+      },
+      "date": 1605988444774
+    },
+    {
+      "type": "add",
+      "id": "75bd9c3411117b31",
+      "item": {
+        "type": "paragraph",
+        "id": "75bd9c3411117b31",
+        "text": "The event has a registry and KI4LLA is in it. [https://pota.us site]"
+      },
+      "after": "e9eb85f859c4b02f",
+      "date": 1605988467557
+    },
+    {
+      "type": "edit",
+      "id": "75bd9c3411117b31",
+      "item": {
+        "type": "paragraph",
+        "id": "75bd9c3411117b31",
+        "text": "The event has a registry and KI4LLA is in it. [https://pota.us site] [https://pota.us/#/parks/K-4526 loc]"
+      },
+      "date": 1605988601349
+    },
+    {
+      "type": "edit",
+      "id": "e9eb85f859c4b02f",
+      "item": {
+        "type": "paragraph",
+        "id": "e9eb85f859c4b02f",
+        "text": "I see KI4LLA working POTA stations. I learn from google that POTA stands for 'Parks on the Air'. [https://parksontheair.com/ site]"
+      },
+      "date": 1605988629200
+    },
+    {
+      "type": "edit",
+      "id": "f0614d061a401965",
+      "item": {
+        "type": "paragraph",
+        "id": "f0614d061a401965",
+        "text": "I wonder, which CQ got the most responses heard? Here the top 10 overnight."
+      },
+      "date": 1605988788066
+    },
+    {
+      "type": "edit",
+      "id": "f0614d061a401965",
+      "item": {
+        "type": "paragraph",
+        "id": "f0614d061a401965",
+        "text": "I wonder, which CQ got the most responses? Here are the top 10 heard overnight."
+      },
+      "date": 1605988809346
+    },
+    {
+      "type": "remove",
+      "id": "9ed1ba73b42abe15",
+      "date": 1605988836953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0eb6ba2d45b1c935"
+      },
+      "id": "0eb6ba2d45b1c935",
+      "type": "add",
+      "after": "75bd9c3411117b31",
+      "date": 1605988870228
+    },
+    {
+      "type": "edit",
+      "id": "0eb6ba2d45b1c935",
+      "item": {
+        "type": "map",
+        "id": "0eb6ba2d45b1c935",
+        "text": "38.1056, -79.6509"
+      },
+      "date": 1605988879343
     }
   ]
 }
