@@ -129,6 +129,11 @@
       "text": "See [[Spark Script Tools]] we use here."
     },
     {
+      "type": "paragraph",
+      "id": "79a4d1445ec78b95",
+      "text": "See [[First Look at Exchanges]]"
+    },
+    {
       "type": "assets",
       "id": "758060bfe18c8252",
       "text": "pages/spark-decodes"
@@ -1864,6 +1869,17 @@
         "text": "▶︎ Confirmed contacts joined with arrows rooted in the stations heard. Auto update of chosen band. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.html?domain=localhost script]"
       },
       "date": 1605851271215
+    },
+    {
+      "type": "add",
+      "id": "79a4d1445ec78b95",
+      "item": {
+        "type": "paragraph",
+        "id": "79a4d1445ec78b95",
+        "text": "See [[First Look at Exchanges]]"
+      },
+      "after": "5e485f832709f541",
+      "date": 1605968895028
     }
   ]
 }

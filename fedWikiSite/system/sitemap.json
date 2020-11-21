@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1605851271215,
+    "date": 1605968895028,
     "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
@@ -293,5 +293,11 @@
     "slug": "wh6s-on-181-mhz",
     "title": "WH6S on 18.1 MHz",
     "synopsis": "These acknowldgements were recorded over 26.2 minutes starting with WH6S at 11/19/2020, 3:50:48 PM. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "first-look-at-exchanges",
+    "title": "First Look at Exchanges",
+    "date": 1605970945039,
+    "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning."
   }
 ]
