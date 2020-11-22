@@ -297,7 +297,13 @@
   {
     "slug": "first-look-at-exchanges",
     "title": "First Look at Exchanges",
-    "date": 1606019367978,
+    "date": 1606058403871,
     "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning."
+  },
+  {
+    "slug": "making-the-exchange-script",
+    "title": "Making the Exchange Script",
+    "date": 1606060801139,
+    "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way."
   }
 ]
