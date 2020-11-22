@@ -99,6 +99,16 @@
       "text": "<img width=100% src=<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/social.jpg>"
     },
     {
+      "type": "paragraph",
+      "id": "268cbff7e29a499f",
+      "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table script]"
+    },
+    {
+      "type": "html",
+      "id": "6d9b8ae20b617fe8",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.jpg>"
+    },
+    {
       "type": "markdown",
       "id": "abe1a4dc8fe66de3",
       "text": "# Wiki"
@@ -1880,6 +1890,93 @@
       },
       "after": "5e485f832709f541",
       "date": 1605968895028
+    },
+    {
+      "type": "add",
+      "id": "268cbff7e29a499f",
+      "item": {
+        "type": "paragraph",
+        "id": "268cbff7e29a499f",
+        "text": "▶︎ Unraveled back and forth transmissions exchanged to make a complete contact, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost script]"
+      },
+      "after": "71eb4404f5500e90",
+      "date": 1606010933018
+    },
+    {
+      "type": "edit",
+      "id": "268cbff7e29a499f",
+      "item": {
+        "type": "paragraph",
+        "id": "268cbff7e29a499f",
+        "text": "▶︎ Unraveled back and forth transmissions exchanged for contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table script]"
+      },
+      "date": 1606011003822
+    },
+    {
+      "id": "268cbff7e29a499f",
+      "type": "move",
+      "order": [
+        "3aceb717b4a047e7",
+        "d0ca591e44928c87",
+        "53ebc90e6c3c0f2d",
+        "71246e959044c992",
+        "d097c8f512b14878",
+        "3067e1d0cae1352b",
+        "924598b21734f435",
+        "941eb7c8439b06dc",
+        "e5d483174383bc78",
+        "6fe5f5f6e76ed25b",
+        "2ad4444da9515b94",
+        "9912e37b79b1526a",
+        "56463b5784c72215",
+        "50a5e7745b090221",
+        "77e9241cbdd94c4e",
+        "6251f075cc31a537",
+        "63e2c8bc276ba287",
+        "71eb4404f5500e90",
+        "ebe2f921b6af6754",
+        "268cbff7e29a499f",
+        "abe1a4dc8fe66de3",
+        "928ab6e8c64602d4",
+        "04e818c84c279a35",
+        "9ffd80ee54f8333c",
+        "f1283f472b6e6df4",
+        "5e485f832709f541",
+        "79a4d1445ec78b95",
+        "758060bfe18c8252"
+      ],
+      "date": 1606011009670
+    },
+    {
+      "type": "edit",
+      "id": "268cbff7e29a499f",
+      "item": {
+        "type": "paragraph",
+        "id": "268cbff7e29a499f",
+        "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table script]"
+      },
+      "date": 1606011027750
+    },
+    {
+      "type": "add",
+      "id": "6d9b8ae20b617fe8",
+      "item": {
+        "type": "paragraph",
+        "id": "6d9b8ae20b617fe8",
+        "text": "<img width=100% src=>"
+      },
+      "after": "268cbff7e29a499f",
+      "date": 1606011118090
+    },
+    {
+      "type": "edit",
+      "id": "6d9b8ae20b617fe8",
+      "item": {
+        "type": "html",
+        "id": "6d9b8ae20b617fe8",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.jpg>"
+      },
+      "date": 1606011133199
     }
   ]
 }
