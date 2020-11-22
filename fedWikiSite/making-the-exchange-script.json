@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "dc7083d591b69104",
-      "text": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way."
+      "text": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
     },
     {
       "type": "paragraph",
@@ -65,6 +65,51 @@
       "type": "paragraph",
       "id": "a17f70629b633d47",
       "text": "It was hard to tell what was going on when some rows wrapped and others not. My solution was to add interstitial rows showing the clock when time advanced."
+    },
+    {
+      "type": "paragraph",
+      "id": "94450c1fb3c8956a",
+      "text": "I had visions of incrementally updating cells when new data arrived and may still do that. For the moment I just regenerate the whole display with every payload and accept that it can be slightly jumpy."
+    },
+    {
+      "type": "paragraph",
+      "id": "f8d4efa11d062daa",
+      "text": "I highlight cells with complete exchanges which I define as having a 73 as their last transmission. I add the CQ from the broadcast data if there appears to be one appropriate. We can never be sure why one station calls another but this is a good guess."
+    },
+    {
+      "type": "paragraph",
+      "id": "6d4a005ba8abba00",
+      "text": "I like the way cells at the top and bottom of the table are incomplete in different ways. It is easy to scan for interesting recordings which are often in the middle rows. They are bold and start with CQ. That means we're likely hearing both participants. "
+    },
+    {
+      "type": "markdown",
+      "id": "6fa078bcdf4ae152",
+      "text": "# Future"
+    },
+    {
+      "type": "paragraph",
+      "id": "cd11a2953fd18e9b",
+      "text": "I'm ready to set this program aside as it already represents the idea well and I have more distinctly different things I'd like to explore. I do have a few things I know I could do better and will mention them here for the record."
+    },
+    {
+      "type": "paragraph",
+      "id": "890d561910e66246",
+      "text": "I'd like to show signal strength of each transmission using the color code I've used in the Signals script. These could be little squares in front of each transmission."
+    },
+    {
+      "type": "paragraph",
+      "id": "266ca1806b565e5f",
+      "text": "I could compare timestamps between adjacent entries and notice where some transmissions are missing. How missing is missing?"
+    },
+    {
+      "type": "paragraph",
+      "id": "411cd31d71fb18a6",
+      "text": "It might be interesting to know which bands host which exchanges. This could be a faint background color using the yet to be implemented band color code standard I wish I had in the Bands script."
+    },
+    {
+      "type": "paragraph",
+      "id": "edb2385eff6c09a7",
+      "text": "I've preserved the single column exchange summary output which would be a good fit on a federated wiki page. Click could open new pages with the transcript, possibly annotated, and other metadata like maps, google links or even operating history should we keep that somewhere."
     }
   ],
   "journal": [
@@ -296,6 +341,125 @@
       },
       "after": "380b9fc670ccc65c",
       "date": 1606060971672
+    },
+    {
+      "type": "add",
+      "id": "94450c1fb3c8956a",
+      "item": {
+        "type": "paragraph",
+        "id": "94450c1fb3c8956a",
+        "text": "I had visions of incrementally updating cells when new data arrived and may still do that. For the moment I just regenerate the whole display with every payload and accept that it can be slightly jumpy."
+      },
+      "after": "a17f70629b633d47",
+      "date": 1606061082819
+    },
+    {
+      "type": "add",
+      "id": "f8d4efa11d062daa",
+      "item": {
+        "type": "paragraph",
+        "id": "f8d4efa11d062daa",
+        "text": "I highlight cells with complete exchanges which I define as having a 73 as their last transmission. I add the CQ from the broadcast data if there appears to be one appropriate. We can never be sure why one station calls another but this is a good guess."
+      },
+      "after": "94450c1fb3c8956a",
+      "date": 1606061400007
+    },
+    {
+      "type": "add",
+      "id": "6d4a005ba8abba00",
+      "item": {
+        "type": "paragraph",
+        "id": "6d4a005ba8abba00",
+        "text": "I like the way cells at the top and bottom of the table are incomplete in different ways. It is easy to scan for interesting recordings which are often in the middle rows. They are bold and start with CQ. That means we're likely hearing both participants. "
+      },
+      "after": "f8d4efa11d062daa",
+      "date": 1606061641467
+    },
+    {
+      "type": "edit",
+      "id": "dc7083d591b69104",
+      "item": {
+        "type": "paragraph",
+        "id": "dc7083d591b69104",
+        "text": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
+      },
+      "date": 1606061888550
+    },
+    {
+      "type": "add",
+      "id": "6fa078bcdf4ae152",
+      "item": {
+        "type": "paragraph",
+        "id": "6fa078bcdf4ae152",
+        "text": "# Future"
+      },
+      "after": "6d4a005ba8abba00",
+      "date": 1606062025763
+    },
+    {
+      "type": "add",
+      "id": "cd11a2953fd18e9b",
+      "item": {
+        "type": "paragraph",
+        "id": "cd11a2953fd18e9b",
+        "text": "I'm ready to set this program aside as it already represents the idea well and I have more distinctly different things I'd like to explore. I do have a few things I know I could do better and will mention them here for the record."
+      },
+      "after": "6fa078bcdf4ae152",
+      "date": 1606062147466
+    },
+    {
+      "type": "edit",
+      "id": "6fa078bcdf4ae152",
+      "item": {
+        "type": "markdown",
+        "id": "6fa078bcdf4ae152",
+        "text": "# Future"
+      },
+      "date": 1606062151166
+    },
+    {
+      "type": "add",
+      "id": "890d561910e66246",
+      "item": {
+        "type": "paragraph",
+        "id": "890d561910e66246",
+        "text": "I'd like to show signal strength of each transmission using the color code I've used in the Signals script. These could be little squares in front of each transmission."
+      },
+      "after": "cd11a2953fd18e9b",
+      "date": 1606062236314
+    },
+    {
+      "type": "add",
+      "id": "411cd31d71fb18a6",
+      "item": {
+        "type": "paragraph",
+        "id": "411cd31d71fb18a6",
+        "text": "It might be interesting to know which bands host which exchanges. This could be a faint background color using the yet to be implemented band color code standard I wish I had in the Bands script."
+      },
+      "after": "890d561910e66246",
+      "date": 1606062362436
+    },
+    {
+      "type": "add",
+      "id": "edb2385eff6c09a7",
+      "item": {
+        "type": "paragraph",
+        "id": "edb2385eff6c09a7",
+        "text": "I've preserved the single column exchange summary output which would be a good fit on a federated wiki page. Click could open new pages with the transcript, possibly annotated, and other metadata like maps, google links or even operating history should we keep that somewhere."
+      },
+      "after": "411cd31d71fb18a6",
+      "date": 1606062613749
+    },
+    {
+      "type": "add",
+      "id": "266ca1806b565e5f",
+      "item": {
+        "type": "paragraph",
+        "id": "266ca1806b565e5f",
+        "text": "I could compare timestamps between adjacent entries and notice where some transmissions are missing. How missing is missing?"
+      },
+      "after": "890d561910e66246",
+      "date": 1606063390846
     }
   ]
 }
