@@ -100,6 +100,11 @@
       "type": "paragraph",
       "id": "c67261598aa7805d",
       "text": "I continue developing for both a table in a full web page and for interactive wiki pages in the lineup. [https://github.com/WardCunningham/assets/commits/master/pages/spark-decodes/exchange.html github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ce3ef8d9dfcf5347",
+      "text": "A day passes coding late morning and again in the evening. See [[Making the Exchange Script]]"
     }
   ],
   "journal": [
@@ -780,6 +785,27 @@
         "text": "I continue developing for both a table in a full web page and for interactive wiki pages in the lineup. [https://github.com/WardCunningham/assets/commits/master/pages/spark-decodes/exchange.html github]"
       },
       "date": 1606019367978
+    },
+    {
+      "type": "add",
+      "id": "ce3ef8d9dfcf5347",
+      "item": {
+        "type": "paragraph",
+        "id": "ce3ef8d9dfcf5347",
+        "text": "A day passes coding late morning and again in the evening. See [[Making the Exchanges Script]]"
+      },
+      "after": "c67261598aa7805d",
+      "date": 1606058312909
+    },
+    {
+      "type": "edit",
+      "id": "ce3ef8d9dfcf5347",
+      "item": {
+        "type": "paragraph",
+        "id": "ce3ef8d9dfcf5347",
+        "text": "A day passes coding late morning and again in the evening. See [[Making the Exchange Script]]"
+      },
+      "date": 1606058403871
     }
   ]
 }
