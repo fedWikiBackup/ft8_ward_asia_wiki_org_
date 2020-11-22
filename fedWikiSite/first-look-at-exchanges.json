@@ -95,6 +95,11 @@
       "type": "map",
       "id": "0eb6ba2d45b1c935",
       "text": "38.1056, -79.6509"
+    },
+    {
+      "type": "paragraph",
+      "id": "c67261598aa7805d",
+      "text": "I continue developing for both a table in a full web page and for interactive wiki pages in the lineup. [https://github.com/WardCunningham/assets/commits/master/pages/spark-decodes/exchange.html github]"
     }
   ],
   "journal": [
@@ -745,6 +750,36 @@
         "text": "38.1056, -79.6509"
       },
       "date": 1605988879343
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c67261598aa7805d"
+      },
+      "id": "c67261598aa7805d",
+      "type": "add",
+      "after": "0eb6ba2d45b1c935",
+      "date": 1606019280809
+    },
+    {
+      "type": "edit",
+      "id": "c67261598aa7805d",
+      "item": {
+        "type": "paragraph",
+        "id": "c67261598aa7805d",
+        "text": "I continue developing for both a full web page and for wiki pages in the lineup. [https://github.com/WardCunningham/assets/commits/master/pages/spark-decodes/exchange.html github]"
+      },
+      "date": 1606019332963
+    },
+    {
+      "type": "edit",
+      "id": "c67261598aa7805d",
+      "item": {
+        "type": "paragraph",
+        "id": "c67261598aa7805d",
+        "text": "I continue developing for both a table in a full web page and for interactive wiki pages in the lineup. [https://github.com/WardCunningham/assets/commits/master/pages/spark-decodes/exchange.html github]"
+      },
+      "date": 1606019367978
     }
   ]
 }
