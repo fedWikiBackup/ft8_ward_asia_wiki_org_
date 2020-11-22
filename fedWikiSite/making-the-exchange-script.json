@@ -1,0 +1,301 @@
+{
+  "title": "Making the Exchange Script",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dc7083d591b69104",
+      "text": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way."
+    },
+    {
+      "type": "paragraph",
+      "id": "aac232f1c3e013c4",
+      "text": "See [[First Look at Exchanges]]"
+    },
+    {
+      "type": "markdown",
+      "id": "832a949ed913e4b6",
+      "text": "# Data"
+    },
+    {
+      "type": "paragraph",
+      "id": "e852e30d29ef64ca",
+      "text": "Spots stream in as a batch of decodes from multiple bands every 15 seconds. What to keep?"
+    },
+    {
+      "type": "paragraph",
+      "id": "fb6ad8893461a316",
+      "text": "I store broadcast messages, CQ, meaning calling anyone, separate from exchanges meant from one station to another. The first was indexed by a call sign, the latter, a pair in alphabetical order. I can imagine scenarios where this will be insufficient but these failures can be noticed if not resolved from the data I keep."
+    },
+    {
+      "type": "paragraph",
+      "id": "7912b55b3567bb44",
+      "text": "I save the spots in the payload format they arrive with one exception. I remove fields that are always blank when receiving and others that seemed redundant. This meant the remaining fields showed with useful precision with console.table()."
+    },
+    {
+      "type": "paragraph",
+      "id": "20f8fecb32e6750b",
+      "text": "My first look showed that exchanges could be usefully examined when downloaded as json first by patching the download logic into a running script and later by making this part of the program. Press download."
+    },
+    {
+      "type": "paragraph",
+      "id": "d934b62004b9cdbf",
+      "text": "Data collected at a few megabytes an hour. I was unconcerned about this while programming because useful runs were only minutes."
+    },
+    {
+      "type": "paragraph",
+      "id": "10b9de341e3ebf8d",
+      "text": "I started purging whole exchanges based on the time of last entry discarding those that weren't heard recently. This kept some too long and others not long enough. I switched to selecting based on the first entry, when the exchange was first recorded. This was easier to understand and cut off stations that called another incessantly rather than bloating my output."
+    },
+    {
+      "type": "markdown",
+      "id": "2696626c3d20f668",
+      "text": "# Display"
+    },
+    {
+      "type": "paragraph",
+      "id": "71ff7c12edcbf884",
+      "text": "My first output was just the exchange keys plus a few characteristic values easily extracted from the spots. I added click logic to these and showed contents in the console log. I had to poke at quite a few to find exchanges that looked interesting. They are rare."
+    },
+    {
+      "type": "paragraph",
+      "id": "380b9fc670ccc65c",
+      "text": "I wanted tabular output with a rows somehow tied to time and cells big enough for a whole exchange. I was thinking minutes but learned quickly that a row of just one 15 second slot was going to have to wrap around if it is to fit."
+    },
+    {
+      "type": "paragraph",
+      "id": "a17f70629b633d47",
+      "text": "It was hard to tell what was going on when some rows wrapped and others not. My solution was to add interstitial rows showing the clock when time advanced."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Making the Exchange Script",
+        "story": []
+      },
+      "date": 1606058418571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc7083d591b69104"
+      },
+      "id": "dc7083d591b69104",
+      "type": "add",
+      "date": 1606058462819
+    },
+    {
+      "type": "edit",
+      "id": "dc7083d591b69104",
+      "item": {
+        "type": "paragraph",
+        "id": "dc7083d591b69104",
+        "text": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way."
+      },
+      "date": 1606058680628
+    },
+    {
+      "type": "add",
+      "id": "aac232f1c3e013c4",
+      "item": {
+        "type": "paragraph",
+        "id": "aac232f1c3e013c4",
+        "text": "See [[First Look at Exchanges]]"
+      },
+      "after": "dc7083d591b69104",
+      "date": 1606058698551
+    },
+    {
+      "type": "add",
+      "id": "832a949ed913e4b6",
+      "item": {
+        "type": "paragraph",
+        "id": "832a949ed913e4b6",
+        "text": "# Data"
+      },
+      "after": "aac232f1c3e013c4",
+      "date": 1606058750174
+    },
+    {
+      "type": "add",
+      "id": "e852e30d29ef64ca",
+      "item": {
+        "type": "paragraph",
+        "id": "e852e30d29ef64ca",
+        "text": "Spots stream in as a batch of decodes from multiple bands every 15 seconds. What to keep?"
+      },
+      "after": "832a949ed913e4b6",
+      "date": 1606058930667
+    },
+    {
+      "type": "add",
+      "id": "fb6ad8893461a316",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6ad8893461a316",
+        "text": "I store broadcast messages, CQ, meaning calling anyone, separate from exchanges meant from one station to another. The first was indexed by a call sign, the latter, a pair in alphabetical order."
+      },
+      "after": "e852e30d29ef64ca",
+      "date": 1606059177352
+    },
+    {
+      "type": "edit",
+      "id": "fb6ad8893461a316",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6ad8893461a316",
+        "text": "I store broadcast messages, CQ, meaning calling anyone, separate from exchanges meant from one station to another. The first was indexed by a call sign, the latter, a pair in alphabetical order. I can imagine scenarios where this will be insufficient but these failures can be noticed if not resolved from the data I keep."
+      },
+      "date": 1606059272988
+    },
+    {
+      "type": "edit",
+      "id": "832a949ed913e4b6",
+      "item": {
+        "type": "markdown",
+        "id": "832a949ed913e4b6",
+        "text": "# Data"
+      },
+      "date": 1606059277532
+    },
+    {
+      "type": "add",
+      "id": "7912b55b3567bb44",
+      "item": {
+        "type": "paragraph",
+        "id": "7912b55b3567bb44",
+        "text": "I save the spots in the payload format they arrive with one exception. I remove fields that are always blank when receiving and others that seemed redundant. This meant the remaining fields showed with useful precision with console.table(spot)"
+      },
+      "after": "fb6ad8893461a316",
+      "date": 1606059427211
+    },
+    {
+      "type": "edit",
+      "id": "7912b55b3567bb44",
+      "item": {
+        "type": "paragraph",
+        "id": "7912b55b3567bb44",
+        "text": "I save the spots in the payload format they arrive with one exception. I remove fields that are always blank when receiving and others that seemed redundant. This meant the remaining fields showed with useful precision with console.table()"
+      },
+      "date": 1606059501806
+    },
+    {
+      "type": "edit",
+      "id": "7912b55b3567bb44",
+      "item": {
+        "type": "paragraph",
+        "id": "7912b55b3567bb44",
+        "text": "I save the spots in the payload format they arrive with one exception. I remove fields that are always blank when receiving and others that seemed redundant. This meant the remaining fields showed with useful precision with console.table()."
+      },
+      "date": 1606059515468
+    },
+    {
+      "type": "add",
+      "id": "20f8fecb32e6750b",
+      "item": {
+        "type": "paragraph",
+        "id": "20f8fecb32e6750b",
+        "text": "My first look showed that exchanges could be usefully examined when downloaded as json first by patching the download logic into a running script and later by making this part of the program. Press download."
+      },
+      "after": "7912b55b3567bb44",
+      "date": 1606059705266
+    },
+    {
+      "type": "add",
+      "id": "d934b62004b9cdbf",
+      "item": {
+        "type": "paragraph",
+        "id": "d934b62004b9cdbf",
+        "text": "Data collected at a few megabytes an hour. I was unconcerned about this while programming because useful runs were only minutes, I started purging whole exchanges based on the time of last entry discarding those that weren't heard recently. This kept some to long and others not long enough. I switched to selecting based on the first entry, when the exchange was first recorded. This was easier to understand and cut off stations that called another incessantly rather than bloating my output."
+      },
+      "after": "20f8fecb32e6750b",
+      "date": 1606060212902
+    },
+    {
+      "type": "edit",
+      "id": "d934b62004b9cdbf",
+      "item": {
+        "type": "paragraph",
+        "id": "d934b62004b9cdbf",
+        "text": "Data collected at a few megabytes an hour. I was unconcerned about this while programming because useful runs were only minutes."
+      },
+      "date": 1606060239107
+    },
+    {
+      "type": "add",
+      "id": "10b9de341e3ebf8d",
+      "item": {
+        "type": "paragraph",
+        "id": "10b9de341e3ebf8d",
+        "text": "I started purging whole exchanges based on the time of last entry discarding those that weren't heard recently. This kept some to long and others not long enough. I switched to selecting based on the first entry, when the exchange was first recorded. This was easier to understand and cut off stations that called another incessantly rather than bloating my output."
+      },
+      "after": "d934b62004b9cdbf",
+      "date": 1606060240248
+    },
+    {
+      "type": "edit",
+      "id": "10b9de341e3ebf8d",
+      "item": {
+        "type": "paragraph",
+        "id": "10b9de341e3ebf8d",
+        "text": "I started purging whole exchanges based on the time of last entry discarding those that weren't heard recently. This kept some too long and others not long enough. I switched to selecting based on the first entry, when the exchange was first recorded. This was easier to understand and cut off stations that called another incessantly rather than bloating my output."
+      },
+      "date": 1606060328598
+    },
+    {
+      "type": "add",
+      "id": "2696626c3d20f668",
+      "item": {
+        "type": "paragraph",
+        "id": "2696626c3d20f668",
+        "text": "# Display"
+      },
+      "after": "10b9de341e3ebf8d",
+      "date": 1606060365686
+    },
+    {
+      "type": "add",
+      "id": "71ff7c12edcbf884",
+      "item": {
+        "type": "paragraph",
+        "id": "71ff7c12edcbf884",
+        "text": "My first output was just the exchange keys plus a few characteristic values easily extracted from the spots. I added click logic to these and showed contents in the console log. I had to poke at quite a few to find exchanges that looked interesting. They are rare."
+      },
+      "after": "2696626c3d20f668",
+      "date": 1606060534517
+    },
+    {
+      "type": "edit",
+      "id": "2696626c3d20f668",
+      "item": {
+        "type": "markdown",
+        "id": "2696626c3d20f668",
+        "text": "# Display"
+      },
+      "date": 1606060543519
+    },
+    {
+      "type": "add",
+      "id": "380b9fc670ccc65c",
+      "item": {
+        "type": "paragraph",
+        "id": "380b9fc670ccc65c",
+        "text": "I wanted tabular output with a rows somehow tied to time and cells big enough for a whole exchange. I was thinking minutes but learned quickly that a row of just one 15 second slot was going to have to wrap around if it is to fit."
+      },
+      "after": "71ff7c12edcbf884",
+      "date": 1606060801139
+    },
+    {
+      "type": "add",
+      "id": "a17f70629b633d47",
+      "item": {
+        "type": "paragraph",
+        "id": "a17f70629b633d47",
+        "text": "It was hard to tell what was going on when some rows wrapped and others not. My solution was to add interstitial rows showing the clock when time advanced."
+      },
+      "after": "380b9fc670ccc65c",
+      "date": 1606060971672
+    }
+  ]
+}
