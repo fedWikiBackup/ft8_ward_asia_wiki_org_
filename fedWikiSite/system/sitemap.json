@@ -303,7 +303,13 @@
   {
     "slug": "making-the-exchange-script",
     "title": "Making the Exchange Script",
-    "date": 1606108346728,
+    "date": 1606144286184,
     "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
+  },
+  {
+    "slug": "digital-exchanges-explained",
+    "title": "Digital Exchanges Explained",
+    "date": 1606147263036,
+    "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages in what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
   }
 ]
