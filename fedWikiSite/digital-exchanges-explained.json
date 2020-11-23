@@ -1,0 +1,260 @@
+{
+  "title": "Digital Exchanges Explained",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "aefe832f40e8c4b8",
+      "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages in what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+    },
+    {
+      "type": "paragraph",
+      "id": "020fcb70f8ff3e3a",
+      "text": "I will explain two conversations overhead between three stations made interesting in how the operators took turns."
+    },
+    {
+      "type": "paragraph",
+      "id": "b6f32a9cf1dde230",
+      "text": "First the rules. Then my observation."
+    },
+    {
+      "type": "paragraph",
+      "id": "557cf9072c264b91",
+      "text": "Stations take turns transmitting at 15 second intervals always starting at 00, 15, 30 or 45 seconds into the minute."
+    },
+    {
+      "type": "paragraph",
+      "id": "78bb3d73faa8fc18",
+      "text": "Stations announce the intended recipient of each message and their own identity using internationally assigned callsigns, letters and numbers as national prefix, then more letters for the specific station."
+    },
+    {
+      "type": "paragraph",
+      "id": "59c49d9d9a112bc7",
+      "text": "Accepted abbreviations include CQ for calling anyone, letter letter number number for geographic location, a positive or negative signal report in decibels above or below the noise, R to acknowledge info received and 73 for good by and best regards."
+    },
+    {
+      "type": "html",
+      "id": "47c2a66026d0d4a3",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/digital-exchanges-explained/PastedGraphic-1.png>"
+    },
+    {
+      "type": "paragraph",
+      "id": "f2924f5e555d7645",
+      "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. I've highlighted the K6 to help keep track."
+    },
+    {
+      "type": "paragraph",
+      "id": "06c1110f9afdc5ac",
+      "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Digital Exchanges Explained",
+        "story": []
+      },
+      "date": 1606144301473
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aefe832f40e8c4b8"
+      },
+      "id": "aefe832f40e8c4b8",
+      "type": "add",
+      "date": 1606144318964
+    },
+    {
+      "type": "edit",
+      "id": "aefe832f40e8c4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "aefe832f40e8c4b8",
+        "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages in what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+      },
+      "date": 1606144692701
+    },
+    {
+      "type": "edit",
+      "id": "aefe832f40e8c4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "aefe832f40e8c4b8",
+        "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages to what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+      },
+      "date": 1606144729004
+    },
+    {
+      "type": "edit",
+      "id": "aefe832f40e8c4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "aefe832f40e8c4b8",
+        "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages in what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+      },
+      "date": 1606145014960
+    },
+    {
+      "type": "add",
+      "id": "020fcb70f8ff3e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "020fcb70f8ff3e3a",
+        "text": "Here I will explain two conversations that happened between three stations simultaneously. First the rules, then my observation."
+      },
+      "after": "aefe832f40e8c4b8",
+      "date": 1606145113530
+    },
+    {
+      "type": "add",
+      "id": "557cf9072c264b91",
+      "item": {
+        "type": "paragraph",
+        "id": "557cf9072c264b91",
+        "text": "Stations take turns transmitting at 15 second intervals always starting at 00, 15, 30 or 45 seconds into the minute."
+      },
+      "after": "020fcb70f8ff3e3a",
+      "date": 1606145204248
+    },
+    {
+      "type": "add",
+      "id": "78bb3d73faa8fc18",
+      "item": {
+        "type": "paragraph",
+        "id": "78bb3d73faa8fc18",
+        "text": "Stations announce the intended recipient of each message and their own identity using internationally assigned callsigns, letters and numbers as national prefix, then more letters for the specific station."
+      },
+      "after": "557cf9072c264b91",
+      "date": 1606145404513
+    },
+    {
+      "type": "add",
+      "id": "59c49d9d9a112bc7",
+      "item": {
+        "type": "paragraph",
+        "id": "59c49d9d9a112bc7",
+        "text": "Accepted abbreviations include CQ for calling anyone, letter letter number number for geographic location, a positive or negative signal report in decibels above or below the noise, R to acknowledge info received and 73 for good by and best regards."
+      },
+      "after": "78bb3d73faa8fc18",
+      "date": 1606145772829
+    },
+    {
+      "type": "edit",
+      "id": "020fcb70f8ff3e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "020fcb70f8ff3e3a",
+        "text": "I will explain two conversations overhead between three stations made interesting in how the operators took turns."
+      },
+      "date": 1606145869977
+    },
+    {
+      "type": "add",
+      "id": "b6f32a9cf1dde230",
+      "item": {
+        "type": "paragraph",
+        "id": "b6f32a9cf1dde230",
+        "text": "First the rules. Then my observation."
+      },
+      "after": "020fcb70f8ff3e3a",
+      "date": 1606145896326
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be6cd1e042aecdad"
+      },
+      "id": "be6cd1e042aecdad",
+      "type": "add",
+      "after": "59c49d9d9a112bc7",
+      "date": 1606145918773
+    },
+    {
+      "type": "edit",
+      "id": "be6cd1e042aecdad",
+      "item": {
+        "type": "assets",
+        "id": "be6cd1e042aecdad",
+        "text": "pages/digital-exchanges-explained"
+      },
+      "date": 1606145933743
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47c2a66026d0d4a3"
+      },
+      "id": "47c2a66026d0d4a3",
+      "type": "add",
+      "after": "be6cd1e042aecdad",
+      "date": 1606145979975
+    },
+    {
+      "type": "edit",
+      "id": "47c2a66026d0d4a3",
+      "item": {
+        "type": "html",
+        "id": "47c2a66026d0d4a3",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/digital-exchanges-explained/PastedGraphic-1.png>"
+      },
+      "date": 1606145991993
+    },
+    {
+      "type": "remove",
+      "id": "be6cd1e042aecdad",
+      "date": 1606146113737
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2924f5e555d7645"
+      },
+      "id": "f2924f5e555d7645",
+      "type": "add",
+      "after": "47c2a66026d0d4a3",
+      "date": 1606146223136
+    },
+    {
+      "type": "edit",
+      "id": "f2924f5e555d7645",
+      "item": {
+        "type": "paragraph",
+        "id": "f2924f5e555d7645",
+        "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation."
+      },
+      "date": 1606146446582
+    },
+    {
+      "type": "edit",
+      "id": "f2924f5e555d7645",
+      "item": {
+        "type": "paragraph",
+        "id": "f2924f5e555d7645",
+        "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. I've highlighted the K6 to help keep track."
+      },
+      "date": 1606146490036
+    },
+    {
+      "type": "add",
+      "id": "06c1110f9afdc5ac",
+      "item": {
+        "type": "paragraph",
+        "id": "06c1110f9afdc5ac",
+        "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear. "
+      },
+      "after": "f2924f5e555d7645",
+      "date": 1606146618086
+    },
+    {
+      "type": "edit",
+      "id": "06c1110f9afdc5ac",
+      "item": {
+        "type": "paragraph",
+        "id": "06c1110f9afdc5ac",
+        "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+      },
+      "date": 1606147263036
+    }
+  ]
+}
