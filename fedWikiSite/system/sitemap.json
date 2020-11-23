@@ -303,7 +303,7 @@
   {
     "slug": "making-the-exchange-script",
     "title": "Making the Exchange Script",
-    "date": 1606161765822,
+    "date": 1606162294738,
     "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
   },
   {
@@ -311,5 +311,11 @@
     "title": "Digital Exchanges Explained",
     "date": 1606154775966,
     "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
+  },
+  {
+    "slug": "hermes-lite-2-hardware",
+    "title": "Hermes-Lite 2 Hardware",
+    "date": 1606164820652,
+    "synopsis": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
   }
 ]
