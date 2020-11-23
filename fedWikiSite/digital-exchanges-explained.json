@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "aefe832f40e8c4b8",
-      "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting messages in what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+      "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
     },
     {
       "type": "paragraph",
@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "b6f32a9cf1dde230",
-      "text": "First the rules. Then my observation."
+      "text": "First the rules. Then my interpretation."
     },
     {
       "type": "paragraph",
@@ -39,22 +39,82 @@
     {
       "type": "paragraph",
       "id": "f2924f5e555d7645",
-      "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. I've highlighted the K6 to help keep track."
+      "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. Already everyone has announced their callsigns and geographic locations."
     },
     {
       "type": "paragraph",
-      "id": "06c1110f9afdc5ac",
-      "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+      "id": "f606ea67e16f013a",
+      "text": "I've highlighted the K6 to help keep track. "
     },
     {
-      "type": "paragraph",
-      "id": "082eabd1574bbb8b",
-      "text": "Already everyone has announced their callsigns and geographic locations."
+      "type": "pagefold",
+      "id": "f2cb52c3f2b63f8a",
+      "text": "first N6"
     },
     {
       "type": "paragraph",
       "id": "e1317ff19e4c5b94",
-      "text": "K6 will see both responses to his call appear on his computer. He picks one, the N6. The VE will notice but repeats his call, waiting his turn."
+      "text": "K6 will see both responses. He picks the stronger N6 and responds +05. The VE repeats his call, waiting his turn."
+    },
+    {
+      "type": "paragraph",
+      "id": "06c1110f9afdc5ac",
+      "text": "Note: Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+    },
+    {
+      "type": "pagefold",
+      "id": "55865deb9ac22f2b",
+      "text": "then VE"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c23e2399b3219c1",
+      "text": "K6 then turns his attention to the VE who has repeated his initial response. He tells VE that is signal is -08, not so strong but easily decoded."
+    },
+    {
+      "type": "paragraph",
+      "id": "d4dd7b235f4c6443",
+      "text": "VE acknowledges the signal report and returns -17 back. A -17 is weak but workable. Signals at -23 can work."
+    },
+    {
+      "type": "paragraph",
+      "id": "f656ed153c961db9",
+      "text": "K6 and VE close with acknowledgments and pleasantries."
+    },
+    {
+      "type": "paragraph",
+      "id": "9b2f165502a74032",
+      "text": "N6 has been waiting repeating his R+04. With no immediate response he backs up the sequence to repeat his initial call."
+    },
+    {
+      "type": "pagefold",
+      "id": "5995a89bfed6f362",
+      "text": "back to N6"
+    },
+    {
+      "type": "paragraph",
+      "id": "b427a16319b893b1",
+      "text": "K6 is now ready to continue with N6 and gives him an improved +15 report. K6 backed up because N6 did and thus they are back in sync."
+    },
+    {
+      "type": "paragraph",
+      "id": "8692d39cf87ce363",
+      "text": "N6 acknowledges and sends his revised report -07. The path is weakening for N6 even while it improves for K6. "
+    },
+    {
+      "type": "paragraph",
+      "id": "30d6e139a4f9f273",
+      "text": "Note: The ionosphere tends to reflect equally both ways but these measurements are relative to local noise at each end which can be quite different and changing."
+    },
+    {
+      "type": "paragraph",
+      "id": "2bfd161c4a878367",
+      "text": "K6 sends RR acknowledging both R received and the revised report. He adds 73 winding up his part."
+    },
+    {
+      "type": "paragraph",
+      "id": "c585ad43448ec146",
+      "text": "N6 offers his 73 best regards as a final courtesy."
     }
   ],
   "journal": [
@@ -305,6 +365,419 @@
         "e1317ff19e4c5b94"
       ],
       "date": 1606147506576
+    },
+    {
+      "type": "edit",
+      "id": "e1317ff19e4c5b94",
+      "item": {
+        "type": "paragraph",
+        "id": "e1317ff19e4c5b94",
+        "text": "K6 will see both responses. He picks the stronger N6 and responds +05. The VE repeats his call, waiting his turn."
+      },
+      "date": 1606151471239
+    },
+    {
+      "type": "edit",
+      "id": "082eabd1574bbb8b",
+      "item": {
+        "type": "paragraph",
+        "id": "082eabd1574bbb8b",
+        "text": "K6 has called CQ and two stations respond together. Already everyone has announced their callsigns and geographic locations."
+      },
+      "date": 1606151615340
+    },
+    {
+      "type": "edit",
+      "id": "082eabd1574bbb8b",
+      "item": {
+        "type": "paragraph",
+        "id": "082eabd1574bbb8b",
+        "text": "K6 has called CQ and two stations respond together. We start logging both. Already everyone has announced their callsigns and geographic locations."
+      },
+      "date": 1606151662672
+    },
+    {
+      "type": "edit",
+      "id": "082eabd1574bbb8b",
+      "item": {
+        "type": "paragraph",
+        "id": "082eabd1574bbb8b",
+        "text": "Already everyone has announced their callsigns and geographic locations."
+      },
+      "date": 1606151752767
+    },
+    {
+      "id": "082eabd1574bbb8b",
+      "type": "move",
+      "order": [
+        "aefe832f40e8c4b8",
+        "020fcb70f8ff3e3a",
+        "b6f32a9cf1dde230",
+        "557cf9072c264b91",
+        "78bb3d73faa8fc18",
+        "59c49d9d9a112bc7",
+        "47c2a66026d0d4a3",
+        "f2924f5e555d7645",
+        "082eabd1574bbb8b",
+        "06c1110f9afdc5ac",
+        "e1317ff19e4c5b94"
+      ],
+      "date": 1606151754738
+    },
+    {
+      "type": "remove",
+      "id": "082eabd1574bbb8b",
+      "date": 1606151777406
+    },
+    {
+      "type": "edit",
+      "id": "f2924f5e555d7645",
+      "item": {
+        "type": "paragraph",
+        "id": "f2924f5e555d7645",
+        "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. I've highlighted the K6 to help keep track. Already everyone has announced their callsigns and geographic locations."
+      },
+      "date": 1606151780584
+    },
+    {
+      "id": "06c1110f9afdc5ac",
+      "type": "move",
+      "order": [
+        "aefe832f40e8c4b8",
+        "020fcb70f8ff3e3a",
+        "b6f32a9cf1dde230",
+        "557cf9072c264b91",
+        "78bb3d73faa8fc18",
+        "59c49d9d9a112bc7",
+        "47c2a66026d0d4a3",
+        "f2924f5e555d7645",
+        "e1317ff19e4c5b94",
+        "06c1110f9afdc5ac"
+      ],
+      "date": 1606151789896
+    },
+    {
+      "type": "edit",
+      "id": "06c1110f9afdc5ac",
+      "item": {
+        "type": "paragraph",
+        "id": "06c1110f9afdc5ac",
+        "text": "Note: Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+      },
+      "date": 1606151808887
+    },
+    {
+      "type": "edit",
+      "id": "f2924f5e555d7645",
+      "item": {
+        "type": "paragraph",
+        "id": "f2924f5e555d7645",
+        "text": "The two conversations of interest start at 8:40:15 when the VE and the N6 both respond to the K6's broadcast invitation. Already everyone has announced their callsigns and geographic locations."
+      },
+      "date": 1606151851325
+    },
+    {
+      "type": "add",
+      "id": "f606ea67e16f013a",
+      "item": {
+        "type": "paragraph",
+        "id": "f606ea67e16f013a",
+        "text": "I've highlighted the K6 to help keep track. "
+      },
+      "after": "f2924f5e555d7645",
+      "date": 1606151854040
+    },
+    {
+      "type": "add",
+      "id": "3c23e2399b3219c1",
+      "item": {
+        "type": "paragraph",
+        "id": "3c23e2399b3219c1",
+        "text": "K6 then turns his attention to the VE who has repeated his initial response. He tells VE that is signal is -08, not so strong but easily decoded."
+      },
+      "after": "06c1110f9afdc5ac",
+      "date": 1606152094076
+    },
+    {
+      "type": "add",
+      "id": "d4dd7b235f4c6443",
+      "item": {
+        "type": "paragraph",
+        "id": "d4dd7b235f4c6443",
+        "text": "VE acknowledges the signal report and returns -17 back. -17 is weak but workable. Signals as weak as -23 can work."
+      },
+      "after": "3c23e2399b3219c1",
+      "date": 1606152251607
+    },
+    {
+      "type": "edit",
+      "id": "d4dd7b235f4c6443",
+      "item": {
+        "type": "paragraph",
+        "id": "d4dd7b235f4c6443",
+        "text": "VE acknowledges the signal report and returns -17 back. -17 is weak but workable. Signals at -23 can work."
+      },
+      "date": 1606152292461
+    },
+    {
+      "type": "edit",
+      "id": "d4dd7b235f4c6443",
+      "item": {
+        "type": "paragraph",
+        "id": "d4dd7b235f4c6443",
+        "text": "VE acknowledges the signal report and returns -17 back. The -17 is weak but workable. Signals at -23 can work."
+      },
+      "date": 1606152306978
+    },
+    {
+      "type": "edit",
+      "id": "d4dd7b235f4c6443",
+      "item": {
+        "type": "paragraph",
+        "id": "d4dd7b235f4c6443",
+        "text": "VE acknowledges the signal report and returns -17 back. A -17 is weak but workable. Signals at -23 can work."
+      },
+      "date": 1606152315633
+    },
+    {
+      "type": "add",
+      "id": "9b2f165502a74032",
+      "item": {
+        "type": "paragraph",
+        "id": "9b2f165502a74032",
+        "text": "N6 has been waiting repeating his R+04. With no immediate response he backs up the sequence to repeat his initial call."
+      },
+      "after": "d4dd7b235f4c6443",
+      "date": 1606152557679
+    },
+    {
+      "type": "add",
+      "id": "b427a16319b893b1",
+      "item": {
+        "type": "paragraph",
+        "id": "b427a16319b893b1",
+        "text": "K6 is now ready to continue with N6 and gives him a revise +15 report. K6 backed up because N6 did and thus they are back in sync."
+      },
+      "after": "9b2f165502a74032",
+      "date": 1606152654440
+    },
+    {
+      "type": "edit",
+      "id": "b427a16319b893b1",
+      "item": {
+        "type": "paragraph",
+        "id": "b427a16319b893b1",
+        "text": "K6 is now ready to continue with N6 and gives him an improved +15 report. K6 backed up because N6 did and thus they are back in sync."
+      },
+      "date": 1606152750484
+    },
+    {
+      "type": "add",
+      "id": "8692d39cf87ce363",
+      "item": {
+        "type": "paragraph",
+        "id": "8692d39cf87ce363",
+        "text": "N6 acknowledges and sends his revised report -07. The signal path is weakening for N6 even while it improves for K6. The ionosphere tends to reflect equally both ways but these measurements are relative to local noise which can be quite different and changing."
+      },
+      "after": "b427a16319b893b1",
+      "date": 1606153099403
+    },
+    {
+      "type": "edit",
+      "id": "8692d39cf87ce363",
+      "item": {
+        "type": "paragraph",
+        "id": "8692d39cf87ce363",
+        "text": "N6 acknowledges and sends his revised report -07. The signal path is weakening for N6 even while it improves for K6. "
+      },
+      "date": 1606153114602
+    },
+    {
+      "type": "add",
+      "id": "30d6e139a4f9f273",
+      "item": {
+        "type": "paragraph",
+        "id": "30d6e139a4f9f273",
+        "text": "Note: The ionosphere tends to reflect equally both ways but these measurements are relative to local noise which can be quite different and changing."
+      },
+      "after": "8692d39cf87ce363",
+      "date": 1606153128758
+    },
+    {
+      "type": "edit",
+      "id": "30d6e139a4f9f273",
+      "item": {
+        "type": "paragraph",
+        "id": "30d6e139a4f9f273",
+        "text": "Note: The ionosphere tends to reflect equally both ways but these measurements are relative to local noise at each end which can be quite different and changing."
+      },
+      "date": 1606153182242
+    },
+    {
+      "type": "edit",
+      "id": "8692d39cf87ce363",
+      "item": {
+        "type": "paragraph",
+        "id": "8692d39cf87ce363",
+        "text": "N6 acknowledges and sends his revised report -07. The path is weakening for N6 even while it improves for K6. "
+      },
+      "date": 1606153206221
+    },
+    {
+      "type": "add",
+      "id": "2bfd161c4a878367",
+      "item": {
+        "type": "paragraph",
+        "id": "2bfd161c4a878367",
+        "text": "K6 sends RR acknowledging both R received and the revised report. He adds 73 winding up his part of the contact."
+      },
+      "after": "30d6e139a4f9f273",
+      "date": 1606153561339
+    },
+    {
+      "type": "edit",
+      "id": "2bfd161c4a878367",
+      "item": {
+        "type": "paragraph",
+        "id": "2bfd161c4a878367",
+        "text": "K6 sends RR acknowledging both R received and the revised report. He adds 73 winding up his part."
+      },
+      "date": 1606153568402
+    },
+    {
+      "type": "add",
+      "id": "c585ad43448ec146",
+      "item": {
+        "type": "paragraph",
+        "id": "c585ad43448ec146",
+        "text": "N6 offers his 73 best regards as a final curtitisy."
+      },
+      "after": "2bfd161c4a878367",
+      "date": 1606153655296
+    },
+    {
+      "type": "edit",
+      "id": "c585ad43448ec146",
+      "item": {
+        "type": "paragraph",
+        "id": "c585ad43448ec146",
+        "text": "N6 offers his 73 best regards as a final courtesy."
+      },
+      "date": 1606153713301
+    },
+    {
+      "type": "add",
+      "id": "f2cb52c3f2b63f8a",
+      "item": {
+        "type": "factory",
+        "id": "f2cb52c3f2b63f8a",
+        "text": "."
+      },
+      "after": "f606ea67e16f013a",
+      "date": 1606153899890
+    },
+    {
+      "type": "edit",
+      "id": "f2cb52c3f2b63f8a",
+      "item": {
+        "type": "pagefold",
+        "id": "f2cb52c3f2b63f8a",
+        "text": "first N6"
+      },
+      "date": 1606153926006
+    },
+    {
+      "type": "add",
+      "id": "55865deb9ac22f2b",
+      "item": {
+        "type": "factory",
+        "id": "55865deb9ac22f2b",
+        "text": "then"
+      },
+      "after": "06c1110f9afdc5ac",
+      "date": 1606153945936
+    },
+    {
+      "type": "edit",
+      "id": "55865deb9ac22f2b",
+      "item": {
+        "type": "pagefold",
+        "id": "55865deb9ac22f2b",
+        "text": "then VE"
+      },
+      "date": 1606153953860
+    },
+    {
+      "type": "add",
+      "id": "5995a89bfed6f362",
+      "item": {
+        "type": "factory",
+        "id": "5995a89bfed6f362",
+        "text": "back"
+      },
+      "after": "9b2f165502a74032",
+      "date": 1606154011518
+    },
+    {
+      "type": "edit",
+      "id": "5995a89bfed6f362",
+      "item": {
+        "type": "pagefold",
+        "id": "5995a89bfed6f362",
+        "text": "back to N6"
+      },
+      "date": 1606154031533
+    },
+    {
+      "type": "add",
+      "id": "f656ed153c961db9",
+      "item": {
+        "type": "paragraph",
+        "id": "f656ed153c961db9",
+        "text": "K6 and VE close with pleasantries."
+      },
+      "after": "d4dd7b235f4c6443",
+      "date": 1606154188081
+    },
+    {
+      "type": "edit",
+      "id": "f656ed153c961db9",
+      "item": {
+        "type": "paragraph",
+        "id": "f656ed153c961db9",
+        "text": "K6 and VE close with acknowledgments and pleasantries."
+      },
+      "date": 1606154210424
+    },
+    {
+      "type": "edit",
+      "id": "aefe832f40e8c4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "aefe832f40e8c4b8",
+        "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still, within this framework there is sufficient latitude to engage human to human in collective activity a bit like trading stamps."
+      },
+      "date": 1606154343314
+    },
+    {
+      "type": "edit",
+      "id": "aefe832f40e8c4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "aefe832f40e8c4b8",
+        "text": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
+      },
+      "date": 1606154461375
+    },
+    {
+      "type": "edit",
+      "id": "b6f32a9cf1dde230",
+      "item": {
+        "type": "paragraph",
+        "id": "b6f32a9cf1dde230",
+        "text": "First the rules. Then my interpretation."
+      },
+      "date": 1606154507309
     }
   ]
 }
