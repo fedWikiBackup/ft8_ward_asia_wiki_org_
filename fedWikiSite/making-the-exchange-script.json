@@ -82,6 +82,26 @@
       "text": "I like the way cells at the top and bottom of the table are incomplete in different ways. It is easy to scan for interesting recordings which are often in the middle rows. They are bold and start with CQ. That means we're likely hearing both participants. "
     },
     {
+      "type": "paragraph",
+      "id": "361abd1336a34724",
+      "text": "I found long exchanges hard to follow. I now offset odd slots by two spaces which helps."
+    },
+    {
+      "type": "markdown",
+      "id": "cbfc1e3d64e5dffc",
+      "text": "# Search"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4dac978317e2d1b",
+      "text": "I added a parameter search=word which highlights were that word is used. Multiple words work separated by spaces. Built-in default searches for a few respected callsigns."
+    },
+    {
+      "type": "paragraph",
+      "id": "c23643944be1e2b2",
+      "text": "My first implementation handled clicks on a cell and searched for both operators involved. This was always confusing. Now click on individual work to find and highlight just this. Works great for maidenhead coordinates too."
+    },
+    {
       "type": "markdown",
       "id": "6fa078bcdf4ae152",
       "text": "# Future"
@@ -460,6 +480,60 @@
       },
       "after": "890d561910e66246",
       "date": 1606063390846
+    },
+    {
+      "type": "add",
+      "id": "361abd1336a34724",
+      "item": {
+        "type": "paragraph",
+        "id": "361abd1336a34724",
+        "text": "I found long exchanges hard to follow. I now offset odd slots by two spaces which helps."
+      },
+      "after": "6d4a005ba8abba00",
+      "date": 1606107953882
+    },
+    {
+      "type": "add",
+      "id": "cbfc1e3d64e5dffc",
+      "item": {
+        "type": "paragraph",
+        "id": "cbfc1e3d64e5dffc",
+        "text": "# Search"
+      },
+      "after": "361abd1336a34724",
+      "date": 1606107965353
+    },
+    {
+      "type": "add",
+      "id": "a4dac978317e2d1b",
+      "item": {
+        "type": "paragraph",
+        "id": "a4dac978317e2d1b",
+        "text": "I added a parameter search=word which highlights were that word is used. Multiple words work separated by spaces. Built-in default searches for a few respected callsigns."
+      },
+      "after": "cbfc1e3d64e5dffc",
+      "date": 1606108212346
+    },
+    {
+      "type": "add",
+      "id": "c23643944be1e2b2",
+      "item": {
+        "type": "paragraph",
+        "id": "c23643944be1e2b2",
+        "text": "My first implementation handled clicks on a cell and searched for both operators involved. This was always confusing. Now click on individual work to find and highlight just this. Works great for maidenhead coordinates too."
+      },
+      "after": "a4dac978317e2d1b",
+      "date": 1606108341929
+    },
+    {
+      "type": "edit",
+      "id": "cbfc1e3d64e5dffc",
+      "item": {
+        "type": "markdown",
+        "id": "cbfc1e3d64e5dffc",
+        "text": "# Search"
+      },
+      "date": 1606108346728
     }
   ]
 }
