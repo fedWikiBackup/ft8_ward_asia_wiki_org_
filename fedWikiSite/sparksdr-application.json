@@ -1,0 +1,84 @@
+{
+  "title": "SparkSDR Application",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3dc5cfe870f48bb2",
+      "text": "Software for Hermes Lite and openHPSDR radios. [http://www.ihopper.org/radio/ site]"
+    },
+    {
+      "type": "html",
+      "id": "7e45201bd87b8305",
+      "text": "<img width=100% src=http://www.ihopper.org/radio/spark2.png>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "SparkSDR Application",
+        "story": []
+      },
+      "date": 1606166640920
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3dc5cfe870f48bb2"
+      },
+      "id": "3dc5cfe870f48bb2",
+      "type": "add",
+      "date": 1606167018921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e45201bd87b8305"
+      },
+      "id": "7e45201bd87b8305",
+      "type": "add",
+      "after": "3dc5cfe870f48bb2",
+      "date": 1606167022039
+    },
+    {
+      "type": "edit",
+      "id": "7e45201bd87b8305",
+      "item": {
+        "type": "factory",
+        "id": "7e45201bd87b8305",
+        "text": "<img width=100% src=http://www.ihopper.org/radio/spark2.png> "
+      },
+      "date": 1606167051090
+    },
+    {
+      "type": "edit",
+      "id": "7e45201bd87b8305",
+      "item": {
+        "type": "html",
+        "id": "7e45201bd87b8305",
+        "text": "<img width=100% src=http://www.ihopper.org/radio/spark2.png>"
+      },
+      "date": 1606167058270
+    },
+    {
+      "type": "edit",
+      "id": "3dc5cfe870f48bb2",
+      "item": {
+        "type": "paragraph",
+        "id": "3dc5cfe870f48bb2",
+        "text": "Software for Hermes Lite and openHPSDR sdr radios."
+      },
+      "date": 1606167334450
+    },
+    {
+      "type": "edit",
+      "id": "3dc5cfe870f48bb2",
+      "item": {
+        "type": "paragraph",
+        "id": "3dc5cfe870f48bb2",
+        "text": "Software for Hermes Lite and openHPSDR radios. [http://www.ihopper.org/radio/ site]"
+      },
+      "date": 1606167383119
+    }
+  ]
+}

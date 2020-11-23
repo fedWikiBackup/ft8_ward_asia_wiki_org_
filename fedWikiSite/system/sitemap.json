@@ -317,5 +317,17 @@
     "title": "Hermes-Lite 2 Hardware",
     "date": 1606164820652,
     "synopsis": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
+  },
+  {
+    "slug": "sparksdr-application",
+    "title": "SparkSDR Application",
+    "date": 1606167383119,
+    "synopsis": "Software for Hermes Lite and openHPSDR radios. [http://www.ihopper.org/radio/ site]"
+  },
+  {
+    "slug": "html-scripts",
+    "title": "HTML Scripts",
+    "date": 1606166684904,
+    "synopsis": "A page with 0 items."
   }
 ]
