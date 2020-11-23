@@ -115,6 +115,16 @@
       "type": "paragraph",
       "id": "c585ad43448ec146",
       "text": "N6 offers his 73 best regards as a final courtesy."
+    },
+    {
+      "type": "pagefold",
+      "id": "b18aa9257557f818",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9c33aa9769d0cfe",
+      "text": "See [[Making the Exchange Script]] about collecting and displaying this data."
     }
   ],
   "journal": [
@@ -778,6 +788,46 @@
         "text": "First the rules. Then my interpretation."
       },
       "date": 1606154507309
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b18aa9257557f818"
+      },
+      "id": "b18aa9257557f818",
+      "type": "add",
+      "after": "c585ad43448ec146",
+      "date": 1606154706417
+    },
+    {
+      "type": "edit",
+      "id": "b18aa9257557f818",
+      "item": {
+        "type": "pagefold",
+        "id": "b18aa9257557f818",
+        "text": "."
+      },
+      "date": 1606154710812
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9c33aa9769d0cfe"
+      },
+      "id": "c9c33aa9769d0cfe",
+      "type": "add",
+      "after": "b18aa9257557f818",
+      "date": 1606154718663
+    },
+    {
+      "type": "edit",
+      "id": "c9c33aa9769d0cfe",
+      "item": {
+        "type": "paragraph",
+        "id": "c9c33aa9769d0cfe",
+        "text": "See [[Making the Exchange Script]] about collecting and displaying this data."
+      },
+      "date": 1606154775966
     }
   ]
 }

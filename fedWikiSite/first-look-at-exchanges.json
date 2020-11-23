@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "ad31fb84357c261a",
+      "text": "See [[Spark Decodes]] for other experiments."
+    },
+    {
+      "type": "paragraph",
       "id": "fd93fff8aab680b7",
       "text": "The bands were pretty quiet until 40 meters picked up after midnight. [http://ft8.ward.asia.wiki.org/assets/pages/first-look-at-exchanges/newplot.png expand]"
     },
@@ -806,6 +811,17 @@
         "text": "A day passes coding late morning and again in the evening. See [[Making the Exchange Script]]"
       },
       "date": 1606058403871
+    },
+    {
+      "type": "add",
+      "id": "ad31fb84357c261a",
+      "item": {
+        "type": "paragraph",
+        "id": "ad31fb84357c261a",
+        "text": "See [[Spark Decodes]] for other experiments."
+      },
+      "after": "48abef5525840d90",
+      "date": 1606154880056
     }
   ]
 }
