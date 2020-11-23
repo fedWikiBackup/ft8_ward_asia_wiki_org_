@@ -1,0 +1,79 @@
+{
+  "title": "Hermes-Lite 2 Hardware",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "41180aba1cdab291",
+      "text": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
+    },
+    {
+      "type": "html",
+      "id": "0a011d2734b9b313",
+      "text": "<img width=100% src=http://www.hermeslite.com/_images/hlbanner.jpg>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hermes-Lite 2 Hardware",
+        "story": []
+      },
+      "date": 1606164604650
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41180aba1cdab291"
+      },
+      "id": "41180aba1cdab291",
+      "type": "add",
+      "date": 1606164727042
+    },
+    {
+      "type": "edit",
+      "id": "41180aba1cdab291",
+      "item": {
+        "type": "paragraph",
+        "id": "41180aba1cdab291",
+        "text": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
+      },
+      "date": 1606164732214
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a011d2734b9b313"
+      },
+      "id": "0a011d2734b9b313",
+      "type": "add",
+      "after": "41180aba1cdab291",
+      "date": 1606164755486
+    },
+    {
+      "type": "edit",
+      "id": "0a011d2734b9b313",
+      "item": {
+        "type": "html",
+        "id": "0a011d2734b9b313",
+        "text": "<img width=100% src=http://www.hermeslite.com/_images/hlbanner.jpg>"
+      },
+      "date": 1606164782515
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec12e3bee6f4ede7"
+      },
+      "id": "ec12e3bee6f4ede7",
+      "type": "add",
+      "after": "0a011d2734b9b313",
+      "date": 1606164795248
+    },
+    {
+      "type": "remove",
+      "id": "ec12e3bee6f4ede7",
+      "date": 1606164820652
+    }
+  ]
+}

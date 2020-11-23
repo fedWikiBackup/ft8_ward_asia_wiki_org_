@@ -102,24 +102,29 @@
       "text": "My first implementation handled clicks on a cell and searched for both operators involved. This was always confusing. Now click on individual work to find and highlight just this. Works great for maidenhead coordinates too."
     },
     {
+      "type": "markdown",
+      "id": "8b4ecf59db172874",
+      "text": "# Example"
+    },
+    {
       "type": "paragraph",
       "id": "9555b60545d9fcc5",
       "text": "We can see, for example, station [http://www.w5kft.org/k5pi/ K5PI] working DX stations at a good clip. [http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg expand]"
     },
     {
+      "type": "html",
+      "id": "ca020eb7fef83537",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg>"
+    },
+    {
       "type": "paragraph",
       "id": "36eded613e902cec",
-      "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence."
+      "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence. We can guess he is operating from the exotic W5KFT station at Buchanan Lake where there is lots of \"metal in the air\". [https://www.google.com/maps/@30.8029573,-98.4507945,149m/data=!3m1!1e3 google]"
     },
     {
       "type": "map",
       "id": "f9a0e7c8d4e4be89",
-      "text": "30.8031192,-98.4511112 \n30.2415416,-97.7583787 Residence"
-    },
-    {
-      "type": "html",
-      "id": "ca020eb7fef83537",
-      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg>"
+      "text": "30.8031192,-98.4511112 W5KFT Ranch Station\n30.2415416,-97.7583787 K5PI Residence"
     },
     {
       "type": "markdown",
@@ -777,6 +782,115 @@
         "text": "30.8031192,-98.4511112 \n30.2415416,-97.7583787 Residence"
       },
       "date": 1606161765822
+    },
+    {
+      "type": "edit",
+      "id": "f9a0e7c8d4e4be89",
+      "item": {
+        "type": "map",
+        "id": "f9a0e7c8d4e4be89",
+        "text": "30.8031192,-98.4511112 W5KFT Ranch Station\n30.2415416,-97.7583787 K5PI Residence"
+      },
+      "date": 1606161810560
+    },
+    {
+      "id": "ca020eb7fef83537",
+      "type": "move",
+      "order": [
+        "dc7083d591b69104",
+        "aac232f1c3e013c4",
+        "832a949ed913e4b6",
+        "e852e30d29ef64ca",
+        "fb6ad8893461a316",
+        "7912b55b3567bb44",
+        "20f8fecb32e6750b",
+        "d934b62004b9cdbf",
+        "10b9de341e3ebf8d",
+        "2696626c3d20f668",
+        "71ff7c12edcbf884",
+        "380b9fc670ccc65c",
+        "a17f70629b633d47",
+        "94450c1fb3c8956a",
+        "f8d4efa11d062daa",
+        "6d4a005ba8abba00",
+        "361abd1336a34724",
+        "cbfc1e3d64e5dffc",
+        "a4dac978317e2d1b",
+        "c23643944be1e2b2",
+        "9555b60545d9fcc5",
+        "ca020eb7fef83537",
+        "36eded613e902cec",
+        "f9a0e7c8d4e4be89",
+        "6fa078bcdf4ae152",
+        "cd11a2953fd18e9b",
+        "890d561910e66246",
+        "266ca1806b565e5f",
+        "411cd31d71fb18a6",
+        "edb2385eff6c09a7",
+        "7b757e36d19d7a33"
+      ],
+      "date": 1606161949082
+    },
+    {
+      "type": "edit",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence. We can guess he is operating from the exotic K5FTI station at Buchanan Lake."
+      },
+      "date": 1606162108877
+    },
+    {
+      "type": "edit",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence. We can guess he is operating from the exotic K5KFT station at Buchanan Lake."
+      },
+      "date": 1606162126571
+    },
+    {
+      "type": "edit",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence. We can guess he is operating from the exotic W5KFT station at Buchanan Lake."
+      },
+      "date": 1606162155538
+    },
+    {
+      "type": "edit",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence. We can guess he is operating from the exotic W5KFT station at Buchanan Lake where there is lots of \"metal in the air\". [https://www.google.com/maps/@30.8029573,-98.4507945,149m/data=!3m1!1e3 google]"
+      },
+      "date": 1606162264318
+    },
+    {
+      "type": "add",
+      "id": "8b4ecf59db172874",
+      "item": {
+        "type": "paragraph",
+        "id": "8b4ecf59db172874",
+        "text": "# Example"
+      },
+      "after": "c23643944be1e2b2",
+      "date": 1606162291873
+    },
+    {
+      "type": "edit",
+      "id": "8b4ecf59db172874",
+      "item": {
+        "type": "markdown",
+        "id": "8b4ecf59db172874",
+        "text": "# Example"
+      },
+      "date": 1606162294738
     }
   ]
 }
