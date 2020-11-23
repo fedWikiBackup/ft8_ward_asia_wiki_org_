@@ -45,6 +45,16 @@
       "type": "paragraph",
       "id": "06c1110f9afdc5ac",
       "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
+    },
+    {
+      "type": "paragraph",
+      "id": "082eabd1574bbb8b",
+      "text": "Already everyone has announced their callsigns and geographic locations."
+    },
+    {
+      "type": "paragraph",
+      "id": "e1317ff19e4c5b94",
+      "text": "K6 will see both responses to his call appear on his computer. He picks one, the N6. The VE will notice but repeats his call, waiting his turn."
     }
   ],
   "journal": [
@@ -255,6 +265,46 @@
         "text": "Transmissions on odd seconds are indented in this printout. When you see two indents following each other that just means the expected response didn't appear."
       },
       "date": 1606147263036
+    },
+    {
+      "type": "add",
+      "id": "e1317ff19e4c5b94",
+      "item": {
+        "type": "paragraph",
+        "id": "e1317ff19e4c5b94",
+        "text": "K6 will see both responses to his call appear on his computer. He picks one, the N6. The VE will notice but repeats his call, waiting his turn."
+      },
+      "after": "06c1110f9afdc5ac",
+      "date": 1606147418256
+    },
+    {
+      "type": "add",
+      "id": "082eabd1574bbb8b",
+      "item": {
+        "type": "paragraph",
+        "id": "082eabd1574bbb8b",
+        "text": "Already everyone has announced their callsigns and geographic locations."
+      },
+      "after": "e1317ff19e4c5b94",
+      "date": 1606147504654
+    },
+    {
+      "id": "082eabd1574bbb8b",
+      "type": "move",
+      "order": [
+        "aefe832f40e8c4b8",
+        "020fcb70f8ff3e3a",
+        "b6f32a9cf1dde230",
+        "557cf9072c264b91",
+        "78bb3d73faa8fc18",
+        "59c49d9d9a112bc7",
+        "47c2a66026d0d4a3",
+        "f2924f5e555d7645",
+        "06c1110f9afdc5ac",
+        "082eabd1574bbb8b",
+        "e1317ff19e4c5b94"
+      ],
+      "date": 1606147506576
     }
   ]
 }
