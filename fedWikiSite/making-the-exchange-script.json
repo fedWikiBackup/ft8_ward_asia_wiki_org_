@@ -130,6 +130,11 @@
       "type": "paragraph",
       "id": "edb2385eff6c09a7",
       "text": "I've preserved the single column exchange summary output which would be a good fit on a federated wiki page. Click could open new pages with the transcript, possibly annotated, and other metadata like maps, google links or even operating history should we keep that somewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "7b757e36d19d7a33",
+      "text": "See [[Digital Exchanges Explained]]"
     }
   ],
   "journal": [
@@ -534,6 +539,26 @@
         "text": "# Search"
       },
       "date": 1606108346728
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b757e36d19d7a33"
+      },
+      "id": "7b757e36d19d7a33",
+      "type": "add",
+      "after": "edb2385eff6c09a7",
+      "date": 1606144245180
+    },
+    {
+      "type": "edit",
+      "id": "7b757e36d19d7a33",
+      "item": {
+        "type": "paragraph",
+        "id": "7b757e36d19d7a33",
+        "text": "See [[Digital Exchanges Explained]]"
+      },
+      "date": 1606144286184
     }
   ]
 }
