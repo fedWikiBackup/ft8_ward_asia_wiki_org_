@@ -102,6 +102,26 @@
       "text": "My first implementation handled clicks on a cell and searched for both operators involved. This was always confusing. Now click on individual work to find and highlight just this. Works great for maidenhead coordinates too."
     },
     {
+      "type": "paragraph",
+      "id": "9555b60545d9fcc5",
+      "text": "We can see, for example, station [http://www.w5kft.org/k5pi/ K5PI] working DX stations at a good clip. [http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg expand]"
+    },
+    {
+      "type": "paragraph",
+      "id": "36eded613e902cec",
+      "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence."
+    },
+    {
+      "type": "map",
+      "id": "f9a0e7c8d4e4be89",
+      "text": "30.8031192,-98.4511112 \n30.2415416,-97.7583787 Residence"
+    },
+    {
+      "type": "html",
+      "id": "ca020eb7fef83537",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg>"
+    },
+    {
       "type": "markdown",
       "id": "6fa078bcdf4ae152",
       "text": "# Future"
@@ -559,6 +579,204 @@
         "text": "See [[Digital Exchanges Explained]]"
       },
       "date": 1606144286184
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "997a175efbdb143d"
+      },
+      "id": "997a175efbdb143d",
+      "type": "add",
+      "after": "7b757e36d19d7a33",
+      "date": 1606160208993
+    },
+    {
+      "type": "edit",
+      "id": "997a175efbdb143d",
+      "item": {
+        "type": "assets",
+        "id": "997a175efbdb143d",
+        "text": "pages/making-the-exchange-script"
+      },
+      "date": 1606160215589
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca020eb7fef83537"
+      },
+      "id": "ca020eb7fef83537",
+      "type": "add",
+      "after": "997a175efbdb143d",
+      "date": 1606160232835
+    },
+    {
+      "type": "edit",
+      "id": "ca020eb7fef83537",
+      "item": {
+        "type": "html",
+        "id": "ca020eb7fef83537",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg>"
+      },
+      "date": 1606160250692
+    },
+    {
+      "type": "remove",
+      "id": "997a175efbdb143d",
+      "date": 1606160276632
+    },
+    {
+      "id": "7b757e36d19d7a33",
+      "type": "move",
+      "order": [
+        "dc7083d591b69104",
+        "aac232f1c3e013c4",
+        "832a949ed913e4b6",
+        "e852e30d29ef64ca",
+        "fb6ad8893461a316",
+        "7912b55b3567bb44",
+        "20f8fecb32e6750b",
+        "d934b62004b9cdbf",
+        "10b9de341e3ebf8d",
+        "2696626c3d20f668",
+        "71ff7c12edcbf884",
+        "380b9fc670ccc65c",
+        "a17f70629b633d47",
+        "94450c1fb3c8956a",
+        "f8d4efa11d062daa",
+        "6d4a005ba8abba00",
+        "361abd1336a34724",
+        "cbfc1e3d64e5dffc",
+        "a4dac978317e2d1b",
+        "c23643944be1e2b2",
+        "6fa078bcdf4ae152",
+        "cd11a2953fd18e9b",
+        "890d561910e66246",
+        "266ca1806b565e5f",
+        "411cd31d71fb18a6",
+        "edb2385eff6c09a7",
+        "ca020eb7fef83537",
+        "7b757e36d19d7a33"
+      ],
+      "date": 1606160290756
+    },
+    {
+      "id": "ca020eb7fef83537",
+      "type": "move",
+      "order": [
+        "dc7083d591b69104",
+        "aac232f1c3e013c4",
+        "832a949ed913e4b6",
+        "e852e30d29ef64ca",
+        "fb6ad8893461a316",
+        "7912b55b3567bb44",
+        "20f8fecb32e6750b",
+        "d934b62004b9cdbf",
+        "10b9de341e3ebf8d",
+        "2696626c3d20f668",
+        "71ff7c12edcbf884",
+        "380b9fc670ccc65c",
+        "a17f70629b633d47",
+        "94450c1fb3c8956a",
+        "f8d4efa11d062daa",
+        "6d4a005ba8abba00",
+        "361abd1336a34724",
+        "cbfc1e3d64e5dffc",
+        "a4dac978317e2d1b",
+        "c23643944be1e2b2",
+        "ca020eb7fef83537",
+        "6fa078bcdf4ae152",
+        "cd11a2953fd18e9b",
+        "890d561910e66246",
+        "266ca1806b565e5f",
+        "411cd31d71fb18a6",
+        "edb2385eff6c09a7",
+        "7b757e36d19d7a33"
+      ],
+      "date": 1606160331104
+    },
+    {
+      "type": "add",
+      "id": "9555b60545d9fcc5",
+      "item": {
+        "type": "paragraph",
+        "id": "9555b60545d9fcc5",
+        "text": "We can see, for example, station K5PI working DX stations at a good clip. [http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg expand]"
+      },
+      "after": "c23643944be1e2b2",
+      "date": 1606160407148
+    },
+    {
+      "type": "edit",
+      "id": "9555b60545d9fcc5",
+      "item": {
+        "type": "paragraph",
+        "id": "9555b60545d9fcc5",
+        "text": "We can see, for example, station [http://www.w5kft.org/k5pi/ K5PI] working DX stations at a good clip. [http://ft8.ward.asia.wiki.org/assets/pages/making-the-exchange-script/K5PI-DX-Exchanges.jpg expand]"
+      },
+      "date": 1606160758654
+    },
+    {
+      "type": "add",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI "
+      },
+      "after": "9555b60545d9fcc5",
+      "date": 1606161124455
+    },
+    {
+      "type": "edit",
+      "id": "36eded613e902cec",
+      "item": {
+        "type": "paragraph",
+        "id": "36eded613e902cec",
+        "text": "K5PI reports operating from [https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=EM00 EM00] outside of his FCC declared residence."
+      },
+      "date": 1606161204274
+    },
+    {
+      "type": "add",
+      "id": "f9a0e7c8d4e4be89",
+      "item": {
+        "type": "factory",
+        "id": "f9a0e7c8d4e4be89",
+        "text": "30.1270506,-98.2369342"
+      },
+      "after": "36eded613e902cec",
+      "date": 1606161278904
+    },
+    {
+      "type": "edit",
+      "id": "f9a0e7c8d4e4be89",
+      "item": {
+        "type": "map",
+        "id": "f9a0e7c8d4e4be89",
+        "text": "30.1270506,-98.2369342 Home"
+      },
+      "date": 1606161288968
+    },
+    {
+      "type": "edit",
+      "id": "f9a0e7c8d4e4be89",
+      "item": {
+        "type": "map",
+        "id": "f9a0e7c8d4e4be89",
+        "text": "30.1270506,-98.2369342 Home\n30.2415416,-97.7583787 Residence"
+      },
+      "date": 1606161363286
+    },
+    {
+      "type": "edit",
+      "id": "f9a0e7c8d4e4be89",
+      "item": {
+        "type": "map",
+        "id": "f9a0e7c8d4e4be89",
+        "text": "30.8031192,-98.4511112 \n30.2415416,-97.7583787 Residence"
+      },
+      "date": 1606161765822
     }
   ]
 }
