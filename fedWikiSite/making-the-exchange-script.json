@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "aac232f1c3e013c4",
-      "text": "See [[First Look at Exchanges]]"
+      "text": "See also [[First Look at Exchanges]]"
     },
     {
       "type": "markdown",
@@ -907,6 +907,16 @@
       },
       "after": "361abd1336a34724",
       "date": 1606182583632
+    },
+    {
+      "type": "edit",
+      "id": "aac232f1c3e013c4",
+      "item": {
+        "type": "paragraph",
+        "id": "aac232f1c3e013c4",
+        "text": "See also [[First Look at Exchanges]]"
+      },
+      "date": 1606227987703
     }
   ]
 }
