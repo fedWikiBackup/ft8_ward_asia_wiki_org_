@@ -87,6 +87,11 @@
       "text": "I found long exchanges hard to follow. I now offset odd slots by two spaces which helps."
     },
     {
+      "type": "paragraph",
+      "id": "b3d8dd1ee6c25202",
+      "text": "I add the bands present in the row to the time label. There are often only a few bands because it is only listing the signals that don't got with some other row."
+    },
+    {
       "type": "markdown",
       "id": "cbfc1e3d64e5dffc",
       "text": "# Search"
@@ -891,6 +896,17 @@
         "text": "# Example"
       },
       "date": 1606162294738
+    },
+    {
+      "type": "add",
+      "id": "b3d8dd1ee6c25202",
+      "item": {
+        "type": "paragraph",
+        "id": "b3d8dd1ee6c25202",
+        "text": "I add the bands present in the row to the time label. There are often only a few bands because it is only listing the signals that don't got with some other row."
+      },
+      "after": "361abd1336a34724",
+      "date": 1606182583632
     }
   ]
 }
