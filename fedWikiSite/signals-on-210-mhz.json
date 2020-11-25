@@ -1,0 +1,239 @@
+{
+  "title": "Signals on 21.0 MHz",
+  "story": [
+    {
+      "type": "paragraph",
+      "text": "These stations were recorded over an interval of 2.49 minutes. See [[Spark Decodes]]",
+      "id": "415768047526"
+    },
+    {
+      "type": "data",
+      "text": "Stations Strength and Distance",
+      "data": {
+        "VE3YXO": {
+          "snr": [
+            -2,
+            3
+          ],
+          "avg": 0.5
+        },
+        "K7VNE": {
+          "snr": [
+            -6,
+            1
+          ],
+          "avg": -2.5,
+          "dst": 1664
+        },
+        "W8UV": {
+          "snr": [
+            4,
+            10
+          ],
+          "avg": 7
+        },
+        "W0BNW": {
+          "snr": [
+            -13,
+            -10
+          ],
+          "avg": -11.5,
+          "dst": 2384
+        },
+        "K1BUK": {
+          "snr": [
+            -9
+          ],
+          "avg": -9
+        },
+        "K8KWT": {
+          "snr": [
+            -15,
+            -6
+          ],
+          "avg": -10.5
+        },
+        "K3MRK": {
+          "snr": [
+            -12
+          ],
+          "avg": -12,
+          "dst": 3705
+        },
+        "KI8JP": {
+          "snr": [
+            -17,
+            -17
+          ],
+          "avg": -17
+        },
+        "N3JON": {
+          "snr": [
+            -17,
+            -10
+          ],
+          "avg": -13.5,
+          "dst": 3752
+        },
+        "AB1J": {
+          "snr": [
+            -2,
+            -10
+          ],
+          "avg": -6
+        },
+        "VE3LBU": {
+          "snr": [
+            -2
+          ],
+          "avg": -2
+        },
+        "W2GLD": {
+          "snr": [
+            -10,
+            -13
+          ],
+          "avg": -11.5
+        },
+        "VE2XTD": {
+          "snr": [
+            -9,
+            -15
+          ],
+          "avg": -12,
+          "dst": 3921
+        },
+        "K1GJY": {
+          "snr": [
+            -3,
+            -4
+          ],
+          "avg": -3.5,
+          "dst": 4033
+        },
+        "W7OIL": {
+          "snr": [
+            -1
+          ],
+          "avg": -1
+        },
+        "XM3B": {
+          "snr": [
+            -1,
+            -1
+          ],
+          "avg": -1
+        },
+        "ZR6AEZ": {
+          "snr": [
+            -11,
+            -11
+          ],
+          "avg": -11
+        },
+        "WA8LLY": {
+          "snr": [
+            -17,
+            -15
+          ],
+          "avg": -16,
+          "dst": 3490
+        },
+        "K5YX": {
+          "snr": [
+            -16
+          ],
+          "avg": -16,
+          "dst": 2558
+        },
+        "KG6PH": {
+          "snr": [
+            -16,
+            -17
+          ],
+          "avg": -16.5,
+          "dst": 2558
+        },
+        "WA3BDR": {
+          "snr": [
+            -8
+          ],
+          "avg": -8,
+          "dst": 3551
+        },
+        "WM5L": {
+          "snr": [
+            -17,
+            -15
+          ],
+          "avg": -16,
+          "dst": 2431
+        },
+        "KC9ZS": {
+          "snr": [
+            -16,
+            -19
+          ],
+          "avg": -17.5,
+          "dst": 2632
+        },
+        "WA2HIP": {
+          "snr": [
+            -14
+          ],
+          "avg": -14
+        },
+        "K9AV": {
+          "snr": [
+            -13
+          ],
+          "avg": -13,
+          "dst": 2975
+        },
+        "W0EJ": {
+          "snr": [
+            0
+          ],
+          "avg": 0,
+          "dst": 2073
+        },
+        "W5COV": {
+          "snr": [
+            -15
+          ],
+          "avg": -15,
+          "dst": 2513
+        },
+        "KN5Y": {
+          "snr": [
+            -18
+          ],
+          "avg": -18
+        },
+        "K2OF": {
+          "snr": [
+            -14
+          ],
+          "avg": -14
+        }
+      },
+      "id": "312210310769"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stations in this dataset: VE3YXO, K7VNE, W8UV, W0BNW, K1BUK, K8KWT, K3MRK, KI8JP, N3JON, AB1J, VE3LBU, W2GLD, VE2XTD, K1GJY, W7OIL, XM3B, ZR6AEZ, WA8LLY, K5YX, KG6PH, WA3BDR, WM5L, KC9ZS, WA2HIP, K9AV, W0EJ, W5COV, KN5Y, K2OF",
+      "id": "670329875357"
+    },
+    {
+      "type": "paragraph",
+      "text": "See [[About Scatter Plugin]]",
+      "id": "114859935392"
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1606329036490
+    }
+  ]
+}
