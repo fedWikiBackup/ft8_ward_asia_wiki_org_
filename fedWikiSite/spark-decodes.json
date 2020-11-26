@@ -101,7 +101,7 @@
     {
       "type": "paragraph",
       "id": "268cbff7e29a499f",
-      "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table&minutes=10 script]"
+      "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table&minutes=10&search= script]"
     },
     {
       "type": "html",
@@ -127,6 +127,11 @@
       "type": "paragraph",
       "id": "9ffd80ee54f8333c",
       "text": "[[Spark Social Spreading]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "137ac4fe6ecdff76",
+      "text": "[[Spark Band History]]"
     },
     {
       "type": "markdown",
@@ -1997,6 +2002,27 @@
         "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table&minutes=10 script]"
       },
       "date": 1606092072264
+    },
+    {
+      "type": "edit",
+      "id": "268cbff7e29a499f",
+      "item": {
+        "type": "paragraph",
+        "id": "268cbff7e29a499f",
+        "text": "▶︎ Unraveled back and forth transmissions exchanged to complete contacts, each shown it its own frame. [http://ft8.ward.asia.wiki.org/assets/pages/spark-decodes/exchange.html?domain=localhost&fmt=table&minutes=10&search= script]"
+      },
+      "date": 1606100578521
+    },
+    {
+      "type": "add",
+      "id": "137ac4fe6ecdff76",
+      "item": {
+        "type": "paragraph",
+        "id": "137ac4fe6ecdff76",
+        "text": "[[Spark Band History]]"
+      },
+      "after": "9ffd80ee54f8333c",
+      "date": 1606355158573
     }
   ]
 }
