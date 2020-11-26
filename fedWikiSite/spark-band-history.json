@@ -19,7 +19,27 @@
     {
       "type": "paragraph",
       "id": "8d6c58cc25835967",
-      "text": "Click one image or gallery for all."
+      "text": "Click one image or click gallery for all."
+    },
+    {
+      "type": "paragraph",
+      "id": "626744484debe6b2",
+      "text": "See [[Spark Decodes]] for more scripts."
+    },
+    {
+      "type": "markdown",
+      "id": "0216c7cbff096b51",
+      "text": "# Making"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ada58043673ea63",
+      "text": "We follow this transition ritual each morning and evening in order to collect this record."
+    },
+    {
+      "type": "markdown",
+      "id": "9ce6de8e82b37411",
+      "text": "- Resize browser to full screen\n- Record plotly snapshot\n- See in Finder\n- Rename png with date\n- Move to activity folder\n- Upload to assets folder\n- Change SparkSDR presets\n- Reload bands.html script"
     }
   ],
   "journal": [
@@ -122,6 +142,98 @@
         "8d6c58cc25835967"
       ],
       "date": 1606359430804
+    },
+    {
+      "type": "edit",
+      "id": "8d6c58cc25835967",
+      "item": {
+        "type": "paragraph",
+        "id": "8d6c58cc25835967",
+        "text": "Click one image or click gallery for all."
+      },
+      "date": 1606399683193
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "626744484debe6b2"
+      },
+      "id": "626744484debe6b2",
+      "type": "add",
+      "after": "8d6c58cc25835967",
+      "date": 1606399738196
+    },
+    {
+      "type": "edit",
+      "id": "626744484debe6b2",
+      "item": {
+        "type": "paragraph",
+        "id": "626744484debe6b2",
+        "text": "See [[Spark Decodes]] for more scripts."
+      },
+      "date": 1606399759585
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0216c7cbff096b51"
+      },
+      "id": "0216c7cbff096b51",
+      "type": "add",
+      "after": "626744484debe6b2",
+      "date": 1606400345928
+    },
+    {
+      "type": "edit",
+      "id": "0216c7cbff096b51",
+      "item": {
+        "type": "paragraph",
+        "id": "0216c7cbff096b51",
+        "text": "# Making"
+      },
+      "date": 1606400361515
+    },
+    {
+      "type": "add",
+      "id": "5ada58043673ea63",
+      "item": {
+        "type": "paragraph",
+        "id": "5ada58043673ea63",
+        "text": "We follow this transition ritual each morning and evening in order to collect this record."
+      },
+      "after": "0216c7cbff096b51",
+      "date": 1606400444881
+    },
+    {
+      "type": "add",
+      "id": "9ce6de8e82b37411",
+      "item": {
+        "type": "paragraph",
+        "id": "9ce6de8e82b37411",
+        "text": "- Resize browser to full screen"
+      },
+      "after": "5ada58043673ea63",
+      "date": 1606400476135
+    },
+    {
+      "type": "edit",
+      "id": "9ce6de8e82b37411",
+      "item": {
+        "type": "markdown",
+        "id": "9ce6de8e82b37411",
+        "text": "- Resize browser to full screen\n- Record plotly snapshot\n- See in Finder\n- Rename png with date\n- Move to activity folder\n- Upload to assets folder\n- Change SparkSDR presets\n- Reload bands.html script"
+      },
+      "date": 1606400675489
+    },
+    {
+      "type": "edit",
+      "id": "0216c7cbff096b51",
+      "item": {
+        "type": "markdown",
+        "id": "0216c7cbff096b51",
+        "text": "# Making"
+      },
+      "date": 1606400678959
     }
   ]
 }
