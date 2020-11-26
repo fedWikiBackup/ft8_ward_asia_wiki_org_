@@ -1,0 +1,127 @@
+{
+  "title": "Spark Band History",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "26a45128062df21d",
+      "text": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
+    },
+    {
+      "type": "paragraph",
+      "id": "73a77e888e0998dd",
+      "text": "We leave the bands.html plugin running day and night. We snapshot the screen when we reconfigure SparkSDR radios leaving us two charts per day which we will save here and display in a gallery grid."
+    },
+    {
+      "type": "assets",
+      "id": "2c902a0bdfc92a6f",
+      "text": "pages/spark-band-history"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d6c58cc25835967",
+      "text": "Click one image or gallery for all."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Spark Band History",
+        "story": []
+      },
+      "date": 1606355181196
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26a45128062df21d"
+      },
+      "id": "26a45128062df21d",
+      "type": "add",
+      "date": 1606355192441
+    },
+    {
+      "type": "edit",
+      "id": "26a45128062df21d",
+      "item": {
+        "type": "paragraph",
+        "id": "26a45128062df21d",
+        "text": "We watch activity move from band to band following changes in daytime and nighttime propagation. "
+      },
+      "date": 1606355313483
+    },
+    {
+      "type": "add",
+      "id": "73a77e888e0998dd",
+      "item": {
+        "type": "paragraph",
+        "id": "73a77e888e0998dd",
+        "text": "We leave the bands.html plugin"
+      },
+      "after": "26a45128062df21d",
+      "date": 1606355315311
+    },
+    {
+      "type": "edit",
+      "id": "26a45128062df21d",
+      "item": {
+        "type": "paragraph",
+        "id": "26a45128062df21d",
+        "text": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
+      },
+      "date": 1606355332441
+    },
+    {
+      "type": "edit",
+      "id": "73a77e888e0998dd",
+      "item": {
+        "type": "paragraph",
+        "id": "73a77e888e0998dd",
+        "text": "We leave the bands.html plugin running day and night. We snapshot the screen when we reconfigure SparkSDR radios leaving us two charts per day which we will save here and display in a gallery grid."
+      },
+      "date": 1606355461421
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c902a0bdfc92a6f"
+      },
+      "id": "2c902a0bdfc92a6f",
+      "type": "add",
+      "after": "73a77e888e0998dd",
+      "date": 1606355470657
+    },
+    {
+      "type": "edit",
+      "id": "2c902a0bdfc92a6f",
+      "item": {
+        "type": "assets",
+        "id": "2c902a0bdfc92a6f",
+        "text": "pages/spark-band-history"
+      },
+      "date": 1606355477117
+    },
+    {
+      "type": "add",
+      "id": "8d6c58cc25835967",
+      "item": {
+        "type": "paragraph",
+        "id": "8d6c58cc25835967",
+        "text": "Click one image or gallery for all."
+      },
+      "after": "73a77e888e0998dd",
+      "date": 1606359426298
+    },
+    {
+      "id": "8d6c58cc25835967",
+      "type": "move",
+      "order": [
+        "26a45128062df21d",
+        "73a77e888e0998dd",
+        "2c902a0bdfc92a6f",
+        "8d6c58cc25835967"
+      ],
+      "date": 1606359430804
+    }
+  ]
+}
