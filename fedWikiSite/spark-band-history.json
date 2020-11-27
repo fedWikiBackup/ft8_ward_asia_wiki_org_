@@ -40,6 +40,20 @@
       "type": "markdown",
       "id": "9ce6de8e82b37411",
       "text": "- Resize browser to full screen\n- Record plotly snapshot\n- See in Finder\n- Rename png with date\n- Move to activity folder\n- Upload to assets folder\n- Change SparkSDR presets\n- Reload bands.html script"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4fe24e67ceaf534",
+      "text": "The gallery.html script expects to find the images on this wiki page. It can also interpret directory listings from the deno standard file server. [https://deno.land/manual/getting_started/installation site]"
+    },
+    {
+      "type": "code",
+      "id": "81cded2f3c216bee",
+      "text": "deno run --allow-net --allow-read \\\n  https://deno.land/std/http/file_server.ts"
+    },
+    {
+      "type": "factory",
+      "id": "d31b5b0ad09e18de"
     }
   ],
   "journal": [
@@ -234,6 +248,96 @@
         "text": "# Making"
       },
       "date": 1606400678959
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4fe24e67ceaf534"
+      },
+      "id": "d4fe24e67ceaf534",
+      "type": "add",
+      "after": "9ce6de8e82b37411",
+      "date": 1606495773801
+    },
+    {
+      "type": "edit",
+      "id": "d4fe24e67ceaf534",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe24e67ceaf534",
+        "text": "The gallery.html script expects to find the images on this wiki page. I can also serve them locally which I have tested with the deno standard file server."
+      },
+      "date": 1606495915130
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81cded2f3c216bee"
+      },
+      "id": "81cded2f3c216bee",
+      "type": "add",
+      "after": "d4fe24e67ceaf534",
+      "date": 1606496040016
+    },
+    {
+      "type": "edit",
+      "id": "81cded2f3c216bee",
+      "item": {
+        "type": "code",
+        "id": "81cded2f3c216bee",
+        "text": "deno run --allow-net --allow-read \\\n  https://deno.land/std/http/file_server.ts"
+      },
+      "date": 1606496063014
+    },
+    {
+      "type": "edit",
+      "id": "d4fe24e67ceaf534",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe24e67ceaf534",
+        "text": "The gallery.html script expects to find the images on this wiki page. We can also serve them locally where the script expects the directory listing from the deno standard file server."
+      },
+      "date": 1606496171409
+    },
+    {
+      "type": "edit",
+      "id": "d4fe24e67ceaf534",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe24e67ceaf534",
+        "text": "The gallery.html script expects to find the images on this wiki page. We also serve images locally. The script expects the directory listing from the deno standard file server."
+      },
+      "date": 1606496221957
+    },
+    {
+      "type": "edit",
+      "id": "d4fe24e67ceaf534",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe24e67ceaf534",
+        "text": "The gallery.html script expects to find the images on this wiki page. It can also interpret directory listings from the deno standard file server."
+      },
+      "date": 1606496293502
+    },
+    {
+      "type": "edit",
+      "id": "d4fe24e67ceaf534",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe24e67ceaf534",
+        "text": "The gallery.html script expects to find the images on this wiki page. It can also interpret directory listings from the deno standard file server. [https://deno.land/manual/getting_started/installation site]"
+      },
+      "date": 1606496405443
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d31b5b0ad09e18de"
+      },
+      "id": "d31b5b0ad09e18de",
+      "type": "add",
+      "after": "81cded2f3c216bee",
+      "date": 1606496598917
     }
   ]
 }
