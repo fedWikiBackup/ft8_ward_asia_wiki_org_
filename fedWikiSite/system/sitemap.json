@@ -242,7 +242,7 @@
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
-    "date": 1606355158573,
+    "date": 1606498088697,
     "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
   },
   {
@@ -265,7 +265,7 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1605831768787,
+    "date": 1606499321915,
     "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
   },
   {
@@ -338,12 +338,17 @@
   {
     "slug": "spark-band-history",
     "title": "Spark Band History",
-    "date": 1606496405443,
+    "date": 1606496793571,
     "synopsis": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
   },
   {
     "slug": "ja8gmh-on-210-mhz",
     "title": "JA8GMH on 21.0 MHz",
     "synopsis": "These acknowldgements were recorded over 46.4 minutes starting with JA8GMH at 11/26/2020, 4:18:46 PM."
+  },
+  {
+    "slug": "ve7on-on-101-mhz",
+    "title": "VE7ON on 10.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM."
   }
 ]
