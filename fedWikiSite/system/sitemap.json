@@ -265,7 +265,7 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1606502542706,
+    "date": 1606512799809,
     "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
   },
   {
@@ -350,5 +350,10 @@
     "slug": "ve7on-on-101-mhz",
     "title": "VE7ON on 10.1 MHz",
     "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM."
+  },
+  {
+    "slug": "ja0qvj-on-181-mhz",
+    "title": "JA0QVJ on 18.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM."
   }
 ]

@@ -55,6 +55,11 @@
       "type": "paragraph",
       "id": "44b97dd4bfc41afe",
       "text": "[[VE7ON on 10.1 MHz]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cb847322a6472ecd",
+      "text": "[[JA0QVJ on 18.1 MHz]]"
     }
   ],
   "journal": [
@@ -577,6 +582,17 @@
         "text": "These notable or illustrative graphs caught our attention. Titles are formed from the oldest decode of the bunch, not yet the most highly connected."
       },
       "date": 1606502542706
+    },
+    {
+      "type": "add",
+      "id": "cb847322a6472ecd",
+      "item": {
+        "type": "paragraph",
+        "id": "cb847322a6472ecd",
+        "text": "[[JA0QVJ on 18.1 MHz]]"
+      },
+      "after": "44b97dd4bfc41afe",
+      "date": 1606512799809
     }
   ]
 }
