@@ -34,7 +34,7 @@
     {
       "type": "paragraph",
       "id": "c3154f20d4ec78b1",
-      "text": "These notable or illustrative graphs caught our attention."
+      "text": "These notable or illustrative graphs caught our attention. Titles are formed from the oldest decode of the bunch, not yet the most highly connected."
     },
     {
       "type": "paragraph",
@@ -557,6 +557,26 @@
       },
       "after": "b2f6502c9bb73e18",
       "date": 1606499321915
+    },
+    {
+      "type": "edit",
+      "id": "c3154f20d4ec78b1",
+      "item": {
+        "type": "paragraph",
+        "id": "c3154f20d4ec78b1",
+        "text": "These notable or illustrative graphs caught our attention. Titles are from the oldest decode of the bunch, not yet the most highly connected."
+      },
+      "date": 1606502507126
+    },
+    {
+      "type": "edit",
+      "id": "c3154f20d4ec78b1",
+      "item": {
+        "type": "paragraph",
+        "id": "c3154f20d4ec78b1",
+        "text": "These notable or illustrative graphs caught our attention. Titles are formed from the oldest decode of the bunch, not yet the most highly connected."
+      },
+      "date": 1606502542706
     }
   ]
 }
