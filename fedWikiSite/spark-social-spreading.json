@@ -60,6 +60,11 @@
       "type": "paragraph",
       "id": "cb847322a6472ecd",
       "text": "[[JA0QVJ on 18.1 MHz]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d5264078a16da79d",
+      "text": "[[KO4DDK on 21.0 MHz]]"
     }
   ],
   "journal": [
@@ -593,6 +598,17 @@
       },
       "after": "44b97dd4bfc41afe",
       "date": 1606512799809
+    },
+    {
+      "type": "add",
+      "id": "d5264078a16da79d",
+      "item": {
+        "type": "paragraph",
+        "id": "d5264078a16da79d",
+        "text": "[[KO4DDK on 21.0 MHz]]"
+      },
+      "after": "cb847322a6472ecd",
+      "date": 1606584863723
     }
   ]
 }
