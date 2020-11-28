@@ -18,6 +18,16 @@
     },
     {
       "type": "pagefold",
+      "id": "08b8d55dce144889",
+      "text": " ."
+    },
+    {
+      "type": "paragraph",
+      "id": "db003e179ed783e1",
+      "text": "Hermes-light 2 gateware for 10 receive-only radios. [https://github.com/softerhardware/Hermes-Lite2/tree/master/gateware/bitfiles/testing/20201127_72p7 post]"
+    },
+    {
+      "type": "pagefold",
       "id": "f5b218d5b7f2365f",
       "text": "."
     },
@@ -856,6 +866,103 @@
         "7a68561bcb2c65ea"
       ],
       "date": 1605840783378
+    },
+    {
+      "type": "add",
+      "id": "08b8d55dce144889",
+      "item": {
+        "type": "factory",
+        "id": "08b8d55dce144889",
+        "text": "."
+      },
+      "after": "fc8aeac70b1bfd85",
+      "date": 1606592202924
+    },
+    {
+      "type": "edit",
+      "id": "08b8d55dce144889",
+      "item": {
+        "type": "pagefold",
+        "id": "08b8d55dce144889",
+        "text": " ."
+      },
+      "date": 1606592221620
+    },
+    {
+      "id": "08b8d55dce144889",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "33e619f3c6f88b17",
+        "3699db072c30bd5f",
+        "08b8d55dce144889",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c8e00ab5afa75ab3",
+        "de7c970cf6e597db",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3",
+        "6bfd0caab5bb0d1e",
+        "46eef3d8ac285f19",
+        "8905d41cbb57950a",
+        "7e247a043c7cc06f",
+        "6da515a70f38110b",
+        "2bf485606aae9801",
+        "7142b396f3be9a16",
+        "f24a1e5ac854c332",
+        "2937256c27d34235",
+        "5dfa8dd4823254dc",
+        "1e7d0068a5998164",
+        "7a68561bcb2c65ea"
+      ],
+      "date": 1606592229815
+    },
+    {
+      "type": "add",
+      "id": "db003e179ed783e1",
+      "item": {
+        "type": "paragraph",
+        "id": "db003e179ed783e1",
+        "text": "Hermes-light 2 gateware for 10 receive-only radios. [https://github.com/softerhardware/Hermes-Lite2/tree/master/gateware/bitfiles/testing/20201127_72p7 post]"
+      },
+      "after": "3699db072c30bd5f",
+      "date": 1606592325174
+    },
+    {
+      "id": "db003e179ed783e1",
+      "type": "move",
+      "order": [
+        "419cc9bac3595f9d",
+        "33e619f3c6f88b17",
+        "3699db072c30bd5f",
+        "08b8d55dce144889",
+        "db003e179ed783e1",
+        "f5b218d5b7f2365f",
+        "fc8aeac70b1bfd85",
+        "a74c91787c232c97",
+        "c8e00ab5afa75ab3",
+        "de7c970cf6e597db",
+        "bfb1b3982fd7f174",
+        "c31017556509ed3d",
+        "3363084e7ad352ca",
+        "3ea16f9c959575a3",
+        "6bfd0caab5bb0d1e",
+        "46eef3d8ac285f19",
+        "8905d41cbb57950a",
+        "7e247a043c7cc06f",
+        "6da515a70f38110b",
+        "2bf485606aae9801",
+        "7142b396f3be9a16",
+        "f24a1e5ac854c332",
+        "2937256c27d34235",
+        "5dfa8dd4823254dc",
+        "1e7d0068a5998164",
+        "7a68561bcb2c65ea"
+      ],
+      "date": 1606592329389
     }
   ]
 }
