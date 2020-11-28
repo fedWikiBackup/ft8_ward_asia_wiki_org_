@@ -265,7 +265,7 @@
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
-    "date": 1606512799809,
+    "date": 1606584863723,
     "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
   },
   {
@@ -355,5 +355,10 @@
     "slug": "ja0qvj-on-181-mhz",
     "title": "JA0QVJ on 18.1 MHz",
     "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM."
+  },
+  {
+    "slug": "ko4ddk-on-210-mhz",
+    "title": "KO4DDK on 21.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM."
   }
 ]
