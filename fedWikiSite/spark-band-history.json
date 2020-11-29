@@ -56,6 +56,16 @@
       "type": "code",
       "id": "81cded2f3c216bee",
       "text": "deno run --allow-net --allow-read \\\n  https://deno.land/std/http/file_server.ts"
+    },
+    {
+      "type": "paragraph",
+      "id": "9d8712ca6f01bde8",
+      "text": "I sometimes forget to refresh the band.html tab so I get am and pm bands mixed together. I can clear out the now obsolete bands from the javascript console with splice:"
+    },
+    {
+      "type": "code",
+      "id": "57f24a45e494b8ce",
+      "text": "data.splice(0,4)"
     }
   ],
   "journal": [
@@ -373,6 +383,56 @@
         "81cded2f3c216bee"
       ],
       "date": 1606496793571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d8712ca6f01bde8"
+      },
+      "id": "9d8712ca6f01bde8",
+      "type": "add",
+      "after": "81cded2f3c216bee",
+      "date": 1606688452825
+    },
+    {
+      "type": "edit",
+      "id": "9d8712ca6f01bde8",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8712ca6f01bde8",
+        "text": "I sometimes forget to refresh the band.html tab so I get am and pm bands mixed together. I can clear out the now obsolete bands with splice:"
+      },
+      "date": 1606688563980
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57f24a45e494b8ce"
+      },
+      "id": "57f24a45e494b8ce",
+      "type": "add",
+      "after": "9d8712ca6f01bde8",
+      "date": 1606688565823
+    },
+    {
+      "type": "edit",
+      "id": "57f24a45e494b8ce",
+      "item": {
+        "type": "code",
+        "id": "57f24a45e494b8ce",
+        "text": "data.splice(0,4)"
+      },
+      "date": 1606688569842
+    },
+    {
+      "type": "edit",
+      "id": "9d8712ca6f01bde8",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8712ca6f01bde8",
+        "text": "I sometimes forget to refresh the band.html tab so I get am and pm bands mixed together. I can clear out the now obsolete bands from the javascript console with splice:"
+      },
+      "date": 1606688682974
     }
   ]
 }
