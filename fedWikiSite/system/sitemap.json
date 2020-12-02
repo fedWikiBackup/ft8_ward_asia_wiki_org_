@@ -360,5 +360,10 @@
     "slug": "ko4ddk-on-210-mhz",
     "title": "KO4DDK on 21.0 MHz",
     "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM."
+  },
+  {
+    "slug": "w3km-on-140-mhz",
+    "title": "W3KM on 14.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 0.8 minutes starting with W3KM at 12/2/2020, 10:25:35 AM."
   }
 ]
