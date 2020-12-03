@@ -62,6 +62,11 @@
       "text": "Rust. WASM code that got us started. [https://github.com/nricciar/sparksdr-websocket-demo/blob/master/src/lib.rs github] [https://rig.kk4wjs.com/spark/ run] "
     },
     {
+      "type": "paragraph",
+      "id": "1f367062acd3d6f0",
+      "text": "Retrieving receiver mode over cat. [https://groups.google.com/g/sparksdr/c/zCPYaqpSyvE group]"
+    },
+    {
       "type": "pagefold",
       "id": "3363084e7ad352ca",
       "text": "."
@@ -963,6 +968,31 @@
         "7a68561bcb2c65ea"
       ],
       "date": 1606592329389
+    },
+    {
+      "type": "fork",
+      "date": 1606596442491
+    },
+    {
+      "type": "add",
+      "id": "1f367062acd3d6f0",
+      "item": {
+        "type": "paragraph",
+        "id": "1f367062acd3d6f0",
+        "text": "https://groups.google.com/g/sparksdr/c/zCPYaqpSyvE"
+      },
+      "after": "c31017556509ed3d",
+      "date": 1607014931808
+    },
+    {
+      "type": "edit",
+      "id": "1f367062acd3d6f0",
+      "item": {
+        "type": "paragraph",
+        "id": "1f367062acd3d6f0",
+        "text": "Retrieving receiver mode over cat. [https://groups.google.com/g/sparksdr/c/zCPYaqpSyvE group]"
+      },
+      "date": 1607014974688
     }
   ]
 }
