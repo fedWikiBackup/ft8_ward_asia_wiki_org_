@@ -65,6 +65,16 @@
       "type": "paragraph",
       "id": "d5264078a16da79d",
       "text": "[[KO4DDK on 21.0 MHz]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7bb69eb2baeb7ed",
+      "text": "An earlier version of this display distinguished US and DX stations as well as spreading from a small list of important stations including my own. [http://ft8.ward.asia.wiki.org/assets/pages/spark-script-tools/2019-09-09%20at%207.11.38%20PM.jpg enlarge]"
+    },
+    {
+      "type": "html",
+      "id": "0b0da1194ed52ae4",
+      "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-script-tools/2019-09-09%20at%207.11.38%20PM.jpg>"
     }
   ],
   "journal": [
@@ -609,6 +619,56 @@
       },
       "after": "cb847322a6472ecd",
       "date": 1606584863723
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7bb69eb2baeb7ed"
+      },
+      "id": "f7bb69eb2baeb7ed",
+      "type": "add",
+      "after": "d5264078a16da79d",
+      "date": 1606954784119
+    },
+    {
+      "type": "edit",
+      "id": "f7bb69eb2baeb7ed",
+      "item": {
+        "type": "paragraph",
+        "id": "f7bb69eb2baeb7ed",
+        "text": "An earlier version of this display distinguished US and DX stations as well as spreading from a small list of important stations including my own."
+      },
+      "date": 1606954880154
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b0da1194ed52ae4"
+      },
+      "id": "0b0da1194ed52ae4",
+      "type": "add",
+      "after": "f7bb69eb2baeb7ed",
+      "date": 1606954882173
+    },
+    {
+      "type": "edit",
+      "id": "0b0da1194ed52ae4",
+      "item": {
+        "type": "html",
+        "id": "0b0da1194ed52ae4",
+        "text": "<img width=100% src=http://ft8.ward.asia.wiki.org/assets/pages/spark-script-tools/2019-09-09%20at%207.11.38%20PM.jpg>"
+      },
+      "date": 1606954905474
+    },
+    {
+      "type": "edit",
+      "id": "f7bb69eb2baeb7ed",
+      "item": {
+        "type": "paragraph",
+        "id": "f7bb69eb2baeb7ed",
+        "text": "An earlier version of this display distinguished US and DX stations as well as spreading from a small list of important stations including my own. [http://ft8.ward.asia.wiki.org/assets/pages/spark-script-tools/2019-09-09%20at%207.11.38%20PM.jpg enlarge]"
+      },
+      "date": 1606954925371
     }
   ]
 }
