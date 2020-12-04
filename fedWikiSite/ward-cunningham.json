@@ -1,0 +1,55 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fc2377400623cf35",
+      "text": "I've operated a ham radio station off and on since college in the late '60s. I've also written radio related programs and even published an early one in QST."
+    },
+    {
+      "type": "paragraph",
+      "id": "fb617c3837ab588e",
+      "text": "These pages describe my adventure with the totally awesome FT8 digital mode that has been a sensation for three or four years now. Older pages describe past operations. [http://c2.com/ward/morse/ post]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1607112281436
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc2377400623cf35"
+      },
+      "id": "fc2377400623cf35",
+      "type": "add",
+      "date": 1607112283557
+    },
+    {
+      "type": "edit",
+      "id": "fc2377400623cf35",
+      "item": {
+        "type": "paragraph",
+        "id": "fc2377400623cf35",
+        "text": "I've operated a ham radio station off and on since college in the late '60s. I've also written radio related programs and even published an early one in QST."
+      },
+      "date": 1607112456217
+    },
+    {
+      "type": "add",
+      "id": "fb617c3837ab588e",
+      "item": {
+        "type": "paragraph",
+        "id": "fb617c3837ab588e",
+        "text": "These pages describe my adventure with the totally awesome FT8 digital mode that has been a sensation for three or four years now. Older pages describe past operations. [http://c2.com/ward/morse/ post]"
+      },
+      "after": "fc2377400623cf35",
+      "date": 1607112719585
+    }
+  ]
+}
