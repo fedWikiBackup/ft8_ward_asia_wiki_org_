@@ -327,8 +327,8 @@
   {
     "slug": "html-scripts",
     "title": "HTML Scripts",
-    "date": 1607115712368,
-    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup."
+    "date": 1607115922118,
+    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
   },
   {
     "slug": "signals-on-210-mhz",
