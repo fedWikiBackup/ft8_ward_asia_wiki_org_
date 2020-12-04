@@ -7,6 +7,11 @@
       "text": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
     },
     {
+      "type": "paragraph",
+      "id": "60e4c8e100910819",
+      "text": "We include a jpeg with each script which completes our visual menu. See [[Spark Decodes]]"
+    },
+    {
       "type": "assets",
       "id": "758060bfe18c8252",
       "text": "pages/spark-decodes"
@@ -60,6 +65,17 @@
         "text": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
       },
       "date": 1607115834036
+    },
+    {
+      "type": "add",
+      "id": "60e4c8e100910819",
+      "item": {
+        "type": "paragraph",
+        "id": "60e4c8e100910819",
+        "text": "We include a jpeg with each script which completes our visual menu. See [[Spark Decodes]]"
+      },
+      "after": "1b0372a5c14aa29c",
+      "date": 1607115922118
     }
   ]
 }
