@@ -54,6 +54,11 @@
     "synopsis": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
   },
   {
+    "slug": "connetions-on-35-mhz",
+    "title": "Connetions on 3.5 MHz",
+    "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]"
+  },
+  {
     "slug": "decode-waterfall",
     "title": "Decode Waterfall",
     "date": 1582516332396,
@@ -66,6 +71,12 @@
     "synopsis": "We experiment here to decide how we might format status information in our social network diagrams."
   },
   {
+    "slug": "digital-exchanges-explained",
+    "title": "Digital Exchanges Explained",
+    "date": 1606154775966,
+    "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
+  },
+  {
     "slug": "dm",
     "title": "DM",
     "date": 1575083546238,
@@ -76,6 +87,12 @@
     "title": "DN",
     "date": 1575085516035,
     "synopsis": "- DN09 [http://www.levinecentral.com/ham/grid_square.php?Grid=DN09 map]"
+  },
+  {
+    "slug": "earth-from-space",
+    "title": "Earth from Space",
+    "date": 1605812645720,
+    "synopsis": "We could find some use for a globe coded in three.js and shared on github. Includes a walkthrough of the construction. [https://blog.mastermaps.com/2013/09/creating-webgl-earth-with-threejs.html post] [https://github.com/turban/webgl-earth github] [http://thematicmapping.org/playground/webgl/earth/ enlarge]"
   },
   {
     "slug": "el",
@@ -100,6 +117,12 @@
     "title": "Federation Search",
     "date": 1555276226218,
     "synopsis": "Search the visible federation for pages matching all words entered. Case doesn't matter but spelling does."
+  },
+  {
+    "slug": "first-look-at-exchanges",
+    "title": "First Look at Exchanges",
+    "date": 1606154880056,
+    "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning."
   },
   {
     "slug": "fm",
@@ -132,10 +155,32 @@
     "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]"
   },
   {
+    "slug": "hermes-lite-2-hardware",
+    "title": "Hermes-Lite 2 Hardware",
+    "date": 1606164820652,
+    "synopsis": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
+  },
+  {
     "slug": "hermes-lite-sdr-transceiver",
     "title": "Hermes-Lite SDR Transceiver",
     "date": 1591845635454,
     "synopsis": "The Hermes-Lite is an outstanding low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. [https://www.sdr-radio.com/hermes-lite-2-hl2 post] [http://www.hermeslite.com/ site]  [https://github.com/softerhardware/Hermes-Lite2/wiki wiki] [https://lirp-cdn.multiscreensite.com/46d0be53/dms3rep/multi/opt/IMG_3072-1920w.JPG enlarge]"
+  },
+  {
+    "slug": "html-scripts",
+    "title": "HTML Scripts",
+    "date": 1607115922118,
+    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
+  },
+  {
+    "slug": "ja0qvj-on-181-mhz",
+    "title": "JA0QVJ on 18.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM."
+  },
+  {
+    "slug": "ja8gmh-on-210-mhz",
+    "title": "JA8GMH on 21.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 46.4 minutes starting with JA8GMH at 11/26/2020, 4:18:46 PM."
   },
   {
     "slug": "joe-taylor-fan-club",
@@ -148,6 +193,11 @@
     "title": "K2GT Efficient Operation",
     "date": 1564921027632,
     "synopsis": "We see a single station dominating our connection diagram and investigate his operating practice."
+  },
+  {
+    "slug": "ko4ddk-on-210-mhz",
+    "title": "KO4DDK on 21.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM."
   },
   {
     "slug": "kp3h-efficient-operation",
@@ -168,10 +218,21 @@
     "synopsis": "See [[Missing Grid Squares]]"
   },
   {
+    "slug": "making-the-exchange-script",
+    "title": "Making the Exchange Script",
+    "date": 1606227987703,
+    "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
+  },
+  {
     "slug": "missing-grid-squares",
     "title": "Missing Grid Squares",
     "date": 1575085818126,
     "synopsis": "<center><table>"
+  },
+  {
+    "slug": "n7tms-on-70-mhz",
+    "title": "N7TMS on 7.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 32.0 minutes starting with N7TMS at 11/19/2020, 9:15:12 AM. See [[Spark Decodes]]"
   },
   {
     "slug": "overnight-opening",
@@ -190,6 +251,52 @@
     "title": "Share the Wonder",
     "date": 1563290533766,
     "synopsis": "Jeri Ellsworth's Tilt Five suggests we can, \"Explore, battle, and solve puzzles together with friends as your game unfolds in a shared holographic space, whether they’re across the table or across the world.\" [https://www.tiltfive.com/ site]"
+  },
+  {
+    "slug": "signals-on-140-mhz",
+    "title": "Signals on 14.0 MHz",
+    "synopsis": "These stations were recorded over an interval of 12.53 minutes. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "signals-on-210-mhz",
+    "title": "Signals on 21.0 MHz",
+    "synopsis": "These stations were recorded over an interval of 2.49 minutes. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "spark-band-history",
+    "title": "Spark Band History",
+    "date": 1606688682974,
+    "synopsis": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
+  },
+  {
+    "slug": "spark-decodes",
+    "title": "Spark Decodes",
+    "date": 1607113653988,
+    "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+  },
+  {
+    "slug": "spark-script-tools",
+    "title": "Spark Script Tools",
+    "date": 1607015034085,
+    "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
+  },
+  {
+    "slug": "spark-signals",
+    "title": "Spark Signals",
+    "date": 1605654566427,
+    "synopsis": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
+  },
+  {
+    "slug": "spark-social-spreading",
+    "title": "Spark Social Spreading",
+    "date": 1606954925371,
+    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
+  },
+  {
+    "slug": "sparksdr-application",
+    "title": "SparkSDR Application",
+    "date": 1606167383119,
+    "synopsis": "Software for Hermes Lite and openHPSDR radios. [http://www.ihopper.org/radio/ site]"
   },
   {
     "slug": "tag-propagation",
@@ -222,6 +329,27 @@
     "synopsis": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities."
   },
   {
+    "slug": "va7qi-on-101-mhz",
+    "title": "VA7QI on 10.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 19.9 minutes starting with VA7QI at 11/19/2020, 9:12:57 AM. See [[Spark Decodes]]"
+  },
+  {
+    "slug": "ve7on-on-101-mhz",
+    "title": "VE7ON on 10.1 MHz",
+    "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM."
+  },
+  {
+    "slug": "w3km-on-140-mhz",
+    "title": "W3KM on 14.0 MHz",
+    "synopsis": "These acknowldgements were recorded over 0.8 minutes starting with W3KM at 12/2/2020, 10:25:35 AM."
+  },
+  {
+    "slug": "ward-cunningham",
+    "title": "Ward Cunningham",
+    "date": 1607112719585,
+    "synopsis": "I've operated a ham radio station off and on since college in the late '60s. I've also written radio related programs and even published an early one in QST."
+  },
+  {
     "slug": "waterfall-decorations",
     "title": "Waterfall Decorations",
     "date": 1577889995541,
@@ -234,142 +362,14 @@
     "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
   },
   {
-    "slug": "wsjt-x",
-    "title": "WSJT-X",
-    "date": 1569893115279,
-    "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
-  },
-  {
-    "slug": "spark-decodes",
-    "title": "Spark Decodes",
-    "date": 1607113653988,
-    "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
-  },
-  {
-    "slug": "spark-signals",
-    "title": "Spark Signals",
-    "date": 1605654566427,
-    "synopsis": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
-  },
-  {
-    "slug": "signals-on-140-mhz",
-    "title": "Signals on 14.0 MHz",
-    "synopsis": "These stations were recorded over an interval of 12.53 minutes. See [[Spark Decodes]]"
-  },
-  {
-    "slug": "spark-script-tools",
-    "title": "Spark Script Tools",
-    "date": 1607015034085,
-    "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
-  },
-  {
-    "slug": "spark-social-spreading",
-    "title": "Spark Social Spreading",
-    "date": 1606954925371,
-    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
-  },
-  {
-    "slug": "connetions-on-35-mhz",
-    "title": "Connetions on 3.5 MHz",
-    "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]"
-  },
-  {
-    "slug": "va7qi-on-101-mhz",
-    "title": "VA7QI on 10.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 19.9 minutes starting with VA7QI at 11/19/2020, 9:12:57 AM. See [[Spark Decodes]]"
-  },
-  {
-    "slug": "n7tms-on-70-mhz",
-    "title": "N7TMS on 7.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 32.0 minutes starting with N7TMS at 11/19/2020, 9:15:12 AM. See [[Spark Decodes]]"
-  },
-  {
-    "slug": "earth-from-space",
-    "title": "Earth from Space",
-    "date": 1605812645720,
-    "synopsis": "We could find some use for a globe coded in three.js and shared on github. Includes a walkthrough of the construction. [https://blog.mastermaps.com/2013/09/creating-webgl-earth-with-threejs.html post] [https://github.com/turban/webgl-earth github] [http://thematicmapping.org/playground/webgl/earth/ enlarge]"
-  },
-  {
     "slug": "wh6s-on-181-mhz",
     "title": "WH6S on 18.1 MHz",
     "synopsis": "These acknowldgements were recorded over 26.2 minutes starting with WH6S at 11/19/2020, 3:50:48 PM. See [[Spark Decodes]]"
   },
   {
-    "slug": "first-look-at-exchanges",
-    "title": "First Look at Exchanges",
-    "date": 1606154880056,
-    "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning."
-  },
-  {
-    "slug": "making-the-exchange-script",
-    "title": "Making the Exchange Script",
-    "date": 1606227987703,
-    "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
-  },
-  {
-    "slug": "digital-exchanges-explained",
-    "title": "Digital Exchanges Explained",
-    "date": 1606154775966,
-    "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
-  },
-  {
-    "slug": "hermes-lite-2-hardware",
-    "title": "Hermes-Lite 2 Hardware",
-    "date": 1606164820652,
-    "synopsis": "The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 300 Hermes-Lite 2.0 units have been successfully built."
-  },
-  {
-    "slug": "sparksdr-application",
-    "title": "SparkSDR Application",
-    "date": 1606167383119,
-    "synopsis": "Software for Hermes Lite and openHPSDR radios. [http://www.ihopper.org/radio/ site]"
-  },
-  {
-    "slug": "html-scripts",
-    "title": "HTML Scripts",
-    "date": 1607115922118,
-    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
-  },
-  {
-    "slug": "signals-on-210-mhz",
-    "title": "Signals on 21.0 MHz",
-    "synopsis": "These stations were recorded over an interval of 2.49 minutes. See [[Spark Decodes]]"
-  },
-  {
-    "slug": "spark-band-history",
-    "title": "Spark Band History",
-    "date": 1606688682974,
-    "synopsis": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
-  },
-  {
-    "slug": "ja8gmh-on-210-mhz",
-    "title": "JA8GMH on 21.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 46.4 minutes starting with JA8GMH at 11/26/2020, 4:18:46 PM."
-  },
-  {
-    "slug": "ve7on-on-101-mhz",
-    "title": "VE7ON on 10.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM."
-  },
-  {
-    "slug": "ja0qvj-on-181-mhz",
-    "title": "JA0QVJ on 18.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM."
-  },
-  {
-    "slug": "ko4ddk-on-210-mhz",
-    "title": "KO4DDK on 21.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM."
-  },
-  {
-    "slug": "w3km-on-140-mhz",
-    "title": "W3KM on 14.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 0.8 minutes starting with W3KM at 12/2/2020, 10:25:35 AM."
-  },
-  {
-    "slug": "ward-cunningham",
-    "title": "Ward Cunningham",
-    "date": 1607112719585,
-    "synopsis": "I've operated a ham radio station off and on since college in the late '60s. I've also written radio related programs and even published an early one in QST."
+    "slug": "wsjt-x",
+    "title": "WSJT-X",
+    "date": 1569893115279,
+    "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
   }
 ]
