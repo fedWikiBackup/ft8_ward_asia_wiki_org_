@@ -3,7 +3,10 @@
     "slug": "a35jt-tonga-expedition",
     "title": "A35JT Tonga Expedition",
     "date": 1569785789318,
-    "synopsis": "The DX Expedition in affiliation with IOTA, Islands on the Air, had a presence on the band in that so many stations were calling it. Here the infrequent acknowledgements suggest they were operating  [[Concurrent Contacts]] and would not wait for these transmissions. [https://vk5gr-iota.net site]"
+    "synopsis": "The DX Expedition in affiliation with IOTA, Islands on the Air, had a presence on the band in that so many stations were calling it. Here the infrequent acknowledgements suggest they were operating  [[Concurrent Contacts]] and would not wait for these transmissions. [https://vk5gr-iota.net site]",
+    "links": {
+      "concurrent-contacts": "ab9e7749b5c12e1a"
+    }
   },
   {
     "slug": "advanced-d3-technique",
@@ -51,18 +54,31 @@
     "slug": "concurrent-contacts",
     "title": "Concurrent Contacts",
     "date": 1569784100460,
-    "synopsis": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]"
+    "synopsis": "Contact rates as high as 500 per hour can be achieved using the exceptional spectral and temporal control offered by digital radio. [http://physics.princeton.edu/pulsar/k1jt/FT8_DXpedition_Mode.pdf pdf]",
+    "links": {
+      "k2gt-efficient-operation": "3ce7c37742eb0d8b",
+      "a35jt-tonga-expedition": "c057f3788a1a2b94"
+    }
   },
   {
     "slug": "connetions-on-35-mhz",
     "title": "Connetions on 3.5 MHz",
-    "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]"
+    "synopsis": "These stations were recorded over an interval of 9.6 minutes. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "896537577264"
+    }
   },
   {
     "slug": "decode-waterfall",
     "title": "Decode Waterfall",
     "date": 1582516332396,
-    "synopsis": "We prototype a waterfall display reconstructed from decoded data and rendered with d3. This shows digital ham radio activity at 14 MHz that depends on daytime ionospheric skip. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=-1331 chart] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/waterfall.html github]"
+    "synopsis": "We prototype a waterfall display reconstructed from decoded data and rendered with d3. This shows digital ham radio activity at 14 MHz that depends on daytime ionospheric skip. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/waterfall.html?offset=-1331 chart] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/waterfall.html github]",
+    "links": {
+      "waterfall-decorations": "efaddeb4f646abd8",
+      "concurrent-contacts": "079870d8b8030455",
+      "advanced-d3-technique": "8d63b542bd25d02a",
+      "threejs-fundamentals": "71f4cc52973a4aab"
+    }
   },
   {
     "slug": "diagram-status-block",
@@ -74,7 +90,10 @@
     "slug": "digital-exchanges-explained",
     "title": "Digital Exchanges Explained",
     "date": 1606154775966,
-    "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps."
+    "synopsis": "The highly efficient digital radio protocol called FT8 gets much of its efficiency by limiting in messages what can be said and when. Still within this framework exists sufficient latitude for humans to engage in a collective activity a bit like trading stamps.",
+    "links": {
+      "making-the-exchange-script": "c9c33aa9769d0cfe"
+    }
   },
   {
     "slug": "dm",
@@ -116,13 +135,20 @@
     "slug": "federation-search",
     "title": "Federation Search",
     "date": 1555276226218,
-    "synopsis": "Search the visible federation for pages matching all words entered. Case doesn't matter but spelling does."
+    "synopsis": "Search the visible federation for pages matching all words entered. Case doesn't matter but spelling does.",
+    "links": {
+      "about-search-plugin": "e8698a4cd5220e43"
+    }
   },
   {
     "slug": "first-look-at-exchanges",
     "title": "First Look at Exchanges",
     "date": 1606154880056,
-    "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning."
+    "synopsis": "When I tried to explain an FT8 exchange to colleagues I got the idea that I should unravel some as I hear them and make a web page of them. I got the unraveling done that evening. Here I take a first look the next morning.",
+    "links": {
+      "spark-decodes": "ad31fb84357c261a",
+      "making-the-exchange-script": "ce3ef8d9dfcf5347"
+    }
   },
   {
     "slug": "fm",
@@ -140,19 +166,30 @@
     "slug": "ft8-at-k9ox",
     "title": "FT8 at K9OX",
     "date": 1569695118609,
-    "synopsis": "New digital modes appear in amateur radio with software downloads and a sound card connection to a suitable laptop computer. FT8 is the new thing logging at least 10x more contacts than any other, or perhaps all other modes combined. [https://www.flexradio.com/ft8-tipping-point-for-ham-radio/ post]"
+    "synopsis": "New digital modes appear in amateur radio with software downloads and a sound card connection to a suitable laptop computer. FT8 is the new thing logging at least 10x more contacts than any other, or perhaps all other modes combined. [https://www.flexradio.com/ft8-tipping-point-for-ham-radio/ post]",
+    "links": {
+      "ham-radio-operations": "dde7e749463ccd0d"
+    }
   },
   {
     "slug": "ft8-plots-and-diagrams",
     "title": "FT8 Plots and Diagrams",
     "date": 1576679685119,
-    "synopsis": "We collect decodes from various locations and display them various ways. Here we pull these together to find each quickly."
+    "synopsis": "We collect decodes from various locations and display them various ways. Here we pull these together to find each quickly.",
+    "links": {
+      "k9ox-ft8-log": "bdcfaf4421be3807",
+      "decode-waterfall": "8fee1c432977e2be"
+    }
   },
   {
     "slug": "ham-radio-operations",
     "title": "Ham Radio Operations",
     "date": 1607112952731,
-    "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]"
+    "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]",
+    "links": {
+      "ft8-plots-and-diagrams": "71a6973a26de9f0e",
+      "hh2aa-haiti": "63952dded8ef6f43"
+    }
   },
   {
     "slug": "hermes-lite-2-hardware",
@@ -170,17 +207,26 @@
     "slug": "html-scripts",
     "title": "HTML Scripts",
     "date": 1607115922118,
-    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder."
+    "synopsis": "We write scripts in html to be run alone in their own tab or in a wiki Frame where they can add pages to the lineup. We save these in a repo and upload the versions we want to a wiki asset folder.",
+    "links": {
+      "spark-decodes": "60e4c8e100910819"
+    }
   },
   {
     "slug": "ja0qvj-on-181-mhz",
     "title": "JA0QVJ on 18.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM."
+    "synopsis": "These acknowldgements were recorded over 8.5 minutes starting with JA0QVJ at 11/27/2020, 1:24:04 PM.",
+    "links": {
+      "spark-decodes": "372280115610"
+    }
   },
   {
     "slug": "ja8gmh-on-210-mhz",
     "title": "JA8GMH on 21.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 46.4 minutes starting with JA8GMH at 11/26/2020, 4:18:46 PM."
+    "synopsis": "These acknowldgements were recorded over 46.4 minutes starting with JA8GMH at 11/26/2020, 4:18:46 PM.",
+    "links": {
+      "spark-decodes": "807319412117"
+    }
   },
   {
     "slug": "joe-taylor-fan-club",
@@ -192,12 +238,18 @@
     "slug": "k2gt-efficient-operation",
     "title": "K2GT Efficient Operation",
     "date": 1564921027632,
-    "synopsis": "We see a single station dominating our connection diagram and investigate his operating practice."
+    "synopsis": "We see a single station dominating our connection diagram and investigate his operating practice.",
+    "links": {
+      "concurrent-contacts": "4e12b2c641126b70"
+    }
   },
   {
     "slug": "ko4ddk-on-210-mhz",
     "title": "KO4DDK on 21.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM."
+    "synopsis": "These acknowldgements were recorded over 15.0 minutes starting with KO4DDK at 11/28/2020, 9:18:58 AM.",
+    "links": {
+      "spark-decodes": "73002864227"
+    }
   },
   {
     "slug": "kp3h-efficient-operation",
@@ -215,24 +267,47 @@
     "slug": "madenhead-cn85",
     "title": "Madenhead CN85",
     "date": 1575078960371,
-    "synopsis": "See [[Missing Grid Squares]]"
+    "synopsis": "See [[Missing Grid Squares]]",
+    "links": {
+      "missing-grid-squares": "25ff53aeef9924b2"
+    }
   },
   {
     "slug": "making-the-exchange-script",
     "title": "Making the Exchange Script",
     "date": 1606227987703,
-    "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]"
+    "synopsis": "After a conversation less than two days ago I've taken an idea and turned it into a script with output I rather like. Now seems a good time to reflect on decisions made along the way. [https://github.com/WardCunningham/assets/blob/eb784879b96a86fbc17d948b330260b96869bb7d/pages/spark-decodes/exchange.html github]",
+    "links": {
+      "first-look-at-exchanges": "aac232f1c3e013c4",
+      "digital-exchanges-explained": "7b757e36d19d7a33"
+    }
   },
   {
     "slug": "missing-grid-squares",
     "title": "Missing Grid Squares",
     "date": 1575085818126,
-    "synopsis": "<center><table>"
+    "synopsis": "<center><table>",
+    "links": {
+      "bp": "99f794f4bdcd615d",
+      "cn": "99f794f4bdcd615d",
+      "dn": "99f794f4bdcd615d",
+      "en": "99f794f4bdcd615d",
+      "fn": "99f794f4bdcd615d",
+      "cm": "99f794f4bdcd615d",
+      "dm": "99f794f4bdcd615d",
+      "em": "99f794f4bdcd615d",
+      "fm": "99f794f4bdcd615d",
+      "bl": "99f794f4bdcd615d",
+      "el": "99f794f4bdcd615d"
+    }
   },
   {
     "slug": "n7tms-on-70-mhz",
     "title": "N7TMS on 7.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 32.0 minutes starting with N7TMS at 11/19/2020, 9:15:12 AM. See [[Spark Decodes]]"
+    "synopsis": "These acknowldgements were recorded over 32.0 minutes starting with N7TMS at 11/19/2020, 9:15:12 AM. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "613614920924"
+    }
   },
   {
     "slug": "overnight-opening",
@@ -244,7 +319,10 @@
     "slug": "radios-social-network",
     "title": "Radio's Social Network",
     "date": 1572382460695,
-    "synopsis": "We look at recent radio traffic and draw associations based on who has confirmed contacts. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html enlarge] [https://github.com/WardCunningham/ft8-network github]"
+    "synopsis": "We look at recent radio traffic and draw associations based on who has confirmed contacts. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html enlarge] [https://github.com/WardCunningham/ft8-network github]",
+    "links": {
+      "diagram-status-block": "d53784ae469dd1ed"
+    }
   },
   {
     "slug": "share-the-wonder",
@@ -255,42 +333,74 @@
   {
     "slug": "signals-on-140-mhz",
     "title": "Signals on 14.0 MHz",
-    "synopsis": "These stations were recorded over an interval of 12.53 minutes. See [[Spark Decodes]]"
+    "synopsis": "These stations were recorded over an interval of 12.53 minutes. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "130464076520",
+      "about-scatter-plugin": "457304444376"
+    }
   },
   {
     "slug": "signals-on-210-mhz",
     "title": "Signals on 21.0 MHz",
-    "synopsis": "These stations were recorded over an interval of 2.49 minutes. See [[Spark Decodes]]"
+    "synopsis": "These stations were recorded over an interval of 2.49 minutes. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "415768047526",
+      "about-scatter-plugin": "114859935392"
+    }
   },
   {
     "slug": "spark-band-history",
     "title": "Spark Band History",
     "date": 1606688682974,
-    "synopsis": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days."
+    "synopsis": "We watch activity move from band to band following changes in daytime and nighttime propagation. Here we look over a period of many days.",
+    "links": {
+      "spark-decodes": "626744484debe6b2"
+    }
   },
   {
     "slug": "spark-decodes",
     "title": "Spark Decodes",
     "date": 1607113653988,
-    "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]"
+    "synopsis": "We're using SparkSDR  V2.0.3.8 talking to Hermes-Lite 2 and listening to decodes on a WebSocket. [http://www.ihopper.org/radio/sparksdr2.htm site]",
+    "links": {
+      "spark-signals": "04e818c84c279a35",
+      "spark-social-spreading": "9ffd80ee54f8333c",
+      "spark-band-history": "137ac4fe6ecdff76",
+      "spark-script-tools": "5e485f832709f541",
+      "first-look-at-exchanges": "79a4d1445ec78b95"
+    }
   },
   {
     "slug": "spark-script-tools",
     "title": "Spark Script Tools",
     "date": 1607015034085,
-    "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms."
+    "synopsis": "HTML and Javascript work together to make an interesting graphical environment. Here are some we use rendering [[Spark Decodes]] in various forms.",
+    "links": {
+      "spark-decodes": "419cc9bac3595f9d"
+    }
   },
   {
     "slug": "spark-signals",
     "title": "Spark Signals",
     "date": 1605654566427,
-    "synopsis": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled."
+    "synopsis": "We observe [[Spark Decodes]] and report signal strength on a station by station basis. We average over multiple receptions and contrast that to distance traveled.",
+    "links": {
+      "spark-decodes": "1c21cfca07fe2185"
+    }
   },
   {
     "slug": "spark-social-spreading",
     "title": "Spark Social Spreading",
     "date": 1606954925371,
-    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one."
+    "synopsis": "We show stations in contact with each other as if they are passing messages or spreading a disease. Choose one.",
+    "links": {
+      "va7qi-on-101-mhz": "f6344a1507e662f0",
+      "n7tms-on-70-mhz": "d247a3fdc14e7f06",
+      "wh6s-on-181-mhz": "b2f6502c9bb73e18",
+      "ve7on-on-101-mhz": "44b97dd4bfc41afe",
+      "ja0qvj-on-181-mhz": "cb847322a6472ecd",
+      "ko4ddk-on-210-mhz": "d5264078a16da79d"
+    }
   },
   {
     "slug": "sparksdr-application",
@@ -326,22 +436,34 @@
     "slug": "us-cities-by-grid-square",
     "title": "US Cities by Grid Square",
     "date": 1575067637870,
-    "synopsis": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities."
+    "synopsis": "We identify grid squares that contain a large city. These make up 133 of the 314 largest cities.",
+    "links": {
+      "street-map": "60f072877b34a9a1"
+    }
   },
   {
     "slug": "va7qi-on-101-mhz",
     "title": "VA7QI on 10.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 19.9 minutes starting with VA7QI at 11/19/2020, 9:12:57 AM. See [[Spark Decodes]]"
+    "synopsis": "These acknowldgements were recorded over 19.9 minutes starting with VA7QI at 11/19/2020, 9:12:57 AM. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "210434886"
+    }
   },
   {
     "slug": "ve7on-on-101-mhz",
     "title": "VE7ON on 10.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM."
+    "synopsis": "These acknowldgements were recorded over 16.7 minutes starting with VE7ON at 11/27/2020, 9:31:12 AM.",
+    "links": {
+      "spark-decodes": "917305292056"
+    }
   },
   {
     "slug": "w3km-on-140-mhz",
     "title": "W3KM on 14.0 MHz",
-    "synopsis": "These acknowldgements were recorded over 0.8 minutes starting with W3KM at 12/2/2020, 10:25:35 AM."
+    "synopsis": "These acknowldgements were recorded over 0.8 minutes starting with W3KM at 12/2/2020, 10:25:35 AM.",
+    "links": {
+      "spark-decodes": "124344133580"
+    }
   },
   {
     "slug": "ward-cunningham",
@@ -353,23 +475,40 @@
     "slug": "waterfall-decorations",
     "title": "Waterfall Decorations",
     "date": 1577889995541,
-    "synopsis": "We imagine interacting with a [[Decode Waterfall]] as an open testbed for interaction mechanisms, some easily simulated in 2d, others unique to the TiltFive hardware."
+    "synopsis": "We imagine interacting with a [[Decode Waterfall]] as an open testbed for interaction mechanisms, some easily simulated in 2d, others unique to the TiltFive hardware.",
+    "links": {
+      "decode-waterfall": "d0d305a07bb1a830",
+      "share-the-wonder": "ceb72a0a4e04d6c9"
+    }
   },
   {
     "slug": "welcome-visitors",
     "title": "Welcome Visitors",
     "date": 1564921989197,
-    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+    "links": {
+      "federated-wiki": "7b56f22a4b9ee974",
+      "ward-cunningham": "63ad2e58eecdd9e5",
+      "ham-radio-operations": "05e2fa92643677ca",
+      "how-to-wiki": "ee416d431ebf4fb4",
+      "recent-changes": "ee416d431ebf4fb4"
+    }
   },
   {
     "slug": "wh6s-on-181-mhz",
     "title": "WH6S on 18.1 MHz",
-    "synopsis": "These acknowldgements were recorded over 26.2 minutes starting with WH6S at 11/19/2020, 3:50:48 PM. See [[Spark Decodes]]"
+    "synopsis": "These acknowldgements were recorded over 26.2 minutes starting with WH6S at 11/19/2020, 3:50:48 PM. See [[Spark Decodes]]",
+    "links": {
+      "spark-decodes": "37804510247"
+    }
   },
   {
     "slug": "wsjt-x",
     "title": "WSJT-X",
     "date": 1569893115279,
-    "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]"
+    "synopsis": "WSJT-X is a computer program designed to facilitate basic amateur radio communication using very weak signals. The first four letters in the program name stand for “Weak Signal communication by K1JT,” while the suffix “-X” indicates that WSJT-X started as an extended and experimental branch of the program WSJT. [https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.0.1.html site]",
+    "links": {
+      "ft8-at-k9ox": "3b3579e9938a2eb6"
+    }
   }
 ]
