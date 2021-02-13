@@ -510,5 +510,17 @@
     "links": {
       "ft8-at-k9ox": "3b3579e9938a2eb6"
     }
+  },
+  {
+    "slug": "k9ox-ft8-log",
+    "title": "K9OX FT8 Log",
+    "date": 1569851444001,
+    "synopsis": "The WSJT-X application creates a variety of logs. Here we upload the log kept in ADIF format for use elsewhere.",
+    "links": {
+      "k9ox-ft8-stats": "a2a46a0e405f862a",
+      "ft8-stats": "a2a46a0e405f862a",
+      "k9ox-ft8-maps": "39a2a4bde32eb5c1",
+      "k9ox-qsl-log": "065572bb75129099"
+    }
   }
 ]

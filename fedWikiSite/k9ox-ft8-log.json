@@ -1,0 +1,1318 @@
+{
+  "title": "K9OX FT8 Log",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "67d28cd78fce43b3",
+      "text": "The WSJT-X application creates a variety of logs. Here we upload the log kept in ADIF format for use elsewhere."
+    },
+    {
+      "type": "assets",
+      "id": "81fc31fd98fe0fc2",
+      "text": "pages/k9ox-ft8-log"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2a46a0e405f862a",
+      "text": "See [[K9OX FT8 Stats]], [[FT8 Stats]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "928f1b8282e74f7b",
+      "text": "Time in utc, loc in maidenhead, signal in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]."
+    },
+    {
+      "type": "paragraph",
+      "id": "39a2a4bde32eb5c1",
+      "text": "See [[K9OX FT8 Maps]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "065572bb75129099",
+      "text": "Also join with callbook from [[K9OX QSL Log]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "f20c0b2bf38d630c",
+      "text": "A typical adif entry. More optional fields available. [http://www.adif.org/adif.html spec]"
+    },
+    {
+      "type": "code",
+      "id": "fc3e968ade0a4123",
+      "text": "band: \"20m\"\ncall: \"N2DME\"\ncomment: \"first ever ft8\"\nfreq: \"14.075419\"\ngridsquare: \"DN40\"\nmode: \"FT8\"\nmy_gridsquare: \"CN85pl\"\noperator: \"Pat & Ward\"\nqso_date: \"20190421\"\nqso_date_off: \"20190421\"\nrst_rcvd: \"-13\"\nrst_sent: \"-17\"\nstation_callsign: \"K9OX\"\ntime_off: \"171915\"\ntime_on: \"171815\"\ntx_pwr: \"50\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "K9OX FT8 Log",
+        "story": []
+      },
+      "date": 1555904071660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67d28cd78fce43b3"
+      },
+      "id": "67d28cd78fce43b3",
+      "type": "add",
+      "date": 1555904131033
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in "
+      },
+      "date": 1555904184741
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format."
+      },
+      "date": 1555904218204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81fc31fd98fe0fc2"
+      },
+      "id": "81fc31fd98fe0fc2",
+      "type": "add",
+      "after": "67d28cd78fce43b3",
+      "date": 1555904220535
+    },
+    {
+      "type": "edit",
+      "id": "81fc31fd98fe0fc2",
+      "item": {
+        "type": "assets",
+        "id": "81fc31fd98fe0fc2",
+        "text": "pages/k9ox-ft8-log"
+      },
+      "date": 1555904237006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "deaec1896e6ed29d"
+      },
+      "id": "deaec1896e6ed29d",
+      "type": "add",
+      "after": "81fc31fd98fe0fc2",
+      "date": 1555909461792
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html"
+      },
+      "date": 1555909477107
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "deaec1896e6ed29d",
+        "81fc31fd98fe0fc2"
+      ],
+      "id": "deaec1896e6ed29d",
+      "date": 1555909511551
+    },
+    {
+      "type": "add",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload from pc to view here."
+      },
+      "after": "67d28cd78fce43b3",
+      "date": 1555909582824
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "deaec1896e6ed29d",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2"
+      ],
+      "id": "a2a46a0e405f862a",
+      "date": 1555909588359
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 600"
+      },
+      "date": 1555910031197
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 400"
+      },
+      "date": 1555910059249
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 300"
+      },
+      "date": 1555910369905
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 200"
+      },
+      "date": 1555910386935
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload from pc to view here with javascript."
+      },
+      "date": 1555946321438
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format. Times in UTC."
+      },
+      "date": 1555946356804
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc3e968ade0a4123"
+      },
+      "id": "fc3e968ade0a4123",
+      "type": "add",
+      "after": "81fc31fd98fe0fc2",
+      "date": 1555946930772
+    },
+    {
+      "type": "edit",
+      "id": "fc3e968ade0a4123",
+      "item": {
+        "type": "code",
+        "id": "fc3e968ade0a4123",
+        "text": "band: \"20m\"\ncall: \"N2DME\"\ncomment: \"first ever ft8\"\nfreq: \"14.075419\"\ngridsquare: \"DN40\"\nmode: \"FT8\"\nmy_gridsquare: \"CN85pl\"\noperator: \"Pat & Ward\"\nqso_date: \"20190421\"\nqso_date_off: \"20190421\"\nrst_rcvd: \"-13\"\nrst_sent: \"-17\"\nstation_callsign: \"K9OX\"\ntime_off: \"171915\"\ntime_on: \"171815\"\ntx_pwr: \"50\""
+      },
+      "date": 1555946941981
+    },
+    {
+      "type": "add",
+      "id": "f20c0b2bf38d630c",
+      "item": {
+        "type": "paragraph",
+        "id": "f20c0b2bf38d630c",
+        "text": "A typical entry. More optional fields available."
+      },
+      "after": "a2a46a0e405f862a",
+      "date": 1555947076519
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "deaec1896e6ed29d",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "id": "f20c0b2bf38d630c",
+      "date": 1555947081789
+    },
+    {
+      "type": "edit",
+      "id": "f20c0b2bf38d630c",
+      "item": {
+        "type": "paragraph",
+        "id": "f20c0b2bf38d630c",
+        "text": "A typical entry. More optional fields available. [http://www.adif.org/adif.html spec]"
+      },
+      "date": 1555947124678
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format. Times in UTC, loc in maidenhead, signals in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "date": 1555949581548
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format. Times in utc, loc in maidenhead, signals in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "date": 1555949594051
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format. Time in utc, loc in maidenhead, signals in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "date": 1555949608731
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we explore the log kept in ADIF format. Time in utc, loc in maidenhead, signal in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "date": 1555949615633
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 600"
+      },
+      "date": 1558237311206
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4f04495045c7bc",
+        "text": "We convert grid to lat lon used by maps. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "after": "deaec1896e6ed29d",
+      "id": "ca4f04495045c7bc",
+      "date": 1558362178865
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.5, -111 N2DME\n32.5, -97 WR5AY\n59.5, -151 KL0K\n42.5, -81 VA3HP\n32.5, -107 WD5COV\n30.5, -99 KK7WE\n33.5, -97 N5TJ\n45.5, -123 KI7G\n60.5, -135 VY1MB\n49.5, -113 VE6NX\n44.5, -103 K7RE\n39.5, -105 WB4CIW\n45.5, -93 KC9LFD\n29.5, -95 W5RRR\n37.5, -113 K7HDX\n33.5, -117 AK6R\n52.5, -123 VA7XU\n47.5, -97 KD0UNI\n39.5, -101 K0FJ\n37.5, -121 N6ZDH\n38.5, -121 AF6SA"
+      },
+      "after": "ca4f04495045c7bc",
+      "id": "e0a905d70354e6be",
+      "date": 1558362199842
+    },
+    {
+      "type": "edit",
+      "id": "ca4f04495045c7bc",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4f04495045c7bc",
+        "text": "We convert grid to lat lon used by maps. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/markers.html markup]"
+      },
+      "date": 1558362280637
+    },
+    {
+      "type": "fork",
+      "date": 1558362508356
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.50.00051, -1110.00047 N2DME\n32.50.00002, -970.00191 WR5AY\n59.50.00001, -1510.00052 KL0K\n42.50.00081, -810.00183 VA3HP\n32.50.00023, -1070.00024 WD5COV\n30.50.00088, -990.00175 KK7WE\n33.50.00007, -970.00011 N5TJ\n45.50.00029, -1230.00052 K9RL\n45.50.00057, -1230.00177 K7OVM\n60.50.00077, -1350.00009 VY1MB\n45.50.00066, -1230.00030 AC7FD\n49.50.00034, -1130.00166 VE6NX\n44.50.00047, -1030.00151 K7RE\n39.50.00069, -1050.00198 WB4CIW\n45.50.00016, -930.00150 KC9LFD\n29.50.00087, -950.00014 W5RRR\n44.50.00017, -1030.00186 K7RE\n37.50.00075, -1130.00013 K7HDX\n33.50.00092, -1170.00062 AK6R\n45.50.00006, -1230.00102 KI7G\n39.50.00055, -1050.00127 WB4CIW\n52.50.00069, -1230.00063 VA7XU\n47.50.00064, -970.00138 KD0UNI\n39.50.00085, -1010.00044 K0FJ\n37.50.00085, -1210.00076 N6ZDH\n38.50.00077, -1210.00113 AF6SA"
+      },
+      "date": 1558363287644
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.50021, -110.99827 N2DME\n32.50071, -96.99808 WR5AY\n59.50002, -150.99982 KL0K\n42.50059, -80.99857 VA3HP\n32.50024, -106.99964 WD5COV\n30.50034, -98.99918 KK7WE\n33.50075, -96.99802 N5TJ\n45.50036, -122.99905 K9RL\n45.50084, -122.99841 K7OVM\n60.50069, -134.9988 VY1MB\n45.50054, -122.99844 AC7FD\n49.50018, -112.9986 VE6NX\n44.50025, -102.99835 K7RE\n39.50001, -104.99965 WB4CIW\n45.50074, -92.99849 KC9LFD\n29.50071, -94.99808 W5RRR\n44.50001, -102.99903 K7RE\n37.50032, -112.99863 K7HDX\n33.50003, -116.99813 AK6R\n45.50084, -122.99841 KI7G\n39.50094, -104.99975 WB4CIW\n52.50018, -122.99938 VA7XU\n47.50024, -96.9988 KD0UNI\n39.50012, -100.99962 K0FJ\n37.50048, -120.99957 N6ZDH\n38.5001, -120.99945 AF6SA"
+      },
+      "date": 1558363398349
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.517, -111.114 N2DME\n32.572, -97.146 WR5AY\n59.58, -151.169 KL0K\n42.529, -81.066 VA3HP\n32.54, -107.006 WD5COV\n30.593, -99.065 KK7WE\n33.503, -97.024 N5TJ\n45.552, -123.142 K9RL\n45.534, -123.019 K7OVM\n60.547, -135.096 VY1MB\n45.592, -123.077 AC7FD\n49.522, -113.13 VE6NX\n44.587, -103.055 K7RE\n39.515, -105.071 WB4CIW\n45.527, -93.031 KC9LFD\n29.577, -95.181 W5RRR\n44.558, -103.177 K7RE\n37.502, -113.108 K7HDX\n33.523, -117.163 AK6R\n45.587, -123.144 KI7G\n39.557, -105.089 WB4CIW\n52.506, -123.131 VA7XU\n47.527, -97.075 KD0UNI\n39.564, -101.158 K0FJ\n37.531, -121.008 N6ZDH\n38.521, -121.091 AF6SA"
+      },
+      "date": 1558363569807
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.526, -111.162 N2DME\n32.548, -97.107 WR5AY\n59.573, -151.144 KL0K\n42.506, -81.078 VA3HP\n32.548, -107.14 WD5COV\n30.575, -99.001 KK7WE\n33.516, -97.01 N5TJ\n45.529, -123.038 K9RL\n45.6, -123.123 K7OVM\n60.501, -135.01 VY1MB\n45.59, -123.024 AC7FD\n49.569, -113.009 VE6NX\n44.598, -103.018 K7RE\n39.521, -105.111 WB4CIW\n45.58, -93.027 KC9LFD\n29.547, -95.077 W5RRR\n44.584, -103.104 K7RE\n37.519, -113.058 K7HDX\n33.503, -117.155 AK6R\n45.563, -123.027 KI7G\n39.531, -105.106 WB4CIW\n52.555, -123.074 VA7XU\n47.518, -97.078 KD0UNI\n39.584, -101.012 K0FJ\n37.527, -121.112 N6ZDH\n38.53, -121.05 AF6SA\n29.597, -95.188 KG5OHO\n34.573, -117.088 AF6O\n34.552, -117.036 WO6C\n37.567, -123.035 KA7QQV\n42.535, -89.089 K9IJ\n37.552, -123.179 KI6MOI\n29.549, -95.076 AJ4F\n31.504, -103.029 KD5SYI"
+      },
+      "date": 1558621700266
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI"
+      },
+      "date": 1558662356912
+    },
+    {
+      "type": "fork",
+      "date": 1558666931170
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload from pc to view here with javascript. Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "date": 1558670464804
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload log from pc to view here with javascript. Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "date": 1558670493504
+    },
+    {
+      "type": "edit",
+      "id": "f20c0b2bf38d630c",
+      "item": {
+        "type": "paragraph",
+        "id": "f20c0b2bf38d630c",
+        "text": "A typical adif entry. More optional fields available. [http://www.adif.org/adif.html spec]"
+      },
+      "date": 1558670524434
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL"
+      },
+      "date": 1558675149630
+    },
+    {
+      "type": "edit",
+      "id": "ca4f04495045c7bc",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4f04495045c7bc",
+        "text": "We convert grid to lat lon used by maps. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/markers.html markup] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/markers.html github]"
+      },
+      "date": 1558708906099
+    },
+    {
+      "type": "edit",
+      "id": "ca4f04495045c7bc",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4f04495045c7bc",
+        "text": "We change grid to lat lon used by maps. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/markers.html markup] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/markers.html github]"
+      },
+      "date": 1558708948612
+    },
+    {
+      "type": "edit",
+      "id": "ca4f04495045c7bc",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4f04495045c7bc",
+        "text": "Changing grid to lat lon used by maps. [http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/markers.html markup] [https://github.com/WardCunningham/assets/blob/master/pages/k9ox-ft8-log/markers.html github]"
+      },
+      "date": 1558708998235
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "deaec1896e6ed29d",
+        "ca4f04495045c7bc",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "id": "e0a905d70354e6be",
+      "date": 1559230460085
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "ca4f04495045c7bc",
+        "deaec1896e6ed29d",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "id": "ca4f04495045c7bc",
+      "date": 1559230474400
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40, -112 KR7V\n40, -112 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35, -108 WD8LJP"
+      },
+      "date": 1562450014564
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP"
+      },
+      "date": 1562454628965
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.7, -87.83333 KZ9DX\n41.25, -82.58333 KE8M"
+      },
+      "date": 1563160328552
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38, -121.91667 N6SPP\n43, -118 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM"
+      },
+      "date": 1563729185861
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42.7625, -81.15 VA3HP\n32, -107.75 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45.4375, -122.76667 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31.83333, -102.33333 KD5SYI\n39.08333, -84.5 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38, -121.91667 N6SPP\n43, -118 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX"
+      },
+      "date": 1563742328269
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44, -104 K7RE\n39.21667, -105.8 WB4CIW\n45, -94 KC9LFD\n29.55833, -95.1 W5RRR\n44, -104 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38, -122 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX"
+      },
+      "date": 1563749884766
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbfdd639900f032c"
+      },
+      "id": "bbfdd639900f032c",
+      "type": "add",
+      "after": "fc3e968ade0a4123",
+      "date": 1563815475404
+    },
+    {
+      "type": "edit",
+      "id": "bbfdd639900f032c",
+      "item": {
+        "type": "code",
+        "id": "bbfdd639900f032c",
+        "text": "   B   C   D   E   F\n\n   1   1   0   0   0   P\n   1   1   1   0   0   O\n   0   8  14  17   2   N\n   0  17  30  12   0   M\n   1   0   0   4   0   L"
+      },
+      "date": 1563815481504
+    },
+    {
+      "type": "add",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "I occasionally update this tally of log entries by grid square. Which should probably be superimposed over a world map."
+      },
+      "after": "f20c0b2bf38d630c",
+      "date": 1563815668857
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "ca4f04495045c7bc",
+        "deaec1896e6ed29d",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "5f035f8df254cc6a",
+        "bbfdd639900f032c"
+      ],
+      "id": "5f035f8df254cc6a",
+      "date": 1563815673655
+    },
+    {
+      "type": "edit",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "I occasionally tally log entries by grid square which should probably be superimposed over a world map."
+      },
+      "date": 1563815825213
+    },
+    {
+      "type": "edit",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "I occasionally tally log entries by grid square which should probably be superimposed over a world map rather than presented as a table."
+      },
+      "date": 1563815841574
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14d90bc34cb1878b"
+      },
+      "id": "14d90bc34cb1878b",
+      "type": "add",
+      "after": "bbfdd639900f032c",
+      "date": 1563846019214
+    },
+    {
+      "type": "edit",
+      "id": "14d90bc34cb1878b",
+      "item": {
+        "type": "paragraph",
+        "id": "14d90bc34cb1878b",
+        "text": "I've been preferring to work new grid squares but will call strong stations when there is nothing new around. Here are all the dupes to date."
+      },
+      "date": 1563846163378
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1befbd504708d8ad"
+      },
+      "id": "1befbd504708d8ad",
+      "type": "add",
+      "after": "14d90bc34cb1878b",
+      "date": 1563846165750
+    },
+    {
+      "type": "edit",
+      "id": "1befbd504708d8ad",
+      "item": {
+        "type": "code",
+        "id": "1befbd504708d8ad",
+        "text": "   8 CM87\n   7 CN85\n   4 CM97\n   3 EN62\n   3 EM12\n   3 EL29\n   3 DN40\n   3 DM79\n   3 DM42\n   3 DM33\n   3 DM13\n   3 CM98\n   2 EN52\n   2 EM79\n   2 DN84\n   2 DN39\n   2 DM37\n   2 DM34\n   2 DM14\n   2 CM88\n"
+      },
+      "date": 1563846171462
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44, -104 K7RE\n39.21667, -105.8 WB4CIW\n45, -94 KC9LFD\n29.55833, -95.1 W5RRR\n44, -104 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38, -122 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS"
+      },
+      "date": 1563860913326
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44, -104 K7RE\n39.21667, -105.8 WB4CIW\n45, -94 KC9LFD\n29.55833, -95.1 W5RRR\n44, -104 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38, -122 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX\n41.08333, -112 KE7DOA\n37.26667, -122.28333 KM6DOV\n39, -120 W7VY\n53.3875, -113.78333 VE6ATS\n52.375, -113.83333 VA6AKA\n44.58333, -93.16667 K0TT\n37.625, -122.5 W6AER\n37.9625, -121.96667 ND6H\n53.79167, -122.83333 VE7AV"
+      },
+      "date": 1563861675797
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44, -104 K7RE\n39.21667, -105.8 WB4CIW\n45, -94 KC9LFD\n29.55833, -95.1 W5RRR\n44, -104 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38, -122 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n38.62917, -122.89167 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n38.62917, -122.89167 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX\n41.08333, -112 KE7DOA\n37.26667, -122.28333 KM6DOV\n39, -120 W7VY\n53.3875, -113.78333 VE6ATS\n52.375, -113.83333 VA6AKA\n44.58333, -93.16667 K0TT\n37.625, -122.5 W6AER\n37.9625, -121.96667 ND6H\n53.79167, -122.83333 VE7AV\n40, -124 KK6RKY"
+      },
+      "date": 1563862733081
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n46, -104 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n46, -104 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.16667, -90.41667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n30.25, -97.83333 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX\n41.08333, -112 KE7DOA\n37.26667, -122.28333 KM6DOV\n39, -120 W7VY\n53.3875, -113.78333 VE6ATS\n52.375, -113.83333 VA6AKA\n44.58333, -93.16667 K0TT\n37.625, -122.5 W6AER\n37.9625, -121.96667 ND6H\n53.79167, -122.83333 VE7AV\n40, -124 KK6RKY\n45.5, -122.75 K7EMI\n38.9, -94.68333 WA4AFJ\n45.5, -122.83333 WQ3U\n41.57083, -90.60833 K0SRL\n38.66667, -121.33333 K7QDX\n39.5, -121.58333 KF6EWO\n45.4375, -122.525 N7FJC\n37.76667, -122.275 NB6GC\n37.33333, -122.25 W6ARA\n38.66667, -121.41667 KK6DOA"
+      },
+      "date": 1564256060242
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd0f1dec83e5967a"
+      },
+      "id": "dd0f1dec83e5967a",
+      "type": "add",
+      "after": "1befbd504708d8ad",
+      "date": 1564267537634
+    },
+    {
+      "type": "edit",
+      "id": "dd0f1dec83e5967a",
+      "item": {
+        "type": "frame",
+        "id": "dd0f1dec83e5967a",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html\nHEIGHT 400"
+      },
+      "date": 1564267562421
+    },
+    {
+      "type": "edit",
+      "id": "dd0f1dec83e5967a",
+      "item": {
+        "type": "frame",
+        "id": "dd0f1dec83e5967a",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html\nHEIGHT 300"
+      },
+      "date": 1564267581273
+    },
+    {
+      "type": "edit",
+      "id": "dd0f1dec83e5967a",
+      "item": {
+        "type": "frame",
+        "id": "dd0f1dec83e5967a",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html\nHEIGHT 250"
+      },
+      "date": 1564268832860
+    },
+    {
+      "type": "edit",
+      "id": "dd0f1dec83e5967a",
+      "item": {
+        "type": "frame",
+        "id": "dd0f1dec83e5967a",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/grids-worked.html\nHEIGHT 230"
+      },
+      "date": 1564268856840
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "ca4f04495045c7bc",
+        "deaec1896e6ed29d",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "bbfdd639900f032c",
+        "14d90bc34cb1878b",
+        "1befbd504708d8ad"
+      ],
+      "id": "dd0f1dec83e5967a",
+      "date": 1564268908077
+    },
+    {
+      "type": "edit",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "I occasionally tally log entries by grid square."
+      },
+      "date": 1564268938722
+    },
+    {
+      "type": "remove",
+      "id": "bbfdd639900f032c",
+      "date": 1564268965608
+    },
+    {
+      "type": "edit",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "I count contacts by grid square."
+      },
+      "date": 1564269077142
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "ca4f04495045c7bc",
+        "deaec1896e6ed29d",
+        "5f035f8df254cc6a",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "dd0f1dec83e5967a",
+        "14d90bc34cb1878b",
+        "1befbd504708d8ad"
+      ],
+      "id": "5f035f8df254cc6a",
+      "date": 1564269093899
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "e0a905d70354e6be",
+        "ca4f04495045c7bc",
+        "deaec1896e6ed29d",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "14d90bc34cb1878b",
+        "1befbd504708d8ad"
+      ],
+      "id": "dd0f1dec83e5967a",
+      "date": 1564269109180
+    },
+    {
+      "type": "edit",
+      "id": "5f035f8df254cc6a",
+      "item": {
+        "type": "paragraph",
+        "id": "5f035f8df254cc6a",
+        "text": "We count contacts by grid square."
+      },
+      "date": 1564269143453
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n59.70833, -151.75 KL0K\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n60.70417, -135.11667 VY1MB\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n29.55833, -95.1 W5RRR\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n52, -124 VA7XU\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n29.375, -95.25 KG5OHO\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n29.5375, -95.03333 AJ4F\n31, -104 KD5SYI\n39, -86 K4PKM\n29.375, -82.5 W4DEP\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37, -124 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n41.19583, -75.99167 K3ZK\n39.45833, -119.83333 KA6JLT\n42.1, -71.40833 KB1EFS\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n46, -104 KM6GUO\n61.16667, -149.75 KL7YK\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n46, -104 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.16667, -90.41667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n50.3875, -105.55 VA5KG\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n21.96667, -159.71667 WH6S\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n30.25, -97.83333 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n35.33333, 139.25 JA1VVX\n41.08333, -112 KE7DOA\n37.26667, -122.28333 KM6DOV\n39, -120 W7VY\n53.3875, -113.78333 VE6ATS\n52.375, -113.83333 VA6AKA\n44.58333, -93.16667 K0TT\n37.625, -122.5 W6AER\n37.9625, -121.96667 ND6H\n53.79167, -122.83333 VE7AV\n40, -124 KK6RKY\n45.5, -122.75 K7EMI\n38.9, -94.68333 WA4AFJ\n45.5, -122.83333 WQ3U\n41.57083, -90.60833 K0SRL\n38.66667, -121.33333 K7QDX\n39.5, -121.58333 KF6EWO\n45.4375, -122.525 N7FJC\n37.76667, -122.275 NB6GC\n37.33333, -122.25 W6ARA\n38.66667, -121.41667 KK6DOA\n45.54167, -122.66667 K7VIT"
+      },
+      "date": 1564273028527
+    },
+    {
+      "type": "edit",
+      "id": "e0a905d70354e6be",
+      "item": {
+        "type": "map",
+        "id": "e0a905d70354e6be",
+        "text": "40.875, -111.91667 N2DME\n32.4875, -96.99167 WR5AY\n42, -82 VA3HP\n32, -108 WD5COV\n30, -100 KK7WE\n33, -98 N5TJ\n45, -124 K9RL\n45.51667, -122.86667 K7OVM\n45.51667, -122.85 AC7FD\n49.72083, -112.825 VE6NX\n44.52083, -103.875 K7RE\n39.21667, -105.8 WB4CIW\n45.00833, -93.34167 KC9LFD\n44.52083, -103.875 K7RE\n37.625, -113.16667 K7HDX\n33.08333, -117.33333 AK6R\n45.45833, -122.7 KI7G\n39.21667, -105.8 WB4CIW\n47.62917, -97.45 KD0UNI\n39.37917, -101.04167 K0FJ\n37.72917, -121.425 N6ZDH\n38.7, -121.08333 AF6SA\n34.375, -117.66667 AF6O\n34.08333, -116.41667 WO6C\n37.76667, -122.275 KA7QQV\n42.20833, -88.10833 K9IJ\n37.90833, -122.075 KI6MOI\n31, -104 KD5SYI\n39, -86 K4PKM\n41.2625, -93.56667 K2DSW\n33.875, -117.58333 NC6V\n33, -114 WA0KDS\n33, -95.16667 W5RYA\n35.38333, -119.175 KB6JFL\n42.20833, -88.10833 K9IJ\n37.20833, -122.08333 W6DR\n45.51667, -122.86667 K7OVM\n34.06667, -118.26667 KE6PLA\n34.66667, -112.41667 WB9VGJ\n37.375, -121.775 W6CYX\n40.55833, -111.725 KR7V\n40.5625, -111.93333 WA7RCT\n39.45833, -119.83333 KA6JLT\n41.625, -81.41667 K8BL\n37.375, -122.16667 NS6E\n32.45833, -110.91667 K7CTV\n34.66667, -112.41667 WB9VGJ\n35.79167, -106.25 WD8LJP\n37.29167, -122.08333 K6KQV\n43.625, -112.08333 KR7LD\n37.12917, -113.49167 W7CXX\n37.375, -122.16667 NS6E\n37.66667, -121.41667 N6TCE\n46, -104 KM6GUO\n45.47917, -122.56667 KF7WRS\n39.66667, -104.91667 KD0NTU\n37.66667, -121.83333 KJ6J\n37.95833, -122.08333 WZ6L\n46, -104 KM6GUO\n38.20833, -120.41667 WA6ZTY\n41.6875, -87.825 KZ9DX\n41.25, -82.58333 KE8M\n32.08333, -110.83333 W7WIA\n33.6, -112.28333 NC7L\n33.66667, -112.41667 KB7AX\n33.2375, -111.7 N6OPR\n40.45833, -109.58333 K7SWT\n33.06667, -116.83333 KF6JXM\n32.91667, -96.75 W5ZZT\n32.25, -101.5 W5SDM\n44.95833, -93.5 K0HB\n43.06667, -89.46667 W9AV\n32.29167, -97.41667 W5PPR\n32.1125, -110.80833 NL7D\n48, -116 AE7AA\n40.75, -80.41667 K3SOM\n39.125, -84.58333 N1A\n30.55833, -97.86667 K5CGH\n42.53333, -83.775 W8VS\n34.49167, -114.28333 K9WZB\n32.5375, -94.94167 W5MSM\n35.20833, -111.5 KD7RF\n32.4, -98.175 KG5HTH\n42.33333, -87.91667 N9SU\n42.87917, -87.89167 N0IMJ\n32.70833, -117.08333 N6RVI\n42.0625, -91.775 W0WP\n42.16667, -88 KC9IL\n36.29583, -95.80833 K5LAD\n38.00833, -121.91667 N6SPP\n43.71667, -116.49167 K0PON\n45.36667, -122.65 KX7F\n40.36667, -105.525 AE0JM\n47.79167, -116.91667 KK7X\n49.625, -112.91667 VE6CV\n49.2625, -124.81667 VE7SA\n41.08333, -112 KE7DOA\n37.26667, -122.28333 KM6DOV\n39, -120 W7VY\n44.58333, -93.16667 K0TT\n37.625, -122.5 W6AER\n37.9625, -121.96667 ND6H\n40, -124 KK6RKY\n45.5, -122.75 K7EMI\n38.9, -94.68333 WA4AFJ\n45.5, -122.83333 WQ3U\n41.57083, -90.60833 K0SRL\n38.66667, -121.33333 K7QDX\n39.5, -121.58333 KF6EWO\n45.4375, -122.525 N7FJC\n37.76667, -122.275 NB6GC\n37.33333, -122.25 W6ARA\n38.66667, -121.41667 KK6DOA\n45.54167, -122.66667 K7VIT\n39.04167, -90.83333 KE0TLC\n45.52917, -122.6 N7IMB\n45.54167, -122.83333 KK7ER\n39.45833, -86.25 K9IG\n38.20833, -104.75 KY0R\n33.79167, -118.33333 KK6KC\n38.87917, -89.4 W9KXQ\n33.725, -117.975 KF6LYF\n41.75833, -88.15 AA9JS\n48.05, -122.14167 KB7GUH\n40.2875, -111.725 KJ7BES\n32.99583, -96.80833 KG5RJ\n45.45833, -122.91667 W7SO\n32.71667, -97.16667 KG5ZMG\n30.20833, -97.8 KG5JKU\n39.66667, -87.41667 KD1DT\n32.83333, -96.33333 AG5PC\n36, -120 N6GAT\n35.7, -81.075 AA4MY\n33.95833, -80.5 KM4PFF\n40.625, -89.75 N9XHN\n44.83333, -91.5 AC9JU\n38.55833, -94.2 KI0I\n35.47917, -97.26667 KF5WRU\n45.79167, -122.5 WA6NFJ\n38.54167, -122.66667 N6OJ\n44.08333, -103.33333 K0JV\n42.04167, -91.66667 K8OM\n41.66667, -94.49167 KE0STT"
+      },
+      "date": 1566173207586
+    },
+    {
+      "type": "add",
+      "id": "ea0255af55ff6fd2",
+      "item": {
+        "type": "paragraph",
+        "id": "ea0255af55ff6fd2",
+        "text": "See [[K9OX FT8 Maps]]"
+      },
+      "after": "67d28cd78fce43b3",
+      "date": 1566173359791
+    },
+    {
+      "type": "remove",
+      "id": "ca4f04495045c7bc",
+      "date": 1566173380216
+    },
+    {
+      "type": "remove",
+      "id": "e0a905d70354e6be",
+      "date": 1566173395918
+    },
+    {
+      "type": "edit",
+      "id": "deaec1896e6ed29d",
+      "item": {
+        "type": "frame",
+        "id": "deaec1896e6ed29d",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/log.html\nHEIGHT 300"
+      },
+      "date": 1566173423375
+    },
+    {
+      "type": "remove",
+      "id": "a2a46a0e405f862a",
+      "date": 1566178298140
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload log from pc to view here with javascript. Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "after": "ea0255af55ff6fd2",
+      "id": "a2a46a0e405f862a",
+      "date": 1566178340302
+    },
+    {
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "deaec1896e6ed29d",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "14d90bc34cb1878b",
+        "1befbd504708d8ad"
+      ],
+      "id": "a2a46a0e405f862a",
+      "date": 1566178354208
+    },
+    {
+      "type": "remove",
+      "id": "14d90bc34cb1878b",
+      "date": 1567560187843
+    },
+    {
+      "type": "remove",
+      "id": "1befbd504708d8ad",
+      "date": 1567560192322
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "28271886d1ef199e"
+      },
+      "id": "28271886d1ef199e",
+      "type": "add",
+      "after": "fc3e968ade0a4123",
+      "date": 1569210933019
+    },
+    {
+      "type": "edit",
+      "id": "28271886d1ef199e",
+      "item": {
+        "type": "frame",
+        "id": "28271886d1ef199e",
+        "text": "http://found.ward.bay.wiki.org/assets/pages/k9ox-ft8-log/timecard.html\nHEIGHT 300"
+      },
+      "date": 1569210939346
+    },
+    {
+      "type": "add",
+      "id": "ae8ee51884c130ea",
+      "item": {
+        "type": "paragraph",
+        "id": "ae8ee51884c130ea",
+        "text": "We count contacts by hour of the day, utc."
+      },
+      "after": "a2a46a0e405f862a",
+      "date": 1569212119705
+    },
+    {
+      "id": "ae8ee51884c130ea",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "deaec1896e6ed29d",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "ae8ee51884c130ea",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123",
+        "28271886d1ef199e"
+      ],
+      "date": 1569212124460
+    },
+    {
+      "id": "28271886d1ef199e",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "deaec1896e6ed29d",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "ae8ee51884c130ea",
+        "28271886d1ef199e",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569212300059
+    },
+    {
+      "type": "add",
+      "id": "04352b4074730b84",
+      "item": {
+        "type": "paragraph",
+        "id": "04352b4074730b84",
+        "text": "See [["
+      },
+      "after": "5f035f8df254cc6a",
+      "date": 1569704639301
+    },
+    {
+      "type": "edit",
+      "id": "04352b4074730b84",
+      "item": {
+        "type": "paragraph",
+        "id": "04352b4074730b84",
+        "text": "See [[K9OX FT8 Stats]]"
+      },
+      "date": 1569704661927
+    },
+    {
+      "id": "5f035f8df254cc6a",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "deaec1896e6ed29d",
+        "04352b4074730b84",
+        "5f035f8df254cc6a",
+        "dd0f1dec83e5967a",
+        "ae8ee51884c130ea",
+        "28271886d1ef199e",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569704715178
+    },
+    {
+      "id": "5f035f8df254cc6a",
+      "type": "remove",
+      "date": 1569704741338
+    },
+    {
+      "id": "dd0f1dec83e5967a",
+      "type": "remove",
+      "date": 1569704844161
+    },
+    {
+      "id": "ae8ee51884c130ea",
+      "type": "remove",
+      "date": 1569704865889
+    },
+    {
+      "id": "28271886d1ef199e",
+      "type": "remove",
+      "date": 1569704870464
+    },
+    {
+      "id": "deaec1896e6ed29d",
+      "type": "remove",
+      "date": 1569705249009
+    },
+    {
+      "id": "04352b4074730b84",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "a2a46a0e405f862a",
+        "04352b4074730b84",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569705267879
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload log from pc to view here with javascript."
+      },
+      "date": 1569705980733
+    },
+    {
+      "type": "add",
+      "id": "923e636a4e34b442",
+      "item": {
+        "type": "paragraph",
+        "id": "923e636a4e34b442",
+        "text": "Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "after": "a2a46a0e405f862a",
+      "date": 1569705983237
+    },
+    {
+      "id": "04352b4074730b84",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "ea0255af55ff6fd2",
+        "a2a46a0e405f862a",
+        "04352b4074730b84",
+        "923e636a4e34b442",
+        "81fc31fd98fe0fc2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569705991100
+    },
+    {
+      "type": "remove",
+      "id": "04352b4074730b84",
+      "date": 1569705995915
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload log from pc to view elsewhere. See [[K9OX FT8 Stats]]"
+      },
+      "date": 1569706018210
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "We upload log from pc for other views. See [[K9OX FT8 Stats]]"
+      },
+      "date": 1569706042545
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "See [[K9OX FT8 Stats]]"
+      },
+      "date": 1569706082032
+    },
+    {
+      "id": "ea0255af55ff6fd2",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "a2a46a0e405f862a",
+        "923e636a4e34b442",
+        "81fc31fd98fe0fc2",
+        "ea0255af55ff6fd2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569706088863
+    },
+    {
+      "id": "923e636a4e34b442",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "a2a46a0e405f862a",
+        "81fc31fd98fe0fc2",
+        "ea0255af55ff6fd2",
+        "923e636a4e34b442",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569706093057
+    },
+    {
+      "type": "edit",
+      "id": "67d28cd78fce43b3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d28cd78fce43b3",
+        "text": "The WSJT-X application creates a variety of logs. Here we upload the log kept in ADIF format for use elsewhere."
+      },
+      "date": 1569706213189
+    },
+    {
+      "type": "add",
+      "id": "928f1b8282e74f7b",
+      "item": {
+        "type": "paragraph",
+        "id": "928f1b8282e74f7b",
+        "text": "Time in utc, loc in maidenhead, signal in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]"
+      },
+      "after": "67d28cd78fce43b3",
+      "date": 1569706217260
+    },
+    {
+      "id": "81fc31fd98fe0fc2",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "81fc31fd98fe0fc2",
+        "928f1b8282e74f7b",
+        "a2a46a0e405f862a",
+        "ea0255af55ff6fd2",
+        "923e636a4e34b442",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569706228922
+    },
+    {
+      "type": "remove",
+      "id": "923e636a4e34b442",
+      "date": 1569706423295
+    },
+    {
+      "type": "edit",
+      "id": "ea0255af55ff6fd2",
+      "item": {
+        "type": "paragraph",
+        "id": "ea0255af55ff6fd2",
+        "text": "See [[K9OX FT8 Maps]] Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "date": 1569706426606
+    },
+    {
+      "id": "928f1b8282e74f7b",
+      "type": "move",
+      "order": [
+        "67d28cd78fce43b3",
+        "81fc31fd98fe0fc2",
+        "a2a46a0e405f862a",
+        "928f1b8282e74f7b",
+        "ea0255af55ff6fd2",
+        "f20c0b2bf38d630c",
+        "fc3e968ade0a4123"
+      ],
+      "date": 1569706436515
+    },
+    {
+      "type": "remove",
+      "id": "ea0255af55ff6fd2",
+      "date": 1569706442277
+    },
+    {
+      "type": "edit",
+      "id": "928f1b8282e74f7b",
+      "item": {
+        "type": "paragraph",
+        "id": "928f1b8282e74f7b",
+        "text": "Time in utc, loc in maidenhead, signal in db. [https://en.wikipedia.org/wiki/Maidenhead_Locator_System wikipedia]."
+      },
+      "date": 1569706485318
+    },
+    {
+      "type": "add",
+      "id": "39a2a4bde32eb5c1",
+      "item": {
+        "type": "paragraph",
+        "id": "39a2a4bde32eb5c1",
+        "text": "See [[K9OX FT8 Maps]]"
+      },
+      "after": "928f1b8282e74f7b",
+      "date": 1569706502284
+    },
+    {
+      "type": "add",
+      "id": "065572bb75129099",
+      "item": {
+        "type": "paragraph",
+        "id": "065572bb75129099",
+        "text": "Also join with callbook from [[K9OX QSL Log]]."
+      },
+      "after": "39a2a4bde32eb5c1",
+      "date": 1569706503658
+    },
+    {
+      "type": "edit",
+      "id": "a2a46a0e405f862a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a46a0e405f862a",
+        "text": "See [[K9OX FT8 Stats]], [[FT8 Stats]]"
+      },
+      "date": 1569851444001
+    },
+    {
+      "type": "fork",
+      "site": "found.ward.bay.wiki.org",
+      "date": 1613246578263
+    }
+  ]
+}
